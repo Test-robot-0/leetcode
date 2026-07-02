@@ -4,7 +4,7 @@
 ### Statistics
 
 
-|Total Solved| 17 |
+|Total       | 18 |
 |------------|---------|
 |Easy        | 14  |
 |Medium      | 5|
@@ -28,6 +28,7 @@ Automatically synchronized from LeetCode.
 | 6 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
 | 11 | 0561 | [Array Partition](Easy/0561_array-partition) | Easy | Java | 2306 ms | 47.5 MB | [Link!](https://leetcode.com/problems/array-partition) |
 | 1 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
+| 18 | 0744 | [Find Smallest Letter Greater Than Target](Easy/0744_find-smallest-letter-greater-than-target) | Easy | Java | 0 ms | 46.5 MB | [Link!](https://leetcode.com/problems/find-smallest-letter-greater-than-target) |
 | 4 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
 | 17 | 1672 | [Richest Customer Wealth](Easy/1672_richest-customer-wealth) | Easy | Java | 0 ms | 44.6 MB | [Link!](https://leetcode.com/problems/richest-customer-wealth) |
 | 16 | 1732 | [Find the Highest Altitude](Easy/1732_find-the-highest-altitude) | Easy | Java | 0 ms | 43.2 MB | [Link!](https://leetcode.com/problems/find-the-highest-altitude) |
