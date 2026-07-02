@@ -49,12 +49,13 @@
 
 <h3> Activity</h3>
 
-| Metric          | Value          |
-|-----------------|---------------:|
-| Last Sync       | **2026-07-02** |  
-| Latest Problem  | **852**  |
+| Metric          | Value              |
+|-----------------|-------------------:|
 | Runtime Avg     | **146.15 ms**  |
 | Memory Avg      | **35.25 MB**   |
+| Latest Problem  | **852**  |
+| Last Sync       | **2026-07-02** |  
+
 
 </td>
 </tr>
