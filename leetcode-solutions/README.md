@@ -10,6 +10,7 @@ Automatically synchronized from LeetCode.
 | 26 | [Remove Duplicates from Sorted Array](Easy/0026_remove-duplicates-from-sorted-array) | Easy | Java | 1 ms | 47 MB |
 | 34 | [Find First and Last Position of Element in Sorted Array](Medium/0034_find-first-and-last-position-of-element-in-sorted-array) | Medium | Java | 0 ms | 48.2 MB |
 | 66 | [Plus One](Easy/0066_plus-one) | Easy | Java | 0 ms | 43.5 MB |
+| 88 | [Merge Sorted Array](Easy/0088_merge-sorted-array) | Easy | Java | 1 ms | 44 MB |
 | 125 | [Valid Palindrome](Easy/0125_valid-palindrome) | Easy | Python3 | 11 ms | 19.7 MB |
 | 412 | [Fizz Buzz](Easy/0412_fizz-buzz) | Easy | Python3 | 3 ms | 19.6 MB |
 | 561 | [Array Partition](Easy/0561_array-partition) | Easy | Java | 2306 ms | 47.5 MB |
