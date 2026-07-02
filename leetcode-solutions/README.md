@@ -9,6 +9,7 @@ Automatically synchronized from LeetCode.
 | 9 | [Palindrome Number](Easy/0009_palindrome-number) | Easy | C++ | 2 ms | 8.5 MB |
 | 26 | [Remove Duplicates from Sorted Array](Easy/0026_remove-duplicates-from-sorted-array) | Easy | Java | 1 ms | 47 MB |
 | 34 | [Find First and Last Position of Element in Sorted Array](Medium/0034_find-first-and-last-position-of-element-in-sorted-array) | Medium | Java | 0 ms | 48.2 MB |
+| 35 | [Search Insert Position](Easy/0035_search-insert-position) | Easy | Java | 0 ms | 44.7 MB |
 | 66 | [Plus One](Easy/0066_plus-one) | Easy | Java | 0 ms | 43.5 MB |
 | 88 | [Merge Sorted Array](Easy/0088_merge-sorted-array) | Easy | Java | 1 ms | 44 MB |
 | 125 | [Valid Palindrome](Easy/0125_valid-palindrome) | Easy | Python3 | 11 ms | 19.7 MB |
