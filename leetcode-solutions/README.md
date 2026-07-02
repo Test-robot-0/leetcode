@@ -3,10 +3,11 @@
 
 ### Statistics
 
-- Total Solved: **12**
-- Easy: **14**
-- Medium: **5**
-- Hard: **0**
+
+|Total Solved| **13**  |
+|Easy        | **14**   |
+|Medium      | **5** |
+|Hard        | **0**   |
 
 
 
@@ -19,6 +20,7 @@ Automatically synchronized from LeetCode.
 | 9 | 0026 | [Remove Duplicates from Sorted Array](Easy/0026_remove-duplicates-from-sorted-array) | Easy | Java | 1 ms | 47 MB | [Link!](https://leetcode.com/problems/remove-duplicates-from-sorted-array) |
 | 3 | 0034 | [Find First and Last Position of Element in Sorted Array](Medium/0034_find-first-and-last-position-of-element-in-sorted-array) | Medium | Java | 0 ms | 48.2 MB | [Link!](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) |
 | 8 | 0066 | [Plus One](Easy/0066_plus-one) | Easy | Java | 0 ms | 43.5 MB | [Link!](https://leetcode.com/problems/plus-one) |
+| 13 | 0088 | [Merge Sorted Array](Easy/0088_merge-sorted-array) | Easy | Java | 1 ms | 44 MB | [Link!](https://leetcode.com/problems/merge-sorted-array) |
 | 5 | 0125 | [Valid Palindrome](Easy/0125_valid-palindrome) | Easy | Python3 | 11 ms | 19.7 MB | [Link!](https://leetcode.com/problems/valid-palindrome) |
 | 6 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
 | 11 | 0561 | [Array Partition](Easy/0561_array-partition) | Easy | Java | 2306 ms | 47.5 MB | [Link!](https://leetcode.com/problems/array-partition) |
