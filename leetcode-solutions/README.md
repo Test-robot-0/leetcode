@@ -51,10 +51,10 @@
 
 | Metric          | Value          |
 |-----------------|---------------:|
-| Last Sync       | 2026-07-02 |  
-| Latest Problem  | 852  |
-| Runtime Avg     | 146.15 ms  |
-| Memory Avg      | 35.25 MB   |
+| Last Sync       | **2026-07-02** |  
+| Latest Problem  | **852**  |
+| Runtime Avg     | **146.15 ms**  |
+| Memory Avg      | **35.25 MB**   |
 
 </td>
 </tr>
