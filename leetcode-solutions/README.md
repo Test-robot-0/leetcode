@@ -49,12 +49,12 @@
 
 <h3> Activity</h3>
 
-| Metric          | Value        |
-|-----------------|-------------:|
-| Last Sync       | <built-in method today of type object at 0xa3e900> |  
-| Latest Problem  | 852|
-| Total Commits   | 19         |
-| Repository Size |              |
+| Metric          | Value          |
+|-----------------|---------------:|
+| Last Sync       | 2026-07-02 |  
+| Latest Problem  | 852  |
+| Total Commits   | 19           |
+| Repository Size |                |
 
 </td>
 </tr>
