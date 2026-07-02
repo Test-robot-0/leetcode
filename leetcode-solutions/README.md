@@ -3,13 +3,6 @@
 
 ### Statistics
 
-| Metric | Count |
-|-------|-------------:|
-|Total  | **15** |
-|Easy   | **11**  |
-|Medium | **4**|
-|Hard   | **0**  |
-
 <table>
 <tr>
 <td valign="top">
@@ -18,8 +11,8 @@
 
 | Metric | Count |
 |-------|-------------:|
-|Total  | **15**  |
-|Easy   | **11**   |
+|Total  | **16**  |
+|Easy   | **12**   |
 |Medium | **4** |
 |Hard   | **0**   |
 
@@ -31,7 +24,7 @@
 
 | Language | Count |
 |----------|------:|
-| Java | 8 |
+| Java | 9 |
  | Python3 | 6 |
 | C++ | 1 |
 
@@ -44,7 +37,7 @@
 
 | Topic | Count |
 |-------|------:|
-| Array | 11 |
+| Array | 12 |
  | Math | 5 |
 | Binary Search | 3 |
 | Two Pointers | 3 |
@@ -73,7 +66,8 @@ Automatically synchronized from LeetCode.
 | 11 | 0561 | [Array Partition](Easy/0561_array-partition) | Easy | Java | 2306 ms | 47.5 MB | [Link!](https://leetcode.com/problems/array-partition) |
 | 12 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
 | 13 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
-| 14 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
-| 15 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 14 | 1732 | [Find the Highest Altitude](Easy/1732_find-the-highest-altitude) | Easy | Java | 0 ms | 43.2 MB | [Link!](https://leetcode.com/problems/find-the-highest-altitude) |
+| 15 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
+| 16 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 
 
