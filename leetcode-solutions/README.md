@@ -4,57 +4,20 @@
 ### Statistics
 
 
-|Total  | **9** |
+|Total  | **10** |
 |-------|-------------|
-|Easy   | **6**  |
+|Easy   | **7**  |
 |Medium | **3**|
 |Hard   | **0**  |
 
-<table width="100%">
-<tr>
+## 📊 Dashboard
 
-<td width="33%" valign="top">
-
-<h3>📊 Statistics</h3>
-
-<table>
-<tr><th>Metric</th><th>Count</th></tr>
-<tr><td>Total</td><td>120</td></tr>
-<tr><td>Easy</td><td>60</td></tr>
-<tr><td>Medium</td><td>45</td></tr>
-<tr><td>Hard</td><td>15</td></tr>
-</table>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3>💻 Languages</h3>
-
-<table>
-<tr><th>Language</th><th>Count</th></tr>
-<tr><td>Java</td><td>75</td></tr>
-<tr><td>Python</td><td>30</td></tr>
-<tr><td>C++</td><td>15</td></tr>
-</table>
-
-</td>
-
-<td width="34%" valign="top">
-
-<h3>🏷️ Top Topics</h3>
-
-<table>
-<tr><th>Topic</th><th>Count</th></tr>
-<tr><td>Array</td><td>45</td></tr>
-<tr><td>DP</td><td>20</td></tr>
-<tr><td>Graph</td><td>12</td></tr>
-</table>
-
-</td>
-
-</tr>
-</table>
+| 📊 Statistics | 💻 Languages | 🏷️ Top Topics |
+|---------------|--------------|----------------|
+| Total: **120** | Java: **75** | Array: **45** |
+| Easy: **60** | Python: **30** | Hash Table: **28** |
+| Medium: **45** | C++: **15** | DP: **20** |
+| Hard: **15** | | Graph: **12** |
 
 
 Automatically synchronized from LeetCode.
@@ -69,6 +32,7 @@ Automatically synchronized from LeetCode.
 | 6 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
 | 7 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
 | 8 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
-| 9 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 9 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
+| 10 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 
 
