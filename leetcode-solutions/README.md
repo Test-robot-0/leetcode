@@ -3,8 +3,8 @@
 
 ### Statistics
 
-
-|Total Solved| **13**  |
+|------------|--------------|
+|Total Solved| **14**  |
 |Easy        | **14**   |
 |Medium      | **5** |
 |Hard        | **0**   |
@@ -22,6 +22,7 @@ Automatically synchronized from LeetCode.
 | 8 | 0066 | [Plus One](Easy/0066_plus-one) | Easy | Java | 0 ms | 43.5 MB | [Link!](https://leetcode.com/problems/plus-one) |
 | 13 | 0088 | [Merge Sorted Array](Easy/0088_merge-sorted-array) | Easy | Java | 1 ms | 44 MB | [Link!](https://leetcode.com/problems/merge-sorted-array) |
 | 5 | 0125 | [Valid Palindrome](Easy/0125_valid-palindrome) | Easy | Python3 | 11 ms | 19.7 MB | [Link!](https://leetcode.com/problems/valid-palindrome) |
+| 14 | 0162 | [Find Peak Element](Medium/0162_find-peak-element) | Medium | Java | 0 ms | 44.4 MB | [Link!](https://leetcode.com/problems/find-peak-element) |
 | 6 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
 | 11 | 0561 | [Array Partition](Easy/0561_array-partition) | Easy | Java | 2306 ms | 47.5 MB | [Link!](https://leetcode.com/problems/array-partition) |
 | 1 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
