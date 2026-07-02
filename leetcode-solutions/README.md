@@ -19,6 +19,7 @@ Automatically synchronized from LeetCode.
 | 0852 | [Peak Index in a Mountain Array](Medium/0852_peak-index-in-a-mountain-array) | Medium | Java | 0 ms | 80.4 MB |
 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | Easy | Python3 | 0 ms | 19.2 MB |
 | 1672 | [Richest Customer Wealth](Easy/1672_richest-customer-wealth) | Easy | Java | 0 ms | 44.6 MB |
+| 1732 | [Find the Highest Altitude](Easy/1732_find-the-highest-altitude) | Easy | Java | 0 ms | 43.2 MB |
 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | Easy | Python3 | 2 ms | 19.4 MB |
 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | Medium | Python3 | 276 ms | 19.2 MB |
 
