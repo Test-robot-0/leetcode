@@ -47,12 +47,14 @@
 
 <td valign="top">
 
-<h3> Stats</h3>
+<h3> Activity</h3>
 
-| Metric    | Average     |
-|-----------|------------:|
-|Runtime Avg|**146.15 ms**|
-|Memory Avg |**35.25 MB**|
+| Metric          | Value        |
+|-----------------|-------------:|
+| Last Sync       | <built-in method today of type object at 0xa3e900> |  
+| Latest Problem  | 852|
+| Total Commits   | 19         |
+| Repository Size |              |
 
 </td>
 </tr>
