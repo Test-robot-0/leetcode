@@ -5,8 +5,8 @@
 
 | Metric | Count |
 |-------|-------------:|
-|Total  | **9** |
-|Easy   | **6**  |
+|Total  | **10** |
+|Easy   | **7**  |
 |Medium | **3**|
 |Hard   | **0**  |
 
@@ -18,8 +18,8 @@
 
 | Metric | Count |
 |-------|-------------:|
-|Total  | **9**  |
-|Easy   | **6**   |
+|Total  | **10**  |
+|Easy   | **7**   |
 |Medium | **3** |
 |Hard   | **0**   |
 
@@ -31,7 +31,7 @@
 
 | Language | Count |
 |----------|------:|
-| Python3 | 5 |
+| Python3 | 6 |
  | Java | 3 |
 | C++ | 1 |
 
@@ -44,7 +44,7 @@
 
 | Topic | Count |
 |-------|------:|
-| Array | 5 |
+| Array | 6 |
  | Math | 5 |
 | Simulation | 2 |
 | Two Pointers | 2 |
@@ -68,6 +68,7 @@ Automatically synchronized from LeetCode.
 | 6 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
 | 7 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
 | 8 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
-| 9 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 9 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
+| 10 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 
 
