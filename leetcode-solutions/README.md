@@ -3,10 +3,10 @@
 
 ### Statistics
 
-- Total Solved: **11**
+- Total Solved: **12**
 - Easy: **14**
-- Medium: **14**
-- Hard: **14**
+- Medium: **5**
+- Hard: **0**
 
 
 
@@ -14,6 +14,7 @@ Automatically synchronized from LeetCode.
 
 | # | Id | Problem | Difficulty | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|------------|----------|---------|--------|:-------------:|
+| 12 | 0001 | [Two Sum](Easy/0001_two-sum) | Easy | Java | 44 ms | 45 MB | [Link!](https://leetcode.com/problems/two-sum) |
 | 2 | 0009 | [Palindrome Number](Easy/0009_palindrome-number) | Easy | C++ | 2 ms | 8.5 MB | [Link!](https://leetcode.com/problems/palindrome-number) |
 | 9 | 0026 | [Remove Duplicates from Sorted Array](Easy/0026_remove-duplicates-from-sorted-array) | Easy | Java | 1 ms | 47 MB | [Link!](https://leetcode.com/problems/remove-duplicates-from-sorted-array) |
 | 3 | 0034 | [Find First and Last Position of Element in Sorted Array](Medium/0034_find-first-and-last-position-of-element-in-sorted-array) | Medium | Java | 0 ms | 48.2 MB | [Link!](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) |
