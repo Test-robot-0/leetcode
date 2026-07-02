@@ -4,41 +4,20 @@
 ### Statistics
 
 
-|Total  | **6** |
+|Total  | **7** |
 |-------|-------------|
 |Easy   | **4**  |
-|Medium | **2**|
+|Medium | **3**|
 |Hard   | **0**  |
 
-<table width="100%">
-<tr>
-
-<td width="33%" valign="top">
-
-### 📊 Statistics
-
-...
-
-</td>
-
-<td width="33%" valign="top">
-
-### 💻 Languages
-
-...
-
-</td>
-
-<td width="34%" valign="top">
-
-### 🏷️ Top Topics
-
-...
-
-</td>
-
-</tr>
-</table>
+----------------------------------------------------------
+| Statistics | Languages | Top Topics |
+----------------------------------------------------------
+| Total 120  | Java 75   | Array 45   |
+| Easy 60    | Python30  | DP 20      |
+| Medium45   | C++15     | Graph12    |
+| Hard15     |           | Tree10     |
+----------------------------------------------------------
 
 
 Automatically synchronized from LeetCode.
@@ -51,5 +30,6 @@ Automatically synchronized from LeetCode.
 | 4 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
 | 5 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
 | 6 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
+| 7 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 
 
