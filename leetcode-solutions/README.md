@@ -24,7 +24,7 @@
 
 | Topic | Count |
 |-------|------:|
-| Array | 15 |
+| Array | **15** |
 | Math | **5** |
 | Binary Search | **5** |
 | Two Pointers | **3** |
@@ -38,7 +38,7 @@
 
 | Language | Count |
 |----------|------:|
-| Java | 12 |
+| Java | **12** |
 | Python3 | **6** |
 | C++ | **1** |
 
