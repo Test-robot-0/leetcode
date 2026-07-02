@@ -15,6 +15,7 @@ Automatically synchronized from LeetCode.
 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | Easy | Python3 | 3 ms | 19.6 MB |
 | 0561 | [Array Partition](Easy/0561_array-partition) | Easy | Java | 2306 ms | 47.5 MB |
 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | Medium | Python3 | 277 ms | 20.4 MB |
+| 0852 | [Peak Index in a Mountain Array](Medium/0852_peak-index-in-a-mountain-array) | Medium | Java | 0 ms | 80.4 MB |
 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | Easy | Python3 | 0 ms | 19.2 MB |
 | 1672 | [Richest Customer Wealth](Easy/1672_richest-customer-wealth) | Easy | Java | 0 ms | 44.6 MB |
 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | Easy | Python3 | 2 ms | 19.4 MB |
