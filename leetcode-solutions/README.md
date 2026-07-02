@@ -4,9 +4,9 @@
 ### Statistics
 
 
-|Total  | **3** |
+|Total  | **4** |
 |-------|-------------|
-|Easy   | **1**  |
+|Easy   | **2**  |
 |Medium | **2**|
 |Hard   | **0**  |
 
@@ -16,8 +16,9 @@ Automatically synchronized from LeetCode.
 
 | # | Id | Problem | Difficulty | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|------------|----------|---------|--------|:-------------:|
-| 0 | 0009 | [Palindrome Number](Easy/0009_palindrome-number) | Easy | C++ | 2 ms | 8.5 MB | [Link!](https://leetcode.com/problems/palindrome-number) |
-| 1 | 0034 | [Find First and Last Position of Element in Sorted Array](Medium/0034_find-first-and-last-position-of-element-in-sorted-array) | Medium | Java | 0 ms | 48.2 MB | [Link!](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) |
-| 2 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
+| 1 | 0009 | [Palindrome Number](Easy/0009_palindrome-number) | Easy | C++ | 2 ms | 8.5 MB | [Link!](https://leetcode.com/problems/palindrome-number) |
+| 2 | 0034 | [Find First and Last Position of Element in Sorted Array](Medium/0034_find-first-and-last-position-of-element-in-sorted-array) | Medium | Java | 0 ms | 48.2 MB | [Link!](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) |
+| 3 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
+| 4 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
 
 
