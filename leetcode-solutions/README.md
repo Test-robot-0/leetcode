@@ -5,6 +5,7 @@ Automatically synchronized from LeetCode.
 
 | # | Problem | Difficulty | Language | Runtime | Memory |
 |---|---------|------------|----------|---------|--------|
+| 0001 | [Two Sum](Easy/0001_two-sum) | Easy | Java | 44 ms | 45 MB |
 | 0009 | [Palindrome Number](Easy/0009_palindrome-number) | Easy | C++ | 2 ms | 8.5 MB |
 | 0034 | [Find First and Last Position of Element in Sorted Array](Medium/0034_find-first-and-last-position-of-element-in-sorted-array) | Medium | Java | 0 ms | 48.2 MB |
 | 0125 | [Valid Palindrome](Easy/0125_valid-palindrome) | Easy | Python3 | 11 ms | 19.7 MB |
