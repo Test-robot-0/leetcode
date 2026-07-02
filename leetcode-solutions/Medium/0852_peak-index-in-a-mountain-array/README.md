@@ -3,13 +3,13 @@
 
 ## Info
 
-|Property|Value|
-|--------|-----|
-|"Problem ID"|852|
-|"Difficulty"|Medium|
-|"Language"|Java|
-|"Runtime"|0 ms|
-|"Memory"|80.4 MB|
+|Property   |Value        |
+|-----------|-------------|
+|Problem ID |852|
+|Difficulty |Medium |
+|Language   |Java   |
+|Runtime    |0 ms    |
+|Memory     |80.4 MB     |
 
 ## Tags
 
