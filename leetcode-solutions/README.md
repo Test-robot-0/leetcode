@@ -7,6 +7,7 @@ Automatically synchronized from LeetCode.
 |---|---------|------------|----------|---------|--------|
 | 0001 | [Two Sum](Easy/0001_two-sum) | Easy | Java | 44 ms | 45 MB |
 | 0009 | [Palindrome Number](Easy/0009_palindrome-number) | Easy | C++ | 2 ms | 8.5 MB |
+| 0026 | [Remove Duplicates from Sorted Array](Easy/0026_remove-duplicates-from-sorted-array) | Easy | Java | 1 ms | 47 MB |
 | 0034 | [Find First and Last Position of Element in Sorted Array](Medium/0034_find-first-and-last-position-of-element-in-sorted-array) | Medium | Java | 0 ms | 48.2 MB |
 | 0125 | [Valid Palindrome](Easy/0125_valid-palindrome) | Easy | Python3 | 11 ms | 19.7 MB |
 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | Easy | Python3 | 3 ms | 19.6 MB |
