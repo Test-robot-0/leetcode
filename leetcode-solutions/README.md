@@ -13,6 +13,7 @@ Automatically synchronized from LeetCode.
 | 66 | [Plus One](Easy/0066_plus-one) | Easy | Java | 0 ms | 43.5 MB |
 | 88 | [Merge Sorted Array](Easy/0088_merge-sorted-array) | Easy | Java | 1 ms | 44 MB |
 | 125 | [Valid Palindrome](Easy/0125_valid-palindrome) | Easy | Python3 | 11 ms | 19.7 MB |
+| 162 | [Find Peak Element](Medium/0162_find-peak-element) | Medium | Java | 0 ms | 44.4 MB |
 | 412 | [Fizz Buzz](Easy/0412_fizz-buzz) | Easy | Python3 | 3 ms | 19.6 MB |
 | 561 | [Array Partition](Easy/0561_array-partition) | Easy | Java | 2306 ms | 47.5 MB |
 | 735 | [Asteroid Collision](Medium/0735_asteroid-collision) | Medium | Python3 | 277 ms | 20.4 MB |
