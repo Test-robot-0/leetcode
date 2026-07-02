@@ -53,8 +53,8 @@
 |-----------------|---------------:|
 | Last Sync       | 2026-07-02 |  
 | Latest Problem  | 852  |
-| Total Commits   | 19           |
-| Repository Size |                |
+| Runtime Avg     | 146.15 ms  |
+| Memory Avg      | 35.25 MB   |
 
 </td>
 </tr>
