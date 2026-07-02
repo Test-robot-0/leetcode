@@ -3,10 +3,10 @@
 
 ## Statistics
 | Total | Easy | Medium | Hard |
-|-----:|-----:|-------:|-----:|
-|8|14|14|14|
+|:---0-:|:----:|:------:|:----:|
+|9|14|14|14|
 
-- Total Solved: **8**
+- Total Solved: **9**
 - Easy: **14**
 - Medium: **14**
 - Hard: **14**
@@ -18,6 +18,7 @@ Automatically synchronized from LeetCode.
 | # | Id | Problem | Difficulty | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|------------|----------|---------|--------|:-------------:|
 | 2 | 0009 | [Palindrome Number](Easy/0009_palindrome-number) | Easy | C++ | 2 ms | 8.5 MB | [Link!](https://leetcode.com/problems/palindrome-number) |
+| 9 | 0026 | [Remove Duplicates from Sorted Array](Easy/0026_remove-duplicates-from-sorted-array) | Easy | Java | 1 ms | 47 MB | [Link!](https://leetcode.com/problems/remove-duplicates-from-sorted-array) |
 | 3 | 0034 | [Find First and Last Position of Element in Sorted Array](Medium/0034_find-first-and-last-position-of-element-in-sorted-array) | Medium | Java | 0 ms | 48.2 MB | [Link!](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) |
 | 8 | 0066 | [Plus One](Easy/0066_plus-one) | Easy | Java | 0 ms | 43.5 MB | [Link!](https://leetcode.com/problems/plus-one) |
 | 5 | 0125 | [Valid Palindrome](Easy/0125_valid-palindrome) | Easy | Python3 | 11 ms | 19.7 MB | [Link!](https://leetcode.com/problems/valid-palindrome) |
