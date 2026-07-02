@@ -3,8 +3,9 @@
 
 ### Statistics
 
-|------------|--------------|
-|Total Solved| 15 |
+|wefwefiwee  |fwfwf    |
+|------------|---------|
+|Total Solved| 16 |
 |Easy        | 14  |
 |Medium      | 5|
 |Hard        | 0  |
@@ -28,6 +29,7 @@ Automatically synchronized from LeetCode.
 | 11 | 0561 | [Array Partition](Easy/0561_array-partition) | Easy | Java | 2306 ms | 47.5 MB | [Link!](https://leetcode.com/problems/array-partition) |
 | 1 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
 | 4 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
+| 16 | 1732 | [Find the Highest Altitude](Easy/1732_find-the-highest-altitude) | Easy | Java | 0 ms | 43.2 MB | [Link!](https://leetcode.com/problems/find-the-highest-altitude) |
 | 10 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
 | 7 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 
