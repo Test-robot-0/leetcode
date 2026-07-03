@@ -1,7 +1,9 @@
 
 # 412.  Fizz Buzz
 
-[Math] [String] [Simulation]
+![Math](https://img.shields.io/badge/Math-blue)
+![String](https://img.shields.io/badge/String-green)
+![Simulation](https://img.shields.io/badge/Simulation-orange)
 
 ## Info
 
