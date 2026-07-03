@@ -5,6 +5,8 @@
 ![String](https://img.shields.io/badge/String-green)
 ![Simulation](https://img.shields.io/badge/Simulation-orange)
 
+`Math`  `String`  `Simulation`
+
 ## Info
 
 <table>
@@ -14,13 +16,15 @@
 
 <h3> Info</h3>
 
-|Property   |Value        |
-|-----------|-------------|
-|Problem ID |412|
-|Difficulty |Easy |
-|Language   |Python3   |
-|Runtime    |3 ms    |
-|Memory     |19.6 MB     |
+|Property            |Value        |
+|--------------------|-------------|
+|Problem ID          |412|
+|Difficulty          |Easy |
+|Leetcode Link       |[link!](https://leetcode.com/problems/fizz-buzz/description/)
+
+|Solution Language   |Python3   |
+|Runtime             |3 ms    |
+|Memory              |19.6 MB     |
 
 </td>
 
