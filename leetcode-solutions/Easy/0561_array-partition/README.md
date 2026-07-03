@@ -18,8 +18,8 @@
 
 |Property            |Value        |
 |--------------------|-------------|
-|Problem ID          |561|
-|Difficulty          |Easy |
+|Problem ID          |**561**|
+|Difficulty          |**Easy**|
 |Leetcode Link       |[link!](https://leetcode.com/problems/array-partition/description/)
 
 </td>
