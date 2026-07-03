@@ -1,6 +1,7 @@
 
 # 412.  Fizz Buzz
 
+[Math] [String] [Simulation]
 
 ## Info
 
@@ -34,6 +35,7 @@
 
 <td valign="top">
 <h3> Stats</h3>
+
 
 | Metric          | Count                                               |
 |-----------------|----------------------------------------------------:|
