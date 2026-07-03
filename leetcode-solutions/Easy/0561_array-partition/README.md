@@ -7,7 +7,6 @@
 
 `Array`&nbsp;&nbsp;&nbsp;`Greedy`&nbsp;&nbsp;&nbsp;`Sorting`&nbsp;&nbsp;&nbsp;`Counting Sort`
 
-![Array](https://img.shields.io/badge/Array-white)
 
 ## Dashboard
 
@@ -16,7 +15,7 @@
 
 <td valign="top">
 
-<h3> Info</h3>
+<h3> Problem</h3>
 
 |Property            |Value        |
 |--------------------|-------------|
@@ -27,7 +26,7 @@
 </td>
 
 <td valign="top">
-<h3> LeetCode</h3>
+<h3> Community Stats</h3>
 
 
 | Metric          | Count                                               |
