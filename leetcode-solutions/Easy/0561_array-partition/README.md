@@ -32,8 +32,8 @@
 
 | Metric          | Count                         |
 |-----------------|------------------------------:|
-|Total Accepted   |**693K**   |
 |Total Submission |**846.2K** |
+|Total Accepted   |**693K**   |
 |Acceptance Rate  |**81.9%**          |
 
 
@@ -43,8 +43,6 @@
 </tr>
 </table>
 </div>
-
-**Links:** [Question](#Question) [Home](https://github.com/Test-robot-0/leetcode/tree/main/leetcode-solutions)  [Solution](/Solution.java) 
 
 
 ## Question
