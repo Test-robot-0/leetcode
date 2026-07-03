@@ -53,8 +53,8 @@
 |-----------------|-------------------:|
 | Runtime Avg     | **48.33 ms**  |
 | Memory Avg      | **19.33 MB**   |
-| Latest Problem  | [1295](Easy/1295_find-numbers-with-even-number-of-digits)|
-| Last Sync       | **2026-07-03** |  
+| Latest Problem  | [412](Easy/0412_fizz-buzz)|
+| Last Sync       | **2026-07-04** |  
 
 
 </td>
