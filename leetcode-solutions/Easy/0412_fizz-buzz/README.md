@@ -1,12 +1,8 @@
 
 # 412.  Fizz Buzz
 
-🟢 Easy&nbsp;&nbsp;&nbsp;⚙️ Python3&nbsp;&nbsp;&nbsp;⏱ 3 ms&nbsp;&nbsp;&nbsp;💾 19.6 MB
+🟢 Easy‎ ‎ ‎ ‎ ⚙️ Python3&nbsp;&nbsp;&nbsp;⏱ 3 ms&nbsp;&nbsp;&nbsp;💾 19.6 MB
 
-<span>🟢 Easy</span>
-<span style="margin-left:20px;">⚙️ Python3</span>
-<span style="margin-left:20px;">⏱️ 3 ms</span>
-<span style="margin-left:20px;">💾 19.6 MB</span>
 
 
 `Math`   `String`   `Simulation`
