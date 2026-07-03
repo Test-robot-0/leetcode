@@ -3,6 +3,7 @@
 
 ### Dashboard
 
+<div align="center">
 <table>
 <tr>
 <td valign="top">
@@ -53,13 +54,14 @@
 |-----------------|-------------------:|
 | Runtime Avg     | **71.12 ms**  |
 | Memory Avg      | **19.35 MB**   |
-| Latest Problem  | [3751](Medium/3751_total-waviness-of-numbers-in-range-i)|
+| Latest Problem  | [561](Easy/0561_array-partition)|
 | Last Sync       | **2026-07-04** |  
 
 
 </td>
 </tr>
 </table>
+<div>
 
 ---
 
