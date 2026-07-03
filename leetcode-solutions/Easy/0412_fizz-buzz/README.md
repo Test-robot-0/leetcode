@@ -1,7 +1,6 @@
 
 # 412.  Fizz Buzz
 
-`Math`  `String`  `Simulation`
 `Math`   `String`   `Simulation`
 
 ## Info
