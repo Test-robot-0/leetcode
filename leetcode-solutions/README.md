@@ -11,8 +11,8 @@
 
 | Metric | Count |
 |-------|-------------:|
-|Total  | **4**  |
-|Easy   | **2**   |
+|Total  | **5**  |
+|Easy   | **3**   |
 |Medium | **2** |
 |Hard   | **0**   |
 
@@ -24,10 +24,10 @@
 
 | Topic | Count |
 |-------|------:|
-| Array | **2** |
+| Array | **3** |
+| Math | **2** |
 | Stack | **1** |
 | Simulation | **1** |
-| Math | **1** |
 
 
 </td>
@@ -38,7 +38,7 @@
 
 | Language | Count |
 |----------|------:|
-| Python3 | **2** |
+| Python3 | **3** |
 | Java | **1** |
 | C++ | **1** |
 
@@ -51,9 +51,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **58.00 ms**  |
-| Memory Avg      | **19.36 MB**   |
-| Latest Problem  | [125](Easy/0125_valid-palindrome)|
+| Runtime Avg     | **48.33 ms**  |
+| Memory Avg      | **19.33 MB**   |
+| Latest Problem  | [1295](Easy/1295_find-numbers-with-even-number-of-digits)|
 | Last Sync       | **2026-07-03** |  
 
 
@@ -71,5 +71,6 @@ Automatically synchronized from LeetCode.
 | 2 | 0034 | [Find First and Last Position of Element in Sorted Array](Medium/0034_find-first-and-last-position-of-element-in-sorted-array) | 🟡&nbsp;Medium | Java | 0 ms | 48.2 MB | [Link!](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) |
 | 3 | 0125 | [Valid Palindrome](Easy/0125_valid-palindrome) | 🟢&nbsp;Easy | Python3 | 11 ms | 19.7 MB | [Link!](https://leetcode.com/problems/valid-palindrome) |
 | 4 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
+| 5 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
 
 
