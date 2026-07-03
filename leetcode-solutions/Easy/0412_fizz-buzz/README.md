@@ -1,5 +1,5 @@
 
-# 412_Fizz Buzz
+# 412. Fizz Buzz
 
 
 ## Info
