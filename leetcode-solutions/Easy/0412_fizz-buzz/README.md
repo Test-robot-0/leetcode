@@ -1,11 +1,11 @@
 
 # 412.  Fizz Buzz
 
-🟢 Easy &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙️ Python3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⏱ 3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💾 19.6 MB
+🟢 Easy &nbsp;&nbsp;&nbsp; ⚙️ Python3 &nbsp;&nbsp;&nbsp; ⏱ 3 &nbsp;&nbsp;&nbsp; 💾 19.6 MB
 
 
 
-`Math`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`String`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Simulation`
+`Math`&nbsp;&nbsp;&nbsp;`String`&nbsp;&nbsp;&nbsp;`Simulation`
 
 ## Info
 
