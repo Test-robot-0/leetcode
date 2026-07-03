@@ -7,7 +7,7 @@
 
 `Array`&nbsp;&nbsp;&nbsp;`Greedy`&nbsp;&nbsp;&nbsp;`Sorting`&nbsp;&nbsp;&nbsp;`Counting Sort`
 
-![Array](https://shields.io/)
+![Label Text](https://shields.io)
 
 ## Dashboard
 
