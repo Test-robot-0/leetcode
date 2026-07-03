@@ -79,4 +79,4 @@ So the maximum possible sum is 4.</pre>
 
 
 <br>
-Last Updated -> 2026-07-04
+Last Updated on 2026-07-04
