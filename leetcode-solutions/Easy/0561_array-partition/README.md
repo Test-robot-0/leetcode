@@ -7,7 +7,7 @@
 
 `Array`&nbsp;&nbsp;&nbsp;`Greedy`&nbsp;&nbsp;&nbsp;`Sorting`&nbsp;&nbsp;&nbsp;`Counting Sort`
 
-https://img.shields.io/badge/Array
+![Build](https://img.shields.io/badge/Array)
 
 ## Dashboard
 
