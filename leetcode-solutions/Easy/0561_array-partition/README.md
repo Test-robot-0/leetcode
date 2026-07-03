@@ -7,14 +7,14 @@
 
 `Array`&nbsp;&nbsp;&nbsp;`Greedy`&nbsp;&nbsp;&nbsp;`Sorting`&nbsp;&nbsp;&nbsp;`Counting Sort`
 
-## Info
+## Dashboard
 
 <table>
 <tr>
 
 <td valign="top">
 
-<h3> Dashboard</h3>
+<h3> Info</h3>
 
 |Property            |Value        |
 |--------------------|-------------|
