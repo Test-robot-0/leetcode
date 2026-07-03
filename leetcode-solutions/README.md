@@ -53,7 +53,7 @@
 |-----------------|-------------------:|
 | Runtime Avg     | **146.15 ms**  |
 | Memory Avg      | **35.25 MB**   |
-| Latest Problem  | <h4>[162](Medium/0162_find-peak-element)</h4>|
+| Latest Problem  | <p>[162](Medium/0162_find-peak-element)</p>|
 | Last Sync       | **2026-07-03** |  
 
 
