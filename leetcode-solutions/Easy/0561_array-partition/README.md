@@ -30,8 +30,8 @@
 <h3> Community Stats</h3>
 
 
-| Metric          | Count                                               |
-|-----------------|----------------------------------------------------:|
+| Metric          | Count                         |
+|-----------------|------------------------------:|
 |Total Accepted   |**693K**   |
 |Total Submission |**846.2K** |
 |Acceptance Rate  |**81.9%**          |
@@ -39,6 +39,18 @@
 
 </td>
 
+<td valign="top">
+<h3> Community Stats</h3>
+
+Quick Links
+
+|Page     |link   |
+|---------|-------|
+|Problem  | [question](## Question)
+|Solution | [link!](/Solutions.java)|
+|Repo     | [link!](https://github.com/Test-robot-0/leetcode/tree/main/leetcode-solutions)
+
+</td>
 </tr>
 </table>
 </div>
