@@ -1,13 +1,16 @@
 
 # 125_Valid Palindrome
 
-
+<p align="right">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
+</p>
 
 
 ## Info
 
 <table>
 <tr>
+
 <td valign="top">
 
 <h3> Info</h3>
@@ -21,6 +24,21 @@
 |Memory     |19.7 MB     |
 
 </td>
+
+<td valign="top">
+
+<h3> Info</h3>
+
+|Property   |Value        |
+|-----------|-------------|
+|Problem ID |125|
+|Difficulty |Easy |
+|Language   |Python3   |
+|Runtime    |11 ms    |
+|Memory     |19.7 MB     |
+
+</td>
+
 </tr>
 </table>
 ## Tags
