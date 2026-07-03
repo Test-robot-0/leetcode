@@ -27,19 +27,6 @@
 </td>
 
 <td valign="top">
-<h3> Quick Links</h3>
-
-
-
-|Page     |link   |
-|---------|-------|
-|Problem  | [link!](#Question)
-|Solution | [link!](/Solutions.java)|
-|Repo     | [link!](https://github.com/Test-robot-0/leetcode/tree/main/leetcode-solutions)
-
-</td>
-
-<td valign="top">
 <h3> Community Stats</h3>
 
 
@@ -56,6 +43,8 @@
 </tr>
 </table>
 </div>
+
+**Links:** [Question](#Question) [Home](https://github.com/Test-robot-0/leetcode/tree/main/leetcode-solutions)  [Solution](/Solution.java) 
 
 
 ## Question
