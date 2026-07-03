@@ -25,15 +25,6 @@
 </td>
 
 <td valign="top">
-<h3> Info</h3>
-
-|Tags   |
-|-------|
-
-
-</td>
-
-<td valign="top">
 <h3> LeetCode</h3>
 
 
