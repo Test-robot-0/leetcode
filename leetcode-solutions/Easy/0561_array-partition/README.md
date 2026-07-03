@@ -8,8 +8,9 @@
 `Array`&nbsp;&nbsp;&nbsp;`Greedy`&nbsp;&nbsp;&nbsp;`Sorting`&nbsp;&nbsp;&nbsp;`Counting Sort`
 
 
-## Dashboard
+## Overview
 
+<div align="center">
 <table>
 <tr>
 
@@ -40,7 +41,7 @@
 
 </tr>
 </table>
-
+</div>
 
 
 ## Question
