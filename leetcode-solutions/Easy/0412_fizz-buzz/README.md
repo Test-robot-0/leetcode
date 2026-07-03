@@ -20,6 +20,7 @@
 |Memory     |19.6 MB     |
 
 </td>
+
 <td valign="top">
 <h3> Info</h3>
 
@@ -31,9 +32,21 @@
 
 </td>
 
+<td valign="top">
+<h3> Stats</h3>
+
+| Metric          | Count                                               |
+|-----------------|----------------------------------------------------:|
+|Accepted         |1827929/2.4M |
+|Total Accepted   |1.8M                             |
+|Total Submission |2.4M                           |
+|Acceptance Rate  |75.6%                                    |
+
+
+</td>
+
 </tr>
 </table>
-## Tags
 
 
 
