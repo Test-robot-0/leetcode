@@ -1,7 +1,7 @@
 
 # 412.  Fizz Buzz
 
-🟢 Easy‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ⚙️ Python3&nbsp;&nbsp;&nbsp;⏱ 3 ms&nbsp;&nbsp;&nbsp;💾 19.6 MB
+🟢 Easy &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙️ Python3&nbsp;&nbsp;&nbsp;⏱ 3 ms&nbsp;&nbsp;&nbsp;💾 19.6 MB
 
 
 
