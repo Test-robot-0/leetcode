@@ -40,9 +40,9 @@
 </td>
 
 <td valign="top">
-<h3> Community Stats</h3>
+<h3> Quick Links</h3>
 
-Quick Links
+
 
 |Page     |link   |
 |---------|-------|
