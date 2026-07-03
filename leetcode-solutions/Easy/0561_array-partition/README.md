@@ -14,7 +14,7 @@
 
 <td valign="top">
 
-<h3> Info</h3>
+<h3> Dashboard</h3>
 
 |Property            |Value        |
 |--------------------|-------------|
