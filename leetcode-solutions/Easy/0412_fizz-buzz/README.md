@@ -1,7 +1,7 @@
 
 # 412.  Fizz Buzz
 
-🟢 Easy &nbsp;&nbsp;&nbsp; ⚙️ Python3 &nbsp;&nbsp;&nbsp; ⏱ 3 &nbsp;&nbsp;&nbsp; 💾 19.6 MB
+🟢 Easy &nbsp;&nbsp;&nbsp; ⚙️ {language} &nbsp;&nbsp;&nbsp; ⏱ 3 ms &nbsp;&nbsp;&nbsp; 💾 19.6 MB
 
 
 
@@ -38,15 +38,14 @@
 </td>
 
 <td valign="top">
-<h3> Stats</h3>
+<h3> LeetCode</h3>
 
 
 | Metric          | Count                                               |
 |-----------------|----------------------------------------------------:|
-|Accepted         |**1,827,929/2.4M** |
-|Total Accepted   |**1.8M**                                 |
-|Total Submission |**2.4M**                               |
-|Acceptance Rate  |**75.6%**                                        |
+|Total Accepted   |**1.8M**   |
+|Total Submission |**2.4M** |
+|Acceptance Rate  |**75.6%**          |
 
 
 </td>
