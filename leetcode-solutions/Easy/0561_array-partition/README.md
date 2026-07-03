@@ -46,7 +46,7 @@ Quick Links
 
 |Page     |link   |
 |---------|-------|
-|Problem  | [question](## Question)
+|Problem  | [question](#Question)
 |Solution | [link!](/Solutions.java)|
 |Repo     | [link!](https://github.com/Test-robot-0/leetcode/tree/main/leetcode-solutions)
 
