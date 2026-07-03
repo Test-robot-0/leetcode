@@ -2,7 +2,8 @@
 # 412.  Fizz Buzz
 
 🟢 Easy  Python3 ⏱ 3 ms 💾 19.6 MB
-![Python Version](https://shields.io)
+![Python](https://shields.io)
+
 
 `Math`   `String`   `Simulation`
 
