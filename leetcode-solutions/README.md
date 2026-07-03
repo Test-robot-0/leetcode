@@ -11,8 +11,8 @@
 
 | Metric | Count |
 |-------|-------------:|
-|Total  | **13**  |
-|Easy   | **10**   |
+|Total  | **14**  |
+|Easy   | **11**   |
 |Medium | **3** |
 |Hard   | **0**   |
 
@@ -24,7 +24,7 @@
 
 | Topic | Count |
 |-------|------:|
-| Array | **9** |
+| Array | **10** |
 | Math | **5** |
 | Simulation | **2** |
 | Binary Search | **2** |
@@ -38,8 +38,8 @@
 
 | Language | Count |
 |----------|------:|
+| Java | **7** |
 | Python3 | **6** |
-| Java | **6** |
 | C++ | **1** |
 
 
@@ -51,9 +51,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **208.71 ms**  |
-| Memory Avg      | **28.84 MB**   |
-| Latest Problem  | <a href="Easy/0744_find-smallest-letter-greater-than-target"><button>744</button></a> |
+| Runtime Avg     | **194.80 ms**  |
+| Memory Avg      | **29.89 MB**   |
+| Latest Problem  | [`1672`](Easy/1672_richest-customer-wealth)|
 | Last Sync       | **2026-07-03** |  
 
 
@@ -78,7 +78,8 @@ Automatically synchronized from LeetCode.
 | 9 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
 | 10 | 0744 | [Find Smallest Letter Greater Than Target](Easy/0744_find-smallest-letter-greater-than-target) | 🟢&nbsp;Easy | Java | 0 ms | 46.5 MB | [Link!](https://leetcode.com/problems/find-smallest-letter-greater-than-target) |
 | 11 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
-| 12 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
-| 13 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 12 | 1672 | [Richest Customer Wealth](Easy/1672_richest-customer-wealth) | 🟢&nbsp;Easy | Java | 0 ms | 44.6 MB | [Link!](https://leetcode.com/problems/richest-customer-wealth) |
+| 13 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
+| 14 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 
 
