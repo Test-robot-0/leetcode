@@ -11,8 +11,8 @@
 
 | Metric | Count |
 |-------|-------------:|
-|Total  | **15**  |
-|Easy   | **12**   |
+|Total  | **16**  |
+|Easy   | **13**   |
 |Medium | **3** |
 |Hard   | **0**   |
 
@@ -24,7 +24,7 @@
 
 | Topic | Count |
 |-------|------:|
-| Array | **11** |
+| Array | **12** |
 | Math | **5** |
 | Two Pointers | **3** |
 | Simulation | **2** |
@@ -38,7 +38,7 @@
 
 | Language | Count |
 |----------|------:|
-| Java | **8** |
+| Java | **9** |
 | Python3 | **6** |
 | C++ | **1** |
 
@@ -51,9 +51,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **182.69 ms**  |
-| Memory Avg      | **30.77 MB**   |
-| Latest Problem  | [88](Easy/0088_merge-sorted-array)|
+| Runtime Avg     | **171.94 ms**  |
+| Memory Avg      | **31.50 MB**   |
+| Latest Problem  | [1732](Easy/1732_find-the-highest-altitude)|
 | Last Sync       | **2026-07-03** |  
 
 
@@ -80,7 +80,8 @@ Automatically synchronized from LeetCode.
 | 11 | 0744 | [Find Smallest Letter Greater Than Target](Easy/0744_find-smallest-letter-greater-than-target) | 🟢&nbsp;Easy | Java | 0 ms | 46.5 MB | [Link!](https://leetcode.com/problems/find-smallest-letter-greater-than-target) |
 | 12 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
 | 13 | 1672 | [Richest Customer Wealth](Easy/1672_richest-customer-wealth) | 🟢&nbsp;Easy | Java | 0 ms | 44.6 MB | [Link!](https://leetcode.com/problems/richest-customer-wealth) |
-| 14 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
-| 15 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 14 | 1732 | [Find the Highest Altitude](Easy/1732_find-the-highest-altitude) | 🟢&nbsp;Easy | Java | 0 ms | 43.2 MB | [Link!](https://leetcode.com/problems/find-the-highest-altitude) |
+| 15 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
+| 16 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 
 
