@@ -53,7 +53,7 @@
 |-----------------|-------------------:|
 | Runtime Avg     | **69.75 ms**  |
 | Memory Avg      | **19.27 MB**   |
-| Latest Problem  | [34](Medium/0034_find-first-and-last-position-of-element-in-sorted-array)|
+| Latest Problem  | [125](Easy/0125_valid-palindrome)|
 | Last Sync       | **2026-07-03** |  
 
 
