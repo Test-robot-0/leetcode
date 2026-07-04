@@ -12,8 +12,8 @@
 
 | Metric | Count |
 |-------|-------------:|
-|Total  | **7**  |
-|Easy   | **4**   |
+|Total  | **8**  |
+|Easy   | **5**   |
 |Medium | **3** |
 |Hard   | **0**   |
 
@@ -25,8 +25,8 @@
 
 | Topic | Count |
 |-------|------:|
+| Array | **4** |
 | Math | **4** |
-| Array | **3** |
 | Simulation | **2** |
 | String | **2** |
 
@@ -40,7 +40,7 @@
 | Language | Count |
 |----------|------:|
 | Python3 | **5** |
-| Java | **1** |
+| Java | **2** |
 | C++ | **1** |
 
 
@@ -52,9 +52,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **71.12 ms**  |
-| Memory Avg      | **19.35 MB**   |
-| Latest Problem  | **[412](Easy/0412_fizz-buzz)**|
+| Runtime Avg     | **319.44 ms**  |
+| Memory Avg      | **22.48 MB**   |
+| Latest Problem  | **[561](Easy/0561_array-partition)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -69,13 +69,14 @@ Automatically synchronized from LeetCode.
 
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
-| 1 | 0009 | [Palindrome Number](Easy/0009_palindrome-number) | 🟢&nbsp;Easy | C++ | 2 ms | 8.5 MB | [Link!](https://leetcode.com/problems/palindrome-number) |
-| 2 | 0034 | [Find First and Last Position of Element in Sorted Array](Medium/0034_find-first-and-last-position-of-element-in-sorted-array) | 🟡&nbsp;Medium | Java | 0 ms | 48.2 MB | [Link!](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) |
-| 3 | 0125 | [Valid Palindrome](Easy/0125_valid-palindrome) | 🟢&nbsp;Easy | Python3 | 11 ms | 19.7 MB | [Link!](https://leetcode.com/problems/valid-palindrome) |
-| 4 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | 🟢&nbsp;Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
-| 5 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
-| 6 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
-| 7 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 8 | 9 | [Palindrome Number](Easy/(9, 'Palindrome Number', 'Easy', 'C++', '2 ms', '8.5 MB', 'palindrome-number', 2)_palindrome-number) | 🟢&nbsp;Easy | C++ | 2 ms | 8.5 MB | [Link!](https://leetcode.com/problems/palindrome-number) |
+| 8 | 34 | [Find First and Last Position of Element in Sorted Array](Medium/(34, 'Find First and Last Position of Element in Sorted Array', 'Medium', 'Java', '0 ms', '48.2 MB', 'find-first-and-last-position-of-element-in-sorted-array', 3)_find-first-and-last-position-of-element-in-sorted-array) | 🟡&nbsp;Medium | Java | 0 ms | 48.2 MB | [Link!](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) |
+| 8 | 125 | [Valid Palindrome](Easy/(125, 'Valid Palindrome', 'Easy', 'Python3', '11 ms', '19.7 MB', 'valid-palindrome', 4)_valid-palindrome) | 🟢&nbsp;Easy | Python3 | 11 ms | 19.7 MB | [Link!](https://leetcode.com/problems/valid-palindrome) |
+| 8 | 412 | [Fizz Buzz](Easy/(412, 'Fizz Buzz', 'Easy', 'Python3', '3 ms', '19.6 MB', 'fizz-buzz', 7)_fizz-buzz) | 🟢&nbsp;Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
+| 8 | 561 | [Array Partition](Easy/(561, 'Array Partition', 'Easy', 'Java', '2306 ms', '47.5 MB', 'array-partition', 8)_array-partition) | 🟢&nbsp;Easy | Java | 2306 ms | 47.5 MB | [Link!](https://leetcode.com/problems/array-partition) |
+| 8 | 735 | [Asteroid Collision](Medium/(735, 'Asteroid Collision', 'Medium', 'Python3', '277 ms', '20.4 MB', 'asteroid-collision', 1)_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
+| 8 | 1295 | [Find Numbers with Even Number of Digits](Easy/(1295, 'Find Numbers with Even Number of Digits', 'Easy', 'Python3', '0 ms', '19.2 MB', 'find-numbers-with-even-number-of-digits', 5)_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
+| 8 | 3751 | [Total Waviness of Numbers in Range I](Medium/(3751, 'Total Waviness of Numbers in Range I', 'Medium', 'Python3', '276 ms', '19.2 MB', 'total-waviness-of-numbers-in-range-i', 6)_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
