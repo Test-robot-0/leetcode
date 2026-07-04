@@ -12,8 +12,8 @@
 
 | Metric | Count |
 |-------|-------------:|
-|Total  | **7**  |
-|Easy   | **4**   |
+|Total  | **8**  |
+|Easy   | **5**   |
 |Medium | **3** |
 |Hard   | **0**   |
 
@@ -25,8 +25,8 @@
 
 | Topic | Count |
 |-------|------:|
+| Array | **4** |
 | Math | **4** |
-| Array | **3** |
 | Simulation | **2** |
 | String | **2** |
 
@@ -39,7 +39,7 @@
 
 | Language | Count |
 |----------|------:|
-| Python3 | **5** |
+| Python3 | **6** |
 | Java | **1** |
 | C++ | **1** |
 
@@ -52,9 +52,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **71.12 ms**  |
-| Memory Avg      | **19.35 MB**   |
-| Latest Problem  | **[3751](Medium/3751_total-waviness-of-numbers-in-range-i)**|
+| Runtime Avg     | **63.44 ms**  |
+| Memory Avg      | **19.36 MB**   |
+| Latest Problem  | **[2574](Easy/2574_left-and-right-sum-differences)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -75,7 +75,8 @@ Automatically synchronized from LeetCode.
 | 4 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | 🟢&nbsp;Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
 | 5 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
 | 6 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
-| 7 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 7 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
+| 8 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
