@@ -12,8 +12,8 @@
 
 | Metric | Count |
 |-------|-------------:|
-|Total  | **3**  |
-|Easy   | **1**   |
+|Total  | **4**  |
+|Easy   | **2**   |
 |Medium | **2** |
 |Hard   | **0**   |
 
@@ -39,7 +39,7 @@
 
 | Language | Count |
 |----------|------:|
-| Python3 | **1** |
+| Python3 | **2** |
 | Java | **1** |
 | C++ | **1** |
 
@@ -52,9 +52,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **69.75 ms**  |
-| Memory Avg      | **19.27 MB**   |
-| Latest Problem  | **[34](Medium/0034_find-first-and-last-position-of-element-in-sorted-array)**|
+| Runtime Avg     | **58.00 ms**  |
+| Memory Avg      | **19.36 MB**   |
+| Latest Problem  | **[125](Easy/0125_valid-palindrome)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -71,7 +71,8 @@ Automatically synchronized from LeetCode.
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
 | 1 | 0009 | [Palindrome Number](Easy/0009_palindrome-number) | 🟢&nbsp;Easy | C++ | 2 ms | 8.5 MB | [Link!](https://leetcode.com/problems/palindrome-number) |
 | 2 | 0034 | [Find First and Last Position of Element in Sorted Array](Medium/0034_find-first-and-last-position-of-element-in-sorted-array) | 🟡&nbsp;Medium | Java | 0 ms | 48.2 MB | [Link!](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) |
-| 3 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
+| 3 | 0125 | [Valid Palindrome](Easy/0125_valid-palindrome) | 🟢&nbsp;Easy | Python3 | 11 ms | 19.7 MB | [Link!](https://leetcode.com/problems/valid-palindrome) |
+| 4 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
