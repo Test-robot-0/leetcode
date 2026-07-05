@@ -2,7 +2,7 @@
 # Leetcode Solutions
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Binary Search</code>
+<code>Array</code>&nbsp;<code>Prefix Sum</code>
 
 ### Dashboard
 
@@ -15,8 +15,8 @@
 | Metric | Count |
 |-------|-------------:|
 |Total  | **1**  |
-|Easy   | **0**   |
-|Medium | **1** |
+|Easy   | **1**   |
+|Medium | **0** |
 |Hard   | **0**   |
 
 </td>
@@ -28,7 +28,7 @@
 | Topic | Count |
 |-------|------:|
 | Array | **1** |
-| Binary Search | **1** |
+| Prefix Sum | **1** |
 
 
 
@@ -55,8 +55,8 @@
 | Metric          | Value              |
 |-----------------|-------------------:|
 | Runtime Avg     | **0.00 ms**  |
-| Memory Avg      | **40.20 MB**   |
-| Latest Problem  | **[852](Medium/0852_peak-index-in-a-mountain-array)**|
+| Memory Avg      | **21.60 MB**   |
+| Latest Problem  | **[1732](Easy/1732_find-the-highest-altitude)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -71,7 +71,7 @@ Automatically synchronized from LeetCode.
 
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
-| 1 | 0852 | [Peak Index in a Mountain Array](Medium/0852_peak-index-in-a-mountain-array) | 🟡&nbsp;Medium | Java | 0 ms | 80.4 MB | [Link!](https://leetcode.com/problems/peak-index-in-a-mountain-array) |
+| 1 | 1732 | [Find the Highest Altitude](Easy/1732_find-the-highest-altitude) | 🟢&nbsp;Easy | Java | 0 ms | 43.2 MB | [Link!](https://leetcode.com/problems/find-the-highest-altitude) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
