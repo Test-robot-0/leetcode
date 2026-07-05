@@ -2,7 +2,7 @@
 # Leetcode Solutions
 
 <div align="center">
-<code>Math</code>&nbsp;<code>Array</code>&nbsp;<code>Binary Search</code>
+<code>Math</code>&nbsp;<code>Array</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>String</code>
 
 ### Dashboard
 
@@ -14,8 +14,8 @@
 
 | Metric | Count |
 |-------|-------------:|
-|Total  | **2**  |
-|Easy   | **1**   |
+|Total  | **3**  |
+|Easy   | **2**   |
 |Medium | **1** |
 |Hard   | **0**   |
 
@@ -30,7 +30,7 @@
 | Math | **1** |
 | Array | **1** |
 | Binary Search | **1** |
-
+| Two Pointers | **1** |
 
 
 </td>
@@ -41,9 +41,9 @@
 
 | Language | Count |
 |----------|------:|
+| Python3 | **1** |
 | Java | **1** |
 | C++ | **1** |
-
 
 
 </td>
@@ -54,9 +54,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **0.67 ms**  |
-| Memory Avg      | **18.90 MB**   |
-| Latest Problem  | **[34](Medium/0034_find-first-and-last-position-of-element-in-sorted-array)**|
+| Runtime Avg     | **3.25 ms**  |
+| Memory Avg      | **19.10 MB**   |
+| Latest Problem  | **[125](Easy/0125_valid-palindrome)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -73,6 +73,7 @@ Automatically synchronized from LeetCode.
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
 | 1 | 0009 | [Palindrome Number](Easy/0009_palindrome-number) | 🟢&nbsp;Easy | C++ | 2 ms | 8.5 MB | [Link!](https://leetcode.com/problems/palindrome-number) |
 | 2 | 0034 | [Find First and Last Position of Element in Sorted Array](Medium/0034_find-first-and-last-position-of-element-in-sorted-array) | 🟡&nbsp;Medium | Java | 0 ms | 48.2 MB | [Link!](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) |
+| 3 | 0125 | [Valid Palindrome](Easy/0125_valid-palindrome) | 🟢&nbsp;Easy | Python3 | 11 ms | 19.7 MB | [Link!](https://leetcode.com/problems/valid-palindrome) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
