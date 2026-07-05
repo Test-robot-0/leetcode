@@ -12,8 +12,8 @@
 
 | Metric | Count |
 |-------|-------------:|
-|Total  | **11**  |
-|Easy   | **8**   |
+|Total  | **12**  |
+|Easy   | **9**   |
 |Medium | **3** |
 |Hard   | **0**   |
 
@@ -25,7 +25,7 @@
 
 | Topic | Count |
 |-------|------:|
-| Array | **7** |
+| Array | **8** |
 | Math | **5** |
 | Simulation | **2** |
 | Two Pointers | **2** |
@@ -40,7 +40,7 @@
 | Language | Count |
 |----------|------:|
 | Python3 | **6** |
-| Java | **4** |
+| Java | **5** |
 | C++ | **1** |
 
 
@@ -52,9 +52,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **51.33 ms**  |
-| Memory Avg      | **25.81 MB**   |
-| Latest Problem  | **[1](Easy/0001_two-sum)**|
+| Runtime Avg     | **224.77 ms**  |
+| Memory Avg      | **27.48 MB**   |
+| Latest Problem  | **[561](Easy/0561_array-partition)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -76,10 +76,11 @@ Automatically synchronized from LeetCode.
 | 5 | 0066 | [Plus One](Easy/0066_plus-one) | 🟢&nbsp;Easy | Java | 0 ms | 43.5 MB | [Link!](https://leetcode.com/problems/plus-one) |
 | 6 | 0125 | [Valid Palindrome](Easy/0125_valid-palindrome) | 🟢&nbsp;Easy | Python3 | 11 ms | 19.7 MB | [Link!](https://leetcode.com/problems/valid-palindrome) |
 | 7 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | 🟢&nbsp;Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
-| 8 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
-| 9 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
-| 10 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
-| 11 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 8 | 0561 | [Array Partition](Easy/0561_array-partition) | 🟢&nbsp;Easy | Java | 2306 ms | 47.5 MB | [Link!](https://leetcode.com/problems/array-partition) |
+| 9 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
+| 10 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
+| 11 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
+| 12 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
