@@ -2,7 +2,7 @@
 # Leetcode Solutions
 
 <div align="center">
-<code>Two Pointers</code>&nbsp;<code>String</code>
+<code>Array</code>&nbsp;<code>Math</code>
 
 ### Dashboard
 
@@ -27,8 +27,8 @@
 
 | Topic | Count |
 |-------|------:|
-| Two Pointers | **1** |
-| String | **1** |
+| Array | **1** |
+| Math | **1** |
 
 
 
@@ -54,9 +54,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **5.50 ms**  |
-| Memory Avg      | **9.85 MB**   |
-| Latest Problem  | **[125](Easy/0125_valid-palindrome)**|
+| Runtime Avg     | **0.00 ms**  |
+| Memory Avg      | **9.60 MB**   |
+| Latest Problem  | **[1295](Easy/1295_find-numbers-with-even-number-of-digits)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -71,7 +71,7 @@ Automatically synchronized from LeetCode.
 
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
-| 1 | 0125 | [Valid Palindrome](Easy/0125_valid-palindrome) | 🟢&nbsp;Easy | Python3 | 11 ms | 19.7 MB | [Link!](https://leetcode.com/problems/valid-palindrome) |
+| 1 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
