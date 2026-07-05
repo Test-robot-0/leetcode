@@ -2,7 +2,7 @@
 # Leetcode Solutions
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>&nbsp;<code>Math</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>String</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Enumeration</code>&nbsp;<code>Hash Table</code>
+<code>Array</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>&nbsp;<code>Math</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>String</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Enumeration</code>&nbsp;<code>Hash Table</code>&nbsp;<code>Prefix Sum</code>
 
 ### Dashboard
 
@@ -14,8 +14,8 @@
 
 | Metric | Count |
 |-------|-------------:|
-|Total  | **9**  |
-|Easy   | **6**   |
+|Total  | **10**  |
+|Easy   | **7**   |
 |Medium | **3** |
 |Hard   | **0**   |
 
@@ -27,7 +27,7 @@
 
 | Topic | Count |
 |-------|------:|
-| Array | **5** |
+| Array | **6** |
 | Math | **5** |
 | Simulation | **2** |
 | String | **2** |
@@ -41,7 +41,7 @@
 
 | Language | Count |
 |----------|------:|
-| Python3 | **5** |
+| Python3 | **6** |
 | Java | **3** |
 | C++ | **1** |
 
@@ -54,9 +54,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **61.30 ms**  |
-| Memory Avg      | **24.33 MB**   |
-| Latest Problem  | **[1](Easy/0001_two-sum)**|
+| Runtime Avg     | **55.91 ms**  |
+| Memory Avg      | **23.88 MB**   |
+| Latest Problem  | **[2574](Easy/2574_left-and-right-sum-differences)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -79,7 +79,8 @@ Automatically synchronized from LeetCode.
 | 6 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | 🟢&nbsp;Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
 | 7 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
 | 8 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
-| 9 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 9 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
+| 10 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
