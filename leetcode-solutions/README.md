@@ -2,7 +2,7 @@
 # Leetcode Solutions
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>
+<code>Two Pointers</code>&nbsp;<code>String</code>
 
 ### Dashboard
 
@@ -15,8 +15,8 @@
 | Metric | Count |
 |-------|-------------:|
 |Total  | **1**  |
-|Easy   | **0**   |
-|Medium | **1** |
+|Easy   | **1**   |
+|Medium | **0** |
 |Hard   | **0**   |
 
 </td>
@@ -27,9 +27,9 @@
 
 | Topic | Count |
 |-------|------:|
-| Array | **1** |
-| Stack | **1** |
-| Simulation | **1** |
+| Two Pointers | **1** |
+| String | **1** |
+
 
 
 
@@ -54,9 +54,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **138.50 ms**  |
-| Memory Avg      | **10.20 MB**   |
-| Latest Problem  | **[735](Medium/0735_asteroid-collision)**|
+| Runtime Avg     | **5.50 ms**  |
+| Memory Avg      | **9.85 MB**   |
+| Latest Problem  | **[125](Easy/0125_valid-palindrome)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -71,7 +71,7 @@ Automatically synchronized from LeetCode.
 
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
-| 1 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
+| 1 | 0125 | [Valid Palindrome](Easy/0125_valid-palindrome) | 🟢&nbsp;Easy | Python3 | 11 ms | 19.7 MB | [Link!](https://leetcode.com/problems/valid-palindrome) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
