@@ -2,7 +2,7 @@
 # Leetcode Solutions
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>Sorting</code>
+<code>Array</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>
 
 ### Dashboard
 
@@ -15,8 +15,8 @@
 | Metric | Count |
 |-------|-------------:|
 |Total  | **1**  |
-|Easy   | **1**   |
-|Medium | **0** |
+|Easy   | **0**   |
+|Medium | **1** |
 |Hard   | **0**   |
 
 </td>
@@ -28,8 +28,8 @@
 | Topic | Count |
 |-------|------:|
 | Array | **1** |
-| Two Pointers | **1** |
-| Sorting | **1** |
+| Stack | **1** |
+| Simulation | **1** |
 
 
 
@@ -41,7 +41,7 @@
 
 | Language | Count |
 |----------|------:|
-| Java | **1** |
+| Python3 | **1** |
 
 
 
@@ -54,9 +54,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **0.50 ms**  |
-| Memory Avg      | **22.00 MB**   |
-| Latest Problem  | **[88](Easy/0088_merge-sorted-array)**|
+| Runtime Avg     | **138.50 ms**  |
+| Memory Avg      | **10.20 MB**   |
+| Latest Problem  | **[735](Medium/0735_asteroid-collision)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -71,7 +71,7 @@ Automatically synchronized from LeetCode.
 
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
-| 1 | 0088 | [Merge Sorted Array](Easy/0088_merge-sorted-array) | 🟢&nbsp;Easy | Java | 1 ms | 44 MB | [Link!](https://leetcode.com/problems/merge-sorted-array) |
+| 1 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
