@@ -2,7 +2,7 @@
 # Leetcode Solutions
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>&nbsp;<code>Math</code>
+<code>Array</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>
 
 ### Dashboard
 
@@ -14,8 +14,8 @@
 
 | Metric | Count |
 |-------|-------------:|
-|Total  | **2**  |
-|Easy   | **1**   |
+|Total  | **1**  |
+|Easy   | **0**   |
 |Medium | **1** |
 |Hard   | **0**   |
 
@@ -30,7 +30,7 @@
 | Array | **1** |
 | Stack | **1** |
 | Simulation | **1** |
-| Math | **1** |
+
 
 
 </td>
@@ -42,7 +42,7 @@
 | Language | Count |
 |----------|------:|
 | Python3 | **1** |
-| C++ | **1** |
+
 
 
 
@@ -54,9 +54,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **93.00 ms**  |
-| Memory Avg      | **9.63 MB**   |
-| Latest Problem  | **[9](Easy/0009_palindrome-number)**|
+| Runtime Avg     | **138.50 ms**  |
+| Memory Avg      | **10.20 MB**   |
+| Latest Problem  | **[735](Medium/0735_asteroid-collision)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -71,8 +71,7 @@ Automatically synchronized from LeetCode.
 
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
-| 1 | 0009 | [Palindrome Number](Easy/0009_palindrome-number) | 🟢&nbsp;Easy | C++ | 2 ms | 8.5 MB | [Link!](https://leetcode.com/problems/palindrome-number) |
-| 2 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
+| 1 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
