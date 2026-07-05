@@ -2,7 +2,7 @@
 # Leetcode Solutions
 
 <div align="center">
-<code>Two Pointers</code>&nbsp;<code>String</code>&nbsp;<code>Math</code>&nbsp;<code>Simulation</code>
+<code>Two Pointers</code>&nbsp;<code>String</code>&nbsp;<code>Math</code>&nbsp;<code>Simulation</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Enumeration</code>
 
 ### Dashboard
 
@@ -14,9 +14,9 @@
 
 | Metric | Count |
 |-------|-------------:|
-|Total  | **2**  |
+|Total  | **3**  |
 |Easy   | **2**   |
-|Medium | **0** |
+|Medium | **1** |
 |Hard   | **0**   |
 
 </td>
@@ -28,8 +28,8 @@
 | Topic | Count |
 |-------|------:|
 | String | **2** |
+| Math | **2** |
 | Two Pointers | **1** |
-| Math | **1** |
 | Simulation | **1** |
 
 
@@ -41,7 +41,7 @@
 
 | Language | Count |
 |----------|------:|
-| Python3 | **2** |
+| Python3 | **3** |
 
 
 
@@ -54,9 +54,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **4.67 ms**  |
-| Memory Avg      | **13.10 MB**   |
-| Latest Problem  | **[412](Easy/0412_fizz-buzz)**|
+| Runtime Avg     | **72.50 ms**  |
+| Memory Avg      | **14.62 MB**   |
+| Latest Problem  | **[3751](Medium/3751_total-waviness-of-numbers-in-range-i)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -73,6 +73,7 @@ Automatically synchronized from LeetCode.
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
 | 1 | 0125 | [Valid Palindrome](Easy/0125_valid-palindrome) | 🟢&nbsp;Easy | Python3 | 11 ms | 19.7 MB | [Link!](https://leetcode.com/problems/valid-palindrome) |
 | 2 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | 🟢&nbsp;Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
+| 3 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
