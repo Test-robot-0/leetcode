@@ -2,7 +2,7 @@
 # Leetcode Solutions
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Math</code>
+<code>Math</code>&nbsp;<code>String</code>&nbsp;<code>Simulation</code>
 
 ### Dashboard
 
@@ -27,9 +27,9 @@
 
 | Topic | Count |
 |-------|------:|
-| Array | **1** |
 | Math | **1** |
-
+| String | **1** |
+| Simulation | **1** |
 
 
 
@@ -54,9 +54,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **0.00 ms**  |
-| Memory Avg      | **9.60 MB**   |
-| Latest Problem  | **[1295](Easy/1295_find-numbers-with-even-number-of-digits)**|
+| Runtime Avg     | **1.50 ms**  |
+| Memory Avg      | **9.80 MB**   |
+| Latest Problem  | **[412](Easy/0412_fizz-buzz)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -71,7 +71,7 @@ Automatically synchronized from LeetCode.
 
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
-| 1 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
+| 1 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | 🟢&nbsp;Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
