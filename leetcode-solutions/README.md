@@ -2,7 +2,7 @@
 # Leetcode Solutions
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Math</code>
+<code>Array</code>&nbsp;<code>Prefix Sum</code>
 
 ### Dashboard
 
@@ -28,7 +28,7 @@
 | Topic | Count |
 |-------|------:|
 | Array | **1** |
-| Math | **1** |
+| Prefix Sum | **1** |
 
 
 
@@ -41,7 +41,7 @@
 
 | Language | Count |
 |----------|------:|
-| Java | **1** |
+| Python3 | **1** |
 
 
 
@@ -54,9 +54,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **0.00 ms**  |
-| Memory Avg      | **21.75 MB**   |
-| Latest Problem  | **[66](Easy/0066_plus-one)**|
+| Runtime Avg     | **1.00 ms**  |
+| Memory Avg      | **9.70 MB**   |
+| Latest Problem  | **[2574](Easy/2574_left-and-right-sum-differences)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -71,7 +71,7 @@ Automatically synchronized from LeetCode.
 
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
-| 1 | 0066 | [Plus One](Easy/0066_plus-one) | 🟢&nbsp;Easy | Java | 0 ms | 43.5 MB | [Link!](https://leetcode.com/problems/plus-one) |
+| 1 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
