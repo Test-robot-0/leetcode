@@ -2,7 +2,7 @@
 # Leetcode Solutions
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Hash Table</code>
+<code>Array</code>&nbsp;<code>Binary Search</code>
 
 ### Dashboard
 
@@ -28,7 +28,7 @@
 | Topic | Count |
 |-------|------:|
 | Array | **1** |
-| Hash Table | **1** |
+| Binary Search | **1** |
 
 
 
@@ -54,9 +54,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **22.00 ms**  |
-| Memory Avg      | **22.50 MB**   |
-| Latest Problem  | **[1](Easy/0001_two-sum)**|
+| Runtime Avg     | **0.00 ms**  |
+| Memory Avg      | **23.25 MB**   |
+| Latest Problem  | **[744](Easy/0744_find-smallest-letter-greater-than-target)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -71,7 +71,7 @@ Automatically synchronized from LeetCode.
 
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
-| 1 | 0001 | [Two Sum](Easy/0001_two-sum) | 🟢&nbsp;Easy | Java | 44 ms | 45 MB | [Link!](https://leetcode.com/problems/two-sum) |
+| 1 | 0744 | [Find Smallest Letter Greater Than Target](Easy/0744_find-smallest-letter-greater-than-target) | 🟢&nbsp;Easy | Java | 0 ms | 46.5 MB | [Link!](https://leetcode.com/problems/find-smallest-letter-greater-than-target) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
