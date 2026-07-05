@@ -2,7 +2,7 @@
 # Leetcode Solutions
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Prefix Sum</code>
+<code>Array</code>&nbsp;<code>Two Pointers</code>
 
 ### Dashboard
 
@@ -28,7 +28,7 @@
 | Topic | Count |
 |-------|------:|
 | Array | **1** |
-| Prefix Sum | **1** |
+| Two Pointers | **1** |
 
 
 
@@ -41,7 +41,7 @@
 
 | Language | Count |
 |----------|------:|
-| Python3 | **1** |
+| Java | **1** |
 
 
 
@@ -54,9 +54,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **1.00 ms**  |
-| Memory Avg      | **9.70 MB**   |
-| Latest Problem  | **[2574](Easy/2574_left-and-right-sum-differences)**|
+| Runtime Avg     | **0.50 ms**  |
+| Memory Avg      | **23.50 MB**   |
+| Latest Problem  | **[26](Easy/0026_remove-duplicates-from-sorted-array)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -71,7 +71,7 @@ Automatically synchronized from LeetCode.
 
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
-| 1 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
+| 1 | 0026 | [Remove Duplicates from Sorted Array](Easy/0026_remove-duplicates-from-sorted-array) | 🟢&nbsp;Easy | Java | 1 ms | 47 MB | [Link!](https://leetcode.com/problems/remove-duplicates-from-sorted-array) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
