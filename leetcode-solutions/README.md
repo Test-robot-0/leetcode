@@ -1,9 +1,11 @@
 
 # Leetcode Solutions
 
+<div align="center">
+<code>Array</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>
+
 ### Dashboard
 
-<div align="center">
 <table>
 <tr>
 <td valign="top">
@@ -12,9 +14,9 @@
 
 | Metric | Count |
 |-------|-------------:|
-|Total  | **3**  |
-|Easy   | **1**   |
-|Medium | **2** |
+|Total  | **1**  |
+|Easy   | **0**   |
+|Medium | **1** |
 |Hard   | **0**   |
 
 </td>
@@ -25,10 +27,10 @@
 
 | Topic | Count |
 |-------|------:|
-| Array | **2** |
+| Array | **1** |
 | Stack | **1** |
 | Simulation | **1** |
-| Math | **1** |
+
 
 
 </td>
@@ -40,8 +42,8 @@
 | Language | Count |
 |----------|------:|
 | Python3 | **1** |
-| Java | **1** |
-| C++ | **1** |
+
+
 
 
 </td>
@@ -52,9 +54,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **69.75 ms**  |
-| Memory Avg      | **19.27 MB**   |
-| Latest Problem  | **[34](Medium/0034_find-first-and-last-position-of-element-in-sorted-array)**|
+| Runtime Avg     | **138.50 ms**  |
+| Memory Avg      | **10.20 MB**   |
+| Latest Problem  | **[735](Medium/0735_asteroid-collision)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -69,9 +71,7 @@ Automatically synchronized from LeetCode.
 
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
-| 1 | 0009 | [Palindrome Number](Easy/0009_palindrome-number) | 🟢&nbsp;Easy | C++ | 2 ms | 8.5 MB | [Link!](https://leetcode.com/problems/palindrome-number) |
-| 2 | 0034 | [Find First and Last Position of Element in Sorted Array](Medium/0034_find-first-and-last-position-of-element-in-sorted-array) | 🟡&nbsp;Medium | Java | 0 ms | 48.2 MB | [Link!](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) |
-| 3 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
+| 1 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
