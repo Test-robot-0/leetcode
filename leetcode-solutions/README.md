@@ -2,7 +2,7 @@
 # Leetcode Solutions
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Binary Search</code>
+<code>Array</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>Sorting</code>
 
 ### Dashboard
 
@@ -15,8 +15,8 @@
 | Metric | Count |
 |-------|-------------:|
 |Total  | **1**  |
-|Easy   | **0**   |
-|Medium | **1** |
+|Easy   | **1**   |
+|Medium | **0** |
 |Hard   | **0**   |
 
 </td>
@@ -28,8 +28,8 @@
 | Topic | Count |
 |-------|------:|
 | Array | **1** |
-| Binary Search | **1** |
-
+| Two Pointers | **1** |
+| Sorting | **1** |
 
 
 
@@ -54,9 +54,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **0.00 ms**  |
-| Memory Avg      | **40.20 MB**   |
-| Latest Problem  | **[852](Medium/0852_peak-index-in-a-mountain-array)**|
+| Runtime Avg     | **0.50 ms**  |
+| Memory Avg      | **22.00 MB**   |
+| Latest Problem  | **[88](Easy/0088_merge-sorted-array)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -71,7 +71,7 @@ Automatically synchronized from LeetCode.
 
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
-| 1 | 0852 | [Peak Index in a Mountain Array](Medium/0852_peak-index-in-a-mountain-array) | 🟡&nbsp;Medium | Java | 0 ms | 80.4 MB | [Link!](https://leetcode.com/problems/peak-index-in-a-mountain-array) |
+| 1 | 0088 | [Merge Sorted Array](Easy/0088_merge-sorted-array) | 🟢&nbsp;Easy | Java | 1 ms | 44 MB | [Link!](https://leetcode.com/problems/merge-sorted-array) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
