@@ -2,7 +2,7 @@
 # Leetcode Solutions
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Two Pointers</code>
+<code>Array</code>&nbsp;<code>Hash Table</code>
 
 ### Dashboard
 
@@ -28,7 +28,7 @@
 | Topic | Count |
 |-------|------:|
 | Array | **1** |
-| Two Pointers | **1** |
+| Hash Table | **1** |
 
 
 
@@ -54,9 +54,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **0.50 ms**  |
-| Memory Avg      | **23.50 MB**   |
-| Latest Problem  | **[26](Easy/0026_remove-duplicates-from-sorted-array)**|
+| Runtime Avg     | **22.00 ms**  |
+| Memory Avg      | **22.50 MB**   |
+| Latest Problem  | **[1](Easy/0001_two-sum)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -71,7 +71,7 @@ Automatically synchronized from LeetCode.
 
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
-| 1 | 0026 | [Remove Duplicates from Sorted Array](Easy/0026_remove-duplicates-from-sorted-array) | 🟢&nbsp;Easy | Java | 1 ms | 47 MB | [Link!](https://leetcode.com/problems/remove-duplicates-from-sorted-array) |
+| 1 | 0001 | [Two Sum](Easy/0001_two-sum) | 🟢&nbsp;Easy | Java | 44 ms | 45 MB | [Link!](https://leetcode.com/problems/two-sum) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
