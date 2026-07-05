@@ -15,8 +15,8 @@
 | Metric | Count |
 |-------|-------------:|
 |Total  | **1**  |
-|Easy   | **1**   |
-|Medium | **0** |
+|Easy   | **0**   |
+|Medium | **1** |
 |Hard   | **0**   |
 
 </td>
@@ -55,8 +55,8 @@
 | Metric          | Value              |
 |-----------------|-------------------:|
 | Runtime Avg     | **0.00 ms**  |
-| Memory Avg      | **23.25 MB**   |
-| Latest Problem  | **[744](Easy/0744_find-smallest-letter-greater-than-target)**|
+| Memory Avg      | **22.20 MB**   |
+| Latest Problem  | **[162](Medium/0162_find-peak-element)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -71,7 +71,7 @@ Automatically synchronized from LeetCode.
 
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
-| 1 | 0744 | [Find Smallest Letter Greater Than Target](Easy/0744_find-smallest-letter-greater-than-target) | 🟢&nbsp;Easy | Java | 0 ms | 46.5 MB | [Link!](https://leetcode.com/problems/find-smallest-letter-greater-than-target) |
+| 1 | 0162 | [Find Peak Element](Medium/0162_find-peak-element) | 🟡&nbsp;Medium | Java | 0 ms | 44.4 MB | [Link!](https://leetcode.com/problems/find-peak-element) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
