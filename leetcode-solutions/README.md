@@ -2,7 +2,7 @@
 # Leetcode Solutions
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Binary Search</code>
+<code>Array</code>&nbsp;<code>Matrix</code>
 
 ### Dashboard
 
@@ -28,7 +28,7 @@
 | Topic | Count |
 |-------|------:|
 | Array | **1** |
-| Binary Search | **1** |
+| Matrix | **1** |
 
 
 
@@ -55,8 +55,8 @@
 | Metric          | Value              |
 |-----------------|-------------------:|
 | Runtime Avg     | **0.00 ms**  |
-| Memory Avg      | **22.35 MB**   |
-| Latest Problem  | **[35](Easy/0035_search-insert-position)**|
+| Memory Avg      | **22.30 MB**   |
+| Latest Problem  | **[1672](Easy/1672_richest-customer-wealth)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -71,7 +71,7 @@ Automatically synchronized from LeetCode.
 
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
-| 1 | 0035 | [Search Insert Position](Easy/0035_search-insert-position) | 🟢&nbsp;Easy | Java | 0 ms | 44.7 MB | [Link!](https://leetcode.com/problems/search-insert-position) |
+| 1 | 1672 | [Richest Customer Wealth](Easy/1672_richest-customer-wealth) | 🟢&nbsp;Easy | Java | 0 ms | 44.6 MB | [Link!](https://leetcode.com/problems/richest-customer-wealth) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
