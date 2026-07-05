@@ -2,7 +2,7 @@
 # Leetcode Solutions
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Greedy</code>&nbsp;<code>Sorting</code>&nbsp;<code>Counting Sort</code>
+<code>Array</code>&nbsp;<code>Prefix Sum</code>
 
 ### Dashboard
 
@@ -28,9 +28,9 @@
 | Topic | Count |
 |-------|------:|
 | Array | **1** |
-| Greedy | **1** |
-| Sorting | **1** |
-| Counting Sort | **1** |
+| Prefix Sum | **1** |
+
+
 
 
 </td>
@@ -41,7 +41,7 @@
 
 | Language | Count |
 |----------|------:|
-| Java | **1** |
+| Python3 | **1** |
 
 
 
@@ -54,9 +54,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **1153.00 ms**  |
-| Memory Avg      | **23.75 MB**   |
-| Latest Problem  | **[561](Easy/0561_array-partition)**|
+| Runtime Avg     | **1.00 ms**  |
+| Memory Avg      | **9.70 MB**   |
+| Latest Problem  | **[2574](Easy/2574_left-and-right-sum-differences)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -71,7 +71,7 @@ Automatically synchronized from LeetCode.
 
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
-| 1 | 0561 | [Array Partition](Easy/0561_array-partition) | 🟢&nbsp;Easy | Java | 2306 ms | 47.5 MB | [Link!](https://leetcode.com/problems/array-partition) |
+| 1 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
