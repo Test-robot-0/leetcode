@@ -2,7 +2,7 @@
 # Leetcode Solutions
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Binary Search</code>
+<code>Two Pointers</code>&nbsp;<code>String</code>
 
 ### Dashboard
 
@@ -15,8 +15,8 @@
 | Metric | Count |
 |-------|-------------:|
 |Total  | **1**  |
-|Easy   | **0**   |
-|Medium | **1** |
+|Easy   | **1**   |
+|Medium | **0** |
 |Hard   | **0**   |
 
 </td>
@@ -27,8 +27,8 @@
 
 | Topic | Count |
 |-------|------:|
-| Array | **1** |
-| Binary Search | **1** |
+| Two Pointers | **1** |
+| String | **1** |
 
 
 
@@ -41,7 +41,7 @@
 
 | Language | Count |
 |----------|------:|
-| Java | **1** |
+| Python3 | **1** |
 
 
 
@@ -54,9 +54,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **0.00 ms**  |
-| Memory Avg      | **24.10 MB**   |
-| Latest Problem  | **[34](Medium/0034_find-first-and-last-position-of-element-in-sorted-array)**|
+| Runtime Avg     | **5.50 ms**  |
+| Memory Avg      | **9.85 MB**   |
+| Latest Problem  | **[125](Easy/0125_valid-palindrome)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -71,7 +71,7 @@ Automatically synchronized from LeetCode.
 
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
-| 1 | 0034 | [Find First and Last Position of Element in Sorted Array](Medium/0034_find-first-and-last-position-of-element-in-sorted-array) | 🟡&nbsp;Medium | Java | 0 ms | 48.2 MB | [Link!](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) |
+| 1 | 0125 | [Valid Palindrome](Easy/0125_valid-palindrome) | 🟢&nbsp;Easy | Python3 | 11 ms | 19.7 MB | [Link!](https://leetcode.com/problems/valid-palindrome) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
