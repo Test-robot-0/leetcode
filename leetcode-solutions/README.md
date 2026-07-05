@@ -2,7 +2,7 @@
 # Leetcode Solutions
 
 <div align="center">
-<code>Math</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Enumeration</code>
+<code>Array</code>&nbsp;<code>Math</code>
 
 ### Dashboard
 
@@ -15,8 +15,8 @@
 | Metric | Count |
 |-------|-------------:|
 |Total  | **1**  |
-|Easy   | **0**   |
-|Medium | **1** |
+|Easy   | **1**   |
+|Medium | **0** |
 |Hard   | **0**   |
 
 </td>
@@ -27,9 +27,9 @@
 
 | Topic | Count |
 |-------|------:|
+| Array | **1** |
 | Math | **1** |
-| Dynamic Programming | **1** |
-| Enumeration | **1** |
+
 
 
 
@@ -41,7 +41,7 @@
 
 | Language | Count |
 |----------|------:|
-| Python3 | **1** |
+| Java | **1** |
 
 
 
@@ -54,9 +54,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **138.00 ms**  |
-| Memory Avg      | **9.60 MB**   |
-| Latest Problem  | **[3751](Medium/3751_total-waviness-of-numbers-in-range-i)**|
+| Runtime Avg     | **0.00 ms**  |
+| Memory Avg      | **21.75 MB**   |
+| Latest Problem  | **[66](Easy/0066_plus-one)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -71,7 +71,7 @@ Automatically synchronized from LeetCode.
 
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
-| 1 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 1 | 0066 | [Plus One](Easy/0066_plus-one) | 🟢&nbsp;Easy | Java | 0 ms | 43.5 MB | [Link!](https://leetcode.com/problems/plus-one) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
