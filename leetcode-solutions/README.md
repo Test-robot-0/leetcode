@@ -2,7 +2,7 @@
 # Leetcode Solutions
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Matrix</code>
+<code>Array</code>&nbsp;<code>Prefix Sum</code>
 
 ### Dashboard
 
@@ -28,7 +28,7 @@
 | Topic | Count |
 |-------|------:|
 | Array | **1** |
-| Matrix | **1** |
+| Prefix Sum | **1** |
 
 
 
@@ -55,8 +55,8 @@
 | Metric          | Value              |
 |-----------------|-------------------:|
 | Runtime Avg     | **0.00 ms**  |
-| Memory Avg      | **22.30 MB**   |
-| Latest Problem  | **[1672](Easy/1672_richest-customer-wealth)**|
+| Memory Avg      | **21.60 MB**   |
+| Latest Problem  | **[1732](Easy/1732_find-the-highest-altitude)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -71,7 +71,7 @@ Automatically synchronized from LeetCode.
 
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
-| 1 | 1672 | [Richest Customer Wealth](Easy/1672_richest-customer-wealth) | 🟢&nbsp;Easy | Java | 0 ms | 44.6 MB | [Link!](https://leetcode.com/problems/richest-customer-wealth) |
+| 1 | 1732 | [Find the Highest Altitude](Easy/1732_find-the-highest-altitude) | 🟢&nbsp;Easy | Java | 0 ms | 43.2 MB | [Link!](https://leetcode.com/problems/find-the-highest-altitude) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
