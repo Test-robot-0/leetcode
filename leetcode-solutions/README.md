@@ -15,8 +15,8 @@
 | Metric | Count |
 |-------|-------------:|
 |Total  | **1**  |
-|Easy   | **0**   |
-|Medium | **1** |
+|Easy   | **1**   |
+|Medium | **0** |
 |Hard   | **0**   |
 
 </td>
@@ -55,8 +55,8 @@
 | Metric          | Value              |
 |-----------------|-------------------:|
 | Runtime Avg     | **0.00 ms**  |
-| Memory Avg      | **22.20 MB**   |
-| Latest Problem  | **[162](Medium/0162_find-peak-element)**|
+| Memory Avg      | **22.35 MB**   |
+| Latest Problem  | **[35](Easy/0035_search-insert-position)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -71,7 +71,7 @@ Automatically synchronized from LeetCode.
 
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
-| 1 | 0162 | [Find Peak Element](Medium/0162_find-peak-element) | 🟡&nbsp;Medium | Java | 0 ms | 44.4 MB | [Link!](https://leetcode.com/problems/find-peak-element) |
+| 1 | 0035 | [Search Insert Position](Easy/0035_search-insert-position) | 🟢&nbsp;Easy | Java | 0 ms | 44.7 MB | [Link!](https://leetcode.com/problems/search-insert-position) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
