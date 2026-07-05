@@ -2,7 +2,7 @@
 # Leetcode Solutions
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>&nbsp;<code>Math</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>String</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Enumeration</code>&nbsp;<code>Hash Table</code>&nbsp;<code>Greedy</code>&nbsp;<code>Sorting</code>&nbsp;<code>Counting Sort</code>&nbsp;<code>Prefix Sum</code>
+<code>Array</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>&nbsp;<code>Math</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>String</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Enumeration</code>&nbsp;<code>Hash Table</code>&nbsp;<code>Greedy</code>&nbsp;<code>Sorting</code>&nbsp;<code>Counting Sort</code>&nbsp;<code>Prefix Sum</code>&nbsp;<code>Matrix</code>
 
 ### Dashboard
 
@@ -14,8 +14,8 @@
 
 | Metric | Count |
 |-------|-------------:|
-|Total  | **17**  |
-|Easy   | **12**   |
+|Total  | **18**  |
+|Easy   | **13**   |
 |Medium | **5** |
 |Hard   | **0**   |
 
@@ -27,7 +27,7 @@
 
 | Topic | Count |
 |-------|------:|
-| Array | **13** |
+| Array | **14** |
 | Math | **5** |
 | Binary Search | **5** |
 | Simulation | **2** |
@@ -41,7 +41,7 @@
 
 | Language | Count |
 |----------|------:|
-| Java | **10** |
+| Java | **11** |
 | Python3 | **6** |
 | C++ | **1** |
 
@@ -54,9 +54,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **162.33 ms**  |
-| Memory Avg      | **34.24 MB**   |
-| Latest Problem  | **[852](Medium/0852_peak-index-in-a-mountain-array)**|
+| Runtime Avg     | **153.79 ms**  |
+| Memory Avg      | **34.79 MB**   |
+| Latest Problem  | **[1672](Easy/1672_richest-customer-wealth)**|
 | Last Updated    | **2026-07-05** |  
 
 
@@ -85,9 +85,10 @@ Automatically synchronized from LeetCode.
 | 12 | 0744 | [Find Smallest Letter Greater Than Target](Easy/0744_find-smallest-letter-greater-than-target) | 🟢&nbsp;Easy | Java | 0 ms | 46.5 MB | [Link!](https://leetcode.com/problems/find-smallest-letter-greater-than-target) |
 | 13 | 0852 | [Peak Index in a Mountain Array](Medium/0852_peak-index-in-a-mountain-array) | 🟡&nbsp;Medium | Java | 0 ms | 80.4 MB | [Link!](https://leetcode.com/problems/peak-index-in-a-mountain-array) |
 | 14 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
-| 15 | 1732 | [Find the Highest Altitude](Easy/1732_find-the-highest-altitude) | 🟢&nbsp;Easy | Java | 0 ms | 43.2 MB | [Link!](https://leetcode.com/problems/find-the-highest-altitude) |
-| 16 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
-| 17 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 15 | 1672 | [Richest Customer Wealth](Easy/1672_richest-customer-wealth) | 🟢&nbsp;Easy | Java | 0 ms | 44.6 MB | [Link!](https://leetcode.com/problems/richest-customer-wealth) |
+| 16 | 1732 | [Find the Highest Altitude](Easy/1732_find-the-highest-altitude) | 🟢&nbsp;Easy | Java | 0 ms | 43.2 MB | [Link!](https://leetcode.com/problems/find-the-highest-altitude) |
+| 17 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
+| 18 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 
 <br>
 <p align="right">Last Sync: 2026-07-05 &nbsp;</p>
