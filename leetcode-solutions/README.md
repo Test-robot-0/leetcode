@@ -14,8 +14,8 @@
 
 | Metric | Count |
 |-------|-------------:|
-|Total  | **2**  |
-|Easy   | **1**   |
+|Total  | **3**  |
+|Easy   | **2**   |
 |Medium | **1** |
 |Hard   | **0**   |
 
@@ -27,10 +27,10 @@
 
 | Topic | Count |
 |-------|------:|
-| Array | **1** |
+| Array | **2** |
+| Math | **2** |
 | Stack | **1** |
 | Simulation | **1** |
-| Math | **1** |
 
 
 </td>
@@ -41,7 +41,7 @@
 
 | Language | Count |
 |----------|------:|
-| Python3 | **1** |
+| Python3 | **2** |
 | C++ | **1** |
 
 
@@ -54,9 +54,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **93.00 ms**  |
-| Memory Avg      | **9.63 MB**   |
-| Latest Problem  | **[9](Easy/0009_palindrome-number)**|
+| Runtime Avg     | **69.75 ms**  |
+| Memory Avg      | **12.02 MB**   |
+| Latest Problem  | **[1295](Easy/1295_find-numbers-with-even-number-of-digits)**|
 | Last Updated    | **2026-07-06** |  
 
 
@@ -73,6 +73,7 @@ Automatically synchronized from LeetCode.
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
 | 1 | 0009 | [Palindrome Number](Easy/0009_palindrome-number) | 🟢&nbsp;Easy | C++ | 2 ms | 8.5 MB | [Link!](https://leetcode.com/problems/palindrome-number) |
 | 2 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
+| 3 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
 
 <br>
 <p align="right">Last Sync: 2026-07-06 &nbsp;</p>
