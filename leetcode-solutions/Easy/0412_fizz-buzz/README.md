@@ -34,7 +34,7 @@
 |-----------------|------------------------------:|
 |Total Submission |**2.4M** |
 |Total Accepted   |**1.8M**   |
-|Acceptance Rate  |**75.7%**          |
+|Acceptance Rate  |**75.6%**          |
 
 
 </td>
