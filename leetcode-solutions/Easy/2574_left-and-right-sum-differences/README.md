@@ -32,8 +32,8 @@
 
 | Metric          | Count                         |
 |-----------------|------------------------------:|
-|Total Submission |**410.2K** |
-|Total Accepted   |**367.7K**   |
+|Total Submission |**410.4K** |
+|Total Accepted   |**367.9K**   |
 |Acceptance Rate  |**89.6%**          |
 
 
