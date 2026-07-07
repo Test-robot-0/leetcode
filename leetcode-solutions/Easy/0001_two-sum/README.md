@@ -34,7 +34,7 @@
 |-----------------|------------------------------:|
 |Total Submission |**38.8M** |
 |Total Accepted   |**22.4M**   |
-|Acceptance Rate  |**57.7%**          |
+|Acceptance Rate  |**57.8%**          |
 
 
 </td>
@@ -89,4 +89,4 @@
 <strong>Follow-up:&nbsp;</strong>Can you come up with an algorithm that is less than <code>O(n<sup>2</sup>)</code><font face="monospace">&nbsp;</font>time complexity?
 
 <br>
-<p align="right">Last Sync: 2026-07-06 &nbsp;</p>
+<p align="right">Last Sync: 2026-07-07 &nbsp;</p>
