@@ -1,14 +1,8 @@
 
 # Leetcode Solutions
 
-[!NOTE]
-
-This repository is **automatically synchronized** using my **LeetCode Sync** project.
-
-Every accepted submission is fetched from LeetCode, stored in SQLite, documented with generated README files, and published automatically.
-
-**Automation Project:** [LeetCode Sync](https://github.com/yourusername/leetcode-sync)
-
+> 🤖 **Auto-generated** using **LeetCode Sync**.
+> View the automation project → **LeetCode Sync**
 
 <div align="center">
 <code>Array</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>&nbsp;<code>Math</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>String</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Enumeration</code>&nbsp;<code>Hash Table</code>&nbsp;<code>Prefix Sum</code>&nbsp;<code>Greedy</code>&nbsp;<code>Sorting</code>&nbsp;<code>Counting Sort</code>
@@ -23,8 +17,8 @@ Every accepted submission is fetched from LeetCode, stored in SQLite, documented
 
 | Metric | Count |
 |-------|-------------:|
-|Total  | **14**  |
-|Easy   | **11**   |
+|Total  | **15**  |
+|Easy   | **12**   |
 |Medium | **3** |
 |Hard   | **0**   |
 
@@ -36,7 +30,7 @@ Every accepted submission is fetched from LeetCode, stored in SQLite, documented
 
 | Topic | Count |
 |-------|------:|
-| Array | **10** |
+| Array | **11** |
 | Math | **5** |
 | Two Pointers | **3** |
 | Simulation | **2** |
@@ -50,7 +44,7 @@ Every accepted submission is fetched from LeetCode, stored in SQLite, documented
 
 | Language | Count |
 |----------|------:|
-| Java | **7** |
+| Java | **8** |
 | Python3 | **6** |
 | C++ | **1** |
 
@@ -63,9 +57,9 @@ Every accepted submission is fetched from LeetCode, stored in SQLite, documented
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **194.87 ms**  |
-| Memory Avg      | **29.85 MB**   |
-| Latest Problem  | **[744](Easy/0744_find-smallest-letter-greater-than-target)**|
+| Runtime Avg     | **182.69 ms**  |
+| Memory Avg      | **30.68 MB**   |
+| Latest Problem  | **[1732](Easy/1732_find-the-highest-altitude)**|
 | Last Updated    | **2026-07-07** |  
 
 
@@ -92,8 +86,9 @@ Automatically synchronized from LeetCode.
 | 10 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
 | 11 | 0744 | [Find Smallest Letter Greater Than Target](Easy/0744_find-smallest-letter-greater-than-target) | 🟢&nbsp;Easy | Java | 0 ms | 46.5 MB | [Link!](https://leetcode.com/problems/find-smallest-letter-greater-than-target) |
 | 12 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
-| 13 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
-| 14 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 13 | 1732 | [Find the Highest Altitude](Easy/1732_find-the-highest-altitude) | 🟢&nbsp;Easy | Java | 0 ms | 43.2 MB | [Link!](https://leetcode.com/problems/find-the-highest-altitude) |
+| 14 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
+| 15 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 
 <br>
 <p align="right">
