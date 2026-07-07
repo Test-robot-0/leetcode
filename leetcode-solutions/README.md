@@ -1,14 +1,10 @@
 
 # Leetcode Solutions
 
-This repository is automatically synchronized using **LeetCode Sync**. View the [source code]("google.com").
-
----
-
 <div align="center">
-<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>&nbsp;<code>Binary Search</code>
+<code>Array</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>&nbsp;<code>Math</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>String</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Enumeration</code>&nbsp;<code>Greedy</code>&nbsp;<code>Sorting</code>&nbsp;<code>Counting Sort</code>&nbsp;<code>Hash Table</code>&nbsp;<code>Prefix Sum</code>
 
-<h2> Dashboard </h2>
+### Dashboard
 
 <table>
 <tr>
@@ -18,9 +14,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Count |
 |-------|-------------:|
-|Total  | **4**  |
-|Easy   | **2**   |
-|Medium | **2** |
+|Total  | **16**  |
+|Easy   | **12**   |
+|Medium | **4** |
 |Hard   | **0**   |
 
 </td>
@@ -31,10 +27,10 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Topic | Count |
 |-------|------:|
-| Array | **3** |
-| Math | **2** |
-| Stack | **1** |
-| Simulation | **1** |
+| Array | **12** |
+| Math | **5** |
+| Binary Search | **3** |
+| Two Pointers | **3** |
 
 
 </td>
@@ -45,8 +41,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | Count |
 |----------|------:|
-| Python3 | **2** |
-| Java | **1** |
+| Java | **9** |
+| Python3 | **6** |
 | C++ | **1** |
 
 
@@ -54,37 +50,44 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 <td valign="top">
 
-<h3> Repository Info</h3>
+<h3> Activity</h3>
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **55.80 ms**  |
-| Memory Avg      | **19.26 MB**   |
-| Latest Problem  | **[1295](Easy/1295_find-numbers-with-even-number-of-digits)**|
-| Last Updated    | **2026-07-08** |  
+| Runtime Avg     | **171.94 ms**  |
+| Memory Avg      | **31.49 MB**   |
+| Latest Problem  | **[88](Easy/0088_merge-sorted-array)**|
+| Last Updated    | **2026-07-07** |  
 
 
 </td>
 </tr>
 </table>
-
+<div>
 
 ---
 
-Auto-generated using **LeetCode Sync**
+Automatically synchronized from LeetCode.
 
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
-| 1 | 0009 | [Palindrome Number](Easy/0009_palindrome-number) | 🟢&nbsp;Easy | C++ | 2 ms | 8.5 MB | [Link!](https://leetcode.com/problems/palindrome-number) |
-| 2 | 0034 | [Find First and Last Position of Element in Sorted Array](Medium/0034_find-first-and-last-position-of-element-in-sorted-array) | 🟡&nbsp;Medium | Java | 0 ms | 48.2 MB | [Link!](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) |
-| 3 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
-| 4 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
----
+| 1 | 0001 | [Two Sum](Easy/0001_two-sum) | 🟢&nbsp;Easy | Java | 44 ms | 45 MB | [Link!](https://leetcode.com/problems/two-sum) |
+| 2 | 0009 | [Palindrome Number](Easy/0009_palindrome-number) | 🟢&nbsp;Easy | C++ | 2 ms | 8.5 MB | [Link!](https://leetcode.com/problems/palindrome-number) |
+| 3 | 0026 | [Remove Duplicates from Sorted Array](Easy/0026_remove-duplicates-from-sorted-array) | 🟢&nbsp;Easy | Java | 1 ms | 47 MB | [Link!](https://leetcode.com/problems/remove-duplicates-from-sorted-array) |
+| 4 | 0034 | [Find First and Last Position of Element in Sorted Array](Medium/0034_find-first-and-last-position-of-element-in-sorted-array) | 🟡&nbsp;Medium | Java | 0 ms | 48.2 MB | [Link!](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) |
+| 5 | 0066 | [Plus One](Easy/0066_plus-one) | 🟢&nbsp;Easy | Java | 0 ms | 43.5 MB | [Link!](https://leetcode.com/problems/plus-one) |
+| 6 | 0088 | [Merge Sorted Array](Easy/0088_merge-sorted-array) | 🟢&nbsp;Easy | Java | 1 ms | 44 MB | [Link!](https://leetcode.com/problems/merge-sorted-array) |
+| 7 | 0125 | [Valid Palindrome](Easy/0125_valid-palindrome) | 🟢&nbsp;Easy | Python3 | 11 ms | 19.7 MB | [Link!](https://leetcode.com/problems/valid-palindrome) |
+| 8 | 0162 | [Find Peak Element](Medium/0162_find-peak-element) | 🟡&nbsp;Medium | Java | 0 ms | 44.4 MB | [Link!](https://leetcode.com/problems/find-peak-element) |
+| 9 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | 🟢&nbsp;Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
+| 10 | 0561 | [Array Partition](Easy/0561_array-partition) | 🟢&nbsp;Easy | Java | 2306 ms | 47.5 MB | [Link!](https://leetcode.com/problems/array-partition) |
+| 11 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
+| 12 | 0744 | [Find Smallest Letter Greater Than Target](Easy/0744_find-smallest-letter-greater-than-target) | 🟢&nbsp;Easy | Java | 0 ms | 46.5 MB | [Link!](https://leetcode.com/problems/find-smallest-letter-greater-than-target) |
+| 13 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
+| 14 | 1732 | [Find the Highest Altitude](Easy/1732_find-the-highest-altitude) | 🟢&nbsp;Easy | Java | 0 ms | 43.2 MB | [Link!](https://leetcode.com/problems/find-the-highest-altitude) |
+| 15 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
+| 16 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 
-</div>
-
-<div align="center">
-<p> Powered by LeetCode Sync • GitHub Actions • Last Sync: 2026-07-08 </p>
-</div>
-
+<br>
+<p align="right">Last Sync: 2026-07-07 &nbsp;</p>
 
