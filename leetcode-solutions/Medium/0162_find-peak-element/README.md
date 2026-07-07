@@ -34,7 +34,7 @@
 |-----------------|------------------------------:|
 |Total Submission |**5.3M** |
 |Total Accepted   |**2.5M**   |
-|Acceptance Rate  |**47.0%**          |
+|Acceptance Rate  |**47.1%**          |
 
 
 </td>
@@ -80,4 +80,4 @@
 
 
 <br>
-<p align="right">Last Sync: 2026-07-06 &nbsp;</p>
+<p align="right">Last Sync: 2026-07-07 &nbsp;</p>
