@@ -14,8 +14,8 @@
 
 | Metric | Count |
 |-------|-------------:|
-|Total  | **12**  |
-|Easy   | **9**   |
+|Total  | **13**  |
+|Easy   | **10**   |
 |Medium | **3** |
 |Hard   | **0**   |
 
@@ -27,10 +27,10 @@
 
 | Topic | Count |
 |-------|------:|
-| Array | **8** |
+| Array | **9** |
 | Math | **5** |
 | Simulation | **2** |
-| Two Pointers | **2** |
+| Binary Search | **2** |
 
 
 </td>
@@ -42,7 +42,7 @@
 | Language | Count |
 |----------|------:|
 | Python3 | **6** |
-| Java | **5** |
+| Java | **6** |
 | C++ | **1** |
 
 
@@ -54,9 +54,9 @@
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime Avg     | **224.77 ms**  |
-| Memory Avg      | **27.48 MB**   |
-| Latest Problem  | **[2574](Easy/2574_left-and-right-sum-differences)**|
+| Runtime Avg     | **208.71 ms**  |
+| Memory Avg      | **28.84 MB**   |
+| Latest Problem  | **[744](Easy/0744_find-smallest-letter-greater-than-target)**|
 | Last Updated    | **2026-07-07** |  
 
 
@@ -80,9 +80,10 @@ Automatically synchronized from LeetCode.
 | 7 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | 🟢&nbsp;Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
 | 8 | 0561 | [Array Partition](Easy/0561_array-partition) | 🟢&nbsp;Easy | Java | 2306 ms | 47.5 MB | [Link!](https://leetcode.com/problems/array-partition) |
 | 9 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
-| 10 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
-| 11 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
-| 12 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 10 | 0744 | [Find Smallest Letter Greater Than Target](Easy/0744_find-smallest-letter-greater-than-target) | 🟢&nbsp;Easy | Java | 0 ms | 46.5 MB | [Link!](https://leetcode.com/problems/find-smallest-letter-greater-than-target) |
+| 11 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
+| 12 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
+| 13 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 
 <br>
 <p align="right">Last Sync: 2026-07-07 &nbsp;</p>
