@@ -32,9 +32,10 @@
 
 | Metric          | Count                         |
 |-----------------|------------------------------:|
+|Acceptance Rate  |**79.9%**          |
 |Total Submission |**1.4M** |
 |Total Accepted   |**1.1M**   |
-|Acceptance Rate  |**79.9%**          |
+
 
 
 </td>
@@ -82,4 +83,4 @@ Only 1771 contains an even number of digits.
 
 
 <br>
-<p align="right">Last Sync: 2026-07-07 &nbsp;</p>
+<p align="right">Last Sync: 2026-07-08 &nbsp;</p>
