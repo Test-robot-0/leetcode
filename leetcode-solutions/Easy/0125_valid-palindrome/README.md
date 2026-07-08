@@ -32,9 +32,10 @@
 
 | Metric          | Count                         |
 |-----------------|------------------------------:|
+|Acceptance Rate  |**53.7%**          |
 |Total Submission |**10.5M** |
 |Total Accepted   |**5.7M**   |
-|Acceptance Rate  |**53.7%**          |
+
 
 
 </td>
@@ -86,4 +87,4 @@ Since an empty string reads the same forward and backward, it is a palindrome.
 
 
 <br>
-<p align="right">Last Sync: 2026-07-07 &nbsp;</p>
+<p align="right">Last Sync: 2026-07-08 &nbsp;</p>
