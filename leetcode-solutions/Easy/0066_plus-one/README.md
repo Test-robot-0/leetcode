@@ -32,9 +32,10 @@
 
 | Metric          | Count                         |
 |-----------------|------------------------------:|
+|Acceptance Rate  |**50.2%**          |
 |Total Submission |**7.6M** |
 |Total Accepted   |**3.8M**   |
-|Acceptance Rate  |**50.2%**          |
+
 
 
 </td>
