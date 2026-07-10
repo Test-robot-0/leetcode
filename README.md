@@ -18,8 +18,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **7**  |
-|Easy   | **5**   |
+|Total  | **8**  |
+|Easy   | **6**   |
 |Medium | **2** |
 |Hard   | **0**   |
 
@@ -31,7 +31,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Topic | Value |
 |-------|------:|
-| Array | **4** |
+| Array | **5** |
 | Math | **3** |
 | Simulation | **2** |
 | String | **2** |
@@ -45,7 +45,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
-| Python3 | **4** |
+| Python3 | **5** |
 | Java | **2** |
 | C++ | **1** |
 
@@ -58,9 +58,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **324.88 ms**  |
-| Memory  | **22.89 MB**   |
-| Latest  | **[561](Easy/0561_array-partition)**|
+| Runtime    | **289.00 ms**  |
+| Memory  | **22.50 MB**   |
+| Latest  | **[2574](Easy/2574_left-and-right-sum-differences)**|
 | Updated    | **2026-07-10** |  
 
 
@@ -82,6 +82,7 @@ Auto-generated using **LeetCode Sync**
 | 5 | 0561 | [Array Partition](Easy/0561_array-partition) | 🟢&nbsp;Easy | Java | 2306 ms | 47.5 MB | [Link!](https://leetcode.com/problems/array-partition) |
 | 6 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
 | 7 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
+| 8 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
 ---
 
 </div>
