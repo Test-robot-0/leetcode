@@ -33,7 +33,7 @@
 | Metric          | Count                         |
 |-----------------|------------------------------:|
 |Acceptance Rate  |**55.2%**          |
-|Total Submission |**10.6M** |
+|Total Submission |**10.7M** |
 |Total Accepted   |**5.9M**   |
 
 
@@ -98,4 +98,4 @@ Note that because m = 0, there are no elements in nums1. The 0 is only there to 
 
 
 <br>
-<p align="right">Last Sync: 2026-07-09 &nbsp;</p>
+<p align="right">Last Sync: 2026-07-12 &nbsp;</p>
