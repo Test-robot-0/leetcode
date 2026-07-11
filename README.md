@@ -60,7 +60,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 |-----------------|-------------------:|
 | Runtime    | **291.90 ms**  |
 | Memory  | **24.73 MB**   |
-| Latest  | **[561](Easy/0561_array-partition)**|
+| Latest  | **[1](Easy/0001_two-sum)**|
 | Updated    | **2026-07-12** |  
 
 
