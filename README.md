@@ -6,7 +6,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 ---
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Simulation</code>&nbsp;<code>Stack</code>&nbsp;<code>String</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Enumeration</code>&nbsp;<code>Hash Table</code>&nbsp;<code>Prefix Sum</code>&nbsp;<code>Greedy</code>
+<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Simulation</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Stack</code>&nbsp;<code>String</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Enumeration</code>&nbsp;<code>Hash Table</code>&nbsp;<code>Prefix Sum</code>
 
 <h2> Dashboard </h2>
 
@@ -18,9 +18,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **9**  |
+|Total  | **10**  |
 |Easy   | **7**   |
-|Medium | **2** |
+|Medium | **3** |
 |Hard   | **0**   |
 
 </td>
@@ -31,10 +31,10 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Topic | Value |
 |-------|------:|
-| Array | **6** |
+| Array | **7** |
 | Math | **4** |
 | Simulation | **2** |
-| Stack | **1** |
+| Binary Search | **2** |
 
 
 </td>
@@ -45,8 +45,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
+| Java | **5** |
 | Python3 | **4** |
-| Java | **4** |
 | C++ | **1** |
 
 
@@ -58,9 +58,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **291.00 ms**  |
-| Memory  | **26.78 MB**   |
-| Latest  | **[35](Easy/0035_search-insert-position)**|
+| Runtime    | **264.55 ms**  |
+| Memory  | **31.65 MB**   |
+| Latest  | **[852](Medium/0852_peak-index-in-a-mountain-array)**|
 | Updated    | **2026-07-12** |  
 
 
@@ -82,8 +82,9 @@ Auto-generated using **LeetCode Sync**
 | 5 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | 🟢&nbsp;Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
 | 6 | 0561 | [Array Partition](Easy/0561_array-partition) | 🟢&nbsp;Easy | Java | 2306 ms | 47.5 MB | [Link!](https://leetcode.com/problems/array-partition) |
 | 7 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
-| 8 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
-| 9 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 8 | 0852 | [Peak Index in a Mountain Array](Medium/0852_peak-index-in-a-mountain-array) | 🟡&nbsp;Medium | Java | 0 ms | 80.4 MB | [Link!](https://leetcode.com/problems/peak-index-in-a-mountain-array) |
+| 9 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
+| 10 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 ---
 
 </div>
