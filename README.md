@@ -6,7 +6,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 ---
 
 <div align="center">
-<code>Simulation</code>&nbsp;<code>Math</code>&nbsp;<code>Array</code>&nbsp;<code>Stack</code>&nbsp;<code>String</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Enumeration</code>
+<code>Array</code>&nbsp;<code>Simulation</code>&nbsp;<code>Math</code>&nbsp;<code>Stack</code>&nbsp;<code>String</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Enumeration</code>&nbsp;<code>Hash Table</code>
 
 <h2> Dashboard </h2>
 
@@ -18,8 +18,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **3**  |
-|Easy   | **1**   |
+|Total  | **4**  |
+|Easy   | **2**   |
 |Medium | **2** |
 |Hard   | **0**   |
 
@@ -31,9 +31,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Topic | Value |
 |-------|------:|
+| Array | **2** |
 | Simulation | **2** |
 | Math | **2** |
-| Array | **1** |
 | Stack | **1** |
 
 
@@ -46,7 +46,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 | Language | # |
 |----------|------:|
 | Python3 | **3** |
-
+| Java | **1** |
 
 
 
@@ -58,9 +58,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **139.00 ms**  |
-| Memory  | **14.80 MB**   |
-| Latest  | **[3751](Medium/3751_total-waviness-of-numbers-in-range-i)**|
+| Runtime    | **120.00 ms**  |
+| Memory  | **20.84 MB**   |
+| Latest  | **[1](Easy/0001_two-sum)**|
 | Updated    | **2026-07-12** |  
 
 
@@ -75,9 +75,10 @@ Auto-generated using **LeetCode Sync**
 
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
-| 1 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | 🟢&nbsp;Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
-| 2 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
-| 3 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 1 | 0001 | [Two Sum](Easy/0001_two-sum) | 🟢&nbsp;Easy | Java | 44 ms | 45 MB | [Link!](https://leetcode.com/problems/two-sum) |
+| 2 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | 🟢&nbsp;Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
+| 3 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
+| 4 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 ---
 
 </div>
