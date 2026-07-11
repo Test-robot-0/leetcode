@@ -34,7 +34,7 @@
 |-----------------|------------------------------:|
 |Acceptance Rate  |**63.2%**          |
 |Total Submission |**12.9M** |
-|Total Accepted   |**8.1M**   |
+|Total Accepted   |**8.2M**   |
 
 
 
@@ -101,4 +101,4 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 
 
 <br>
-<p align="right">Last Sync: 2026-07-10 &nbsp;</p>
+<p align="right">Last Sync: 2026-07-12 &nbsp;</p>
