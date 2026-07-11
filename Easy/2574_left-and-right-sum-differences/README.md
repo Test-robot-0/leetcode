@@ -33,8 +33,8 @@
 | Metric          | Count                         |
 |-----------------|------------------------------:|
 |Acceptance Rate  |**89.6%**          |
-|Total Submission |**411.2K** |
-|Total Accepted   |**368.6K**   |
+|Total Submission |**411.7K** |
+|Total Accepted   |**369K**   |
 
 
 
@@ -87,4 +87,4 @@ The array answer is [|0 - 0|] = [0].
 
 
 <br>
-<p align="right">Last Sync: 2026-07-10 &nbsp;</p>
+<p align="right">Last Sync: 2026-07-12 &nbsp;</p>
