@@ -18,8 +18,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **6**  |
-|Easy   | **4**   |
+|Total  | **7**  |
+|Easy   | **5**   |
 |Medium | **2** |
 |Hard   | **0**   |
 
@@ -32,7 +32,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 | Topic | Value |
 |-------|------:|
 | Array | **4** |
-| Math | **3** |
+| Math | **4** |
 | Simulation | **2** |
 | Stack | **1** |
 
@@ -47,7 +47,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 |----------|------:|
 | Python3 | **4** |
 | Java | **2** |
-
+| C++ | **1** |
 
 
 </td>
@@ -58,8 +58,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **86.00 ms**  |
-| Memory  | **23.87 MB**   |
+| Runtime    | **75.50 ms**  |
+| Memory  | **21.95 MB**   |
 | Latest  | **[9](Easy/0009_palindrome-number)**|
 | Updated    | **2026-07-12** |  
 
@@ -76,11 +76,12 @@ Auto-generated using **LeetCode Sync**
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
 | 1 | 0001 | [Two Sum](Easy/0001_two-sum) | 🟢&nbsp;Easy | Java | 44 ms | 45 MB | [Link!](https://leetcode.com/problems/two-sum) |
-| 2 | 0066 | [Plus One](Easy/0066_plus-one) | 🟢&nbsp;Easy | Java | 0 ms | 43.5 MB | [Link!](https://leetcode.com/problems/plus-one) |
-| 3 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | 🟢&nbsp;Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
-| 4 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
-| 5 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
-| 6 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 2 | 0009 | [Palindrome Number](Easy/0009_palindrome-number) | 🟢&nbsp;Easy | C++ | 2 ms | 8.5 MB | [Link!](https://leetcode.com/problems/palindrome-number) |
+| 3 | 0066 | [Plus One](Easy/0066_plus-one) | 🟢&nbsp;Easy | Java | 0 ms | 43.5 MB | [Link!](https://leetcode.com/problems/plus-one) |
+| 4 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | 🟢&nbsp;Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
+| 5 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
+| 6 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
+| 7 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 ---
 
 </div>
