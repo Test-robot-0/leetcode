@@ -6,7 +6,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 ---
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Simulation</code>&nbsp;<code>Stack</code>&nbsp;<code>Binary Search</code>&nbsp;<code>String</code>
+<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Simulation</code>&nbsp;<code>String</code>&nbsp;<code>Stack</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Two Pointers</code>
 
 <h2> Dashboard </h2>
 
@@ -18,8 +18,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **5**  |
-|Easy   | **3**   |
+|Total  | **6**  |
+|Easy   | **4**   |
 |Medium | **2** |
 |Hard   | **0**   |
 
@@ -34,7 +34,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 | Array | **3** |
 | Math | **3** |
 | Simulation | **2** |
-| Stack | **1** |
+| String | **2** |
 
 
 </td>
@@ -45,7 +45,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
-| Python3 | **3** |
+| Python3 | **4** |
 | Java | **1** |
 | C++ | **1** |
 
@@ -58,9 +58,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **47.00 ms**  |
-| Memory  | **19.32 MB**   |
-| Latest  | **[412](Easy/0412_fizz-buzz)**|
+| Runtime    | **41.86 ms**  |
+| Memory  | **19.37 MB**   |
+| Latest  | **[125](Easy/0125_valid-palindrome)**|
 | Updated    | **2026-07-12** |  
 
 
@@ -77,9 +77,10 @@ Auto-generated using **LeetCode Sync**
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
 | 1 | 0009 | [Palindrome Number](Easy/0009_palindrome-number) | 🟢&nbsp;Easy | C++ | 2 ms | 8.5 MB | [Link!](https://leetcode.com/problems/palindrome-number) |
 | 2 | 0034 | [Find First and Last Position of Element in Sorted Array](Medium/0034_find-first-and-last-position-of-element-in-sorted-array) | 🟡&nbsp;Medium | Java | 0 ms | 48.2 MB | [Link!](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) |
-| 3 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | 🟢&nbsp;Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
-| 4 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
-| 5 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
+| 3 | 0125 | [Valid Palindrome](Easy/0125_valid-palindrome) | 🟢&nbsp;Easy | Python3 | 11 ms | 19.7 MB | [Link!](https://leetcode.com/problems/valid-palindrome) |
+| 4 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | 🟢&nbsp;Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
+| 5 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
+| 6 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
 ---
 
 </div>
