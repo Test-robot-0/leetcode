@@ -60,7 +60,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 |-----------------|-------------------:|
 | Runtime    | **264.55 ms**  |
 | Memory  | **31.65 MB**   |
-| Latest  | **[852](Medium/0852_peak-index-in-a-mountain-array)**|
+| Latest  | **[412](Easy/0412_fizz-buzz)**|
 | Updated    | **2026-07-12** |  
 
 
