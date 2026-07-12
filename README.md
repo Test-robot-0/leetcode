@@ -6,7 +6,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 ---
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>Simulation</code>&nbsp;<code>String</code>&nbsp;<code>Sorting</code>&nbsp;<code>Stack</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Enumeration</code>
+<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>Simulation</code>&nbsp;<code>String</code>&nbsp;<code>Prefix Sum</code>&nbsp;<code>Sorting</code>&nbsp;<code>Stack</code>&nbsp;<code>Dynamic Programming</code>
 
 <h2> Dashboard </h2>
 
@@ -18,8 +18,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **18**  |
-|Easy   | **13**   |
+|Total  | **19**  |
+|Easy   | **14**   |
 |Medium | **5** |
 |Hard   | **0**   |
 
@@ -31,7 +31,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Topic | Value |
 |-------|------:|
-| Array | **14** |
+| Array | **15** |
 | Math | **5** |
 | Binary Search | **5** |
 | Two Pointers | **3** |
@@ -45,7 +45,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
-| Java | **11** |
+| Java | **12** |
 | Python3 | **6** |
 | C++ | **1** |
 
@@ -58,9 +58,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **153.84 ms**  |
-| Memory  | **34.83 MB**   |
-| Latest  | **[35](Easy/0035_search-insert-position)**|
+| Runtime    | **146.15 ms**  |
+| Memory  | **35.25 MB**   |
+| Latest  | **[1732](Easy/1732_find-the-highest-altitude)**|
 | Updated    | **2026-07-12** |  
 
 
@@ -91,8 +91,9 @@ Auto-generated using **LeetCode Sync**
 | 14 | 0852 | [Peak Index in a Mountain Array](Medium/0852_peak-index-in-a-mountain-array) | 🟡&nbsp;Medium | Java | 0 ms | 80.4 MB | [Link!](https://leetcode.com/problems/peak-index-in-a-mountain-array) |
 | 15 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
 | 16 | 1672 | [Richest Customer Wealth](Easy/1672_richest-customer-wealth) | 🟢&nbsp;Easy | Java | 0 ms | 44.6 MB | [Link!](https://leetcode.com/problems/richest-customer-wealth) |
-| 17 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
-| 18 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 17 | 1732 | [Find the Highest Altitude](Easy/1732_find-the-highest-altitude) | 🟢&nbsp;Easy | Java | 0 ms | 43.2 MB | [Link!](https://leetcode.com/problems/find-the-highest-altitude) |
+| 18 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
+| 19 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 ---
 
 </div>
