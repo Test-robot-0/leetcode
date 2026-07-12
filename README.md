@@ -6,7 +6,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 ---
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>String</code>
+<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>String</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Enumeration</code>
 
 <h2> Dashboard </h2>
 
@@ -18,9 +18,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **5**  |
+|Total  | **6**  |
 |Easy   | **3**   |
-|Medium | **2** |
+|Medium | **3** |
 |Hard   | **0**   |
 
 </td>
@@ -32,7 +32,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 | Topic | Value |
 |-------|------:|
 | Array | **3** |
-| Math | **2** |
+| Math | **3** |
 | Stack | **1** |
 | Simulation | **1** |
 
@@ -45,7 +45,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
-| Python3 | **3** |
+| Python3 | **4** |
 | Java | **1** |
 | C++ | **1** |
 
@@ -58,9 +58,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **48.33 ms**  |
-| Memory  | **19.33 MB**   |
-| Latest  | **[1295](Easy/1295_find-numbers-with-even-number-of-digits)**|
+| Runtime    | **80.86 ms**  |
+| Memory  | **19.31 MB**   |
+| Latest  | **[3751](Medium/3751_total-waviness-of-numbers-in-range-i)**|
 | Updated    | **2026-07-12** |  
 
 
@@ -80,6 +80,7 @@ Auto-generated using **LeetCode Sync**
 | 3 | 0125 | [Valid Palindrome](Easy/0125_valid-palindrome) | 🟢&nbsp;Easy | Python3 | 11 ms | 19.7 MB | [Link!](https://leetcode.com/problems/valid-palindrome) |
 | 4 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
 | 5 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
+| 6 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 ---
 
 </div>
