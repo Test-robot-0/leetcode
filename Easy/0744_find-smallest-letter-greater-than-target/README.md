@@ -34,7 +34,7 @@
 |-----------------|------------------------------:|
 |Acceptance Rate  |**59.4%**          |
 |Total Submission |**1.5M** |
-|Total Accepted   |**865.7K**   |
+|Total Accepted   |**865.9K**   |
 
 
 
