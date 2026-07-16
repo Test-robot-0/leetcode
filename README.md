@@ -18,8 +18,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **11**  |
-|Easy   | **8**   |
+|Total  | **12**  |
+|Easy   | **9**   |
 |Medium | **3** |
 |Hard   | **0**   |
 
@@ -31,7 +31,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Topic | Value |
 |-------|------:|
-| Array | **7** |
+| Array | **8** |
 | Math | **4** |
 | Two Pointers | **3** |
 | Simulation | **2** |
@@ -45,7 +45,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
-| Python3 | **5** |
+| Python3 | **6** |
 | Java | **5** |
 | C++ | **1** |
 
@@ -58,9 +58,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **244.17 ms**  |
-| Memory  | **28.50 MB**   |
-| Latest  | **[26](Easy/0026_remove-duplicates-from-sorted-array)**|
+| Runtime    | **225.54 ms**  |
+| Memory  | **27.80 MB**   |
+| Latest  | **[2574](Easy/2574_left-and-right-sum-differences)**|
 | Updated    | **2026-07-16** |  
 
 
@@ -85,7 +85,8 @@ Auto-generated using [**LeetCode Sync**]("https://github.com/Charanreddy0007/Lee
 | 8 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
 | 9 | 0977 | [Squares of a Sorted Array](Easy/0977_squares-of-a-sorted-array) | 🟢&nbsp;Easy | Java | 10 ms | 47.7 MB | [Link!](https://leetcode.com/problems/squares-of-a-sorted-array) |
 | 10 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
-| 11 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 11 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
+| 12 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 ---
 
 </div>
