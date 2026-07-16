@@ -18,8 +18,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **14**  |
-|Easy   | **10**   |
+|Total  | **15**  |
+|Easy   | **11**   |
 |Medium | **4** |
 |Hard   | **0**   |
 
@@ -32,7 +32,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 | Topic | Value |
 |-------|------:|
 | Array | **10** |
-| Math | **5** |
+| Math | **6** |
 | Two Pointers | **3** |
 | Simulation | **2** |
 
@@ -45,7 +45,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
-| Java | **7** |
+| Java | **8** |
 | Python3 | **6** |
 | C++ | **1** |
 
@@ -58,9 +58,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **195.47 ms**  |
-| Memory  | **32.35 MB**   |
-| Latest  | **[852](Medium/0852_peak-index-in-a-mountain-array)**|
+| Runtime    | **183.25 ms**  |
+| Memory  | **32.95 MB**   |
+| Latest  | **[3658](Easy/3658_gcd-of-odd-and-even-sums)**|
 | Updated    | **2026-07-16** |  
 
 
@@ -88,7 +88,8 @@ Auto-generated using [**LeetCode Sync**]("https://github.com/Charanreddy0007/Lee
 | 11 | 0977 | [Squares of a Sorted Array](Easy/0977_squares-of-a-sorted-array) | 🟢&nbsp;Easy | Java | 10 ms | 47.7 MB | [Link!](https://leetcode.com/problems/squares-of-a-sorted-array) |
 | 12 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
 | 13 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
-| 14 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 14 | 3658 | [GCD of Odd and Even Sums](Easy/3658_gcd-of-odd-and-even-sums) | 🟢&nbsp;Easy | Java | 0 ms | 41.9 MB | [Link!](https://leetcode.com/problems/gcd-of-odd-and-even-sums) |
+| 15 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 ---
 
 </div>
