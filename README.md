@@ -18,8 +18,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **18**  |
-|Easy   | **14**   |
+|Total  | **19**  |
+|Easy   | **15**   |
 |Medium | **4** |
 |Hard   | **0**   |
 
@@ -47,8 +47,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 |----------|------:|
 | Java | **11** |
 | Python3 | **6** |
+| MySQL | **1** |
 | C++ | **1** |
-
 
 </td>
 
@@ -58,9 +58,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **154.32 ms**  |
-| Memory  | **34.72 MB**   |
-| Latest  | **[1672](Easy/1672_richest-customer-wealth)**|
+| Runtime    | **171.50 ms**  |
+| Memory  | **35.22 MB**   |
+| Latest  | **[175](Easy/0175_combine-two-tables)**|
 | Updated    | **2026-07-16** |  
 
 
@@ -82,17 +82,18 @@ Auto-generated using [**LeetCode Sync**]("https://github.com/Charanreddy0007/Lee
 | 5 | 0035 | [Search Insert Position](Easy/0035_search-insert-position) | 🟢&nbsp;Easy | Java | 0 ms | 44.7 MB | [Link!](https://leetcode.com/problems/search-insert-position) |
 | 6 | 0066 | [Plus One](Easy/0066_plus-one) | 🟢&nbsp;Easy | Java | 0 ms | 43.5 MB | [Link!](https://leetcode.com/problems/plus-one) |
 | 7 | 0125 | [Valid Palindrome](Easy/0125_valid-palindrome) | 🟢&nbsp;Easy | Python3 | 11 ms | 19.7 MB | [Link!](https://leetcode.com/problems/valid-palindrome) |
-| 8 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | 🟢&nbsp;Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
-| 9 | 0561 | [Array Partition](Easy/0561_array-partition) | 🟢&nbsp;Easy | Java | 2306 ms | 47.5 MB | [Link!](https://leetcode.com/problems/array-partition) |
-| 10 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
-| 11 | 0852 | [Peak Index in a Mountain Array](Medium/0852_peak-index-in-a-mountain-array) | 🟡&nbsp;Medium | Java | 0 ms | 80.4 MB | [Link!](https://leetcode.com/problems/peak-index-in-a-mountain-array) |
-| 12 | 0977 | [Squares of a Sorted Array](Easy/0977_squares-of-a-sorted-array) | 🟢&nbsp;Easy | Java | 10 ms | 47.7 MB | [Link!](https://leetcode.com/problems/squares-of-a-sorted-array) |
-| 13 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
-| 14 | 1672 | [Richest Customer Wealth](Easy/1672_richest-customer-wealth) | 🟢&nbsp;Easy | Java | 0 ms | 44.6 MB | [Link!](https://leetcode.com/problems/richest-customer-wealth) |
-| 15 | 1732 | [Find the Highest Altitude](Easy/1732_find-the-highest-altitude) | 🟢&nbsp;Easy | Java | 0 ms | 43.2 MB | [Link!](https://leetcode.com/problems/find-the-highest-altitude) |
-| 16 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
-| 17 | 3658 | [GCD of Odd and Even Sums](Easy/3658_gcd-of-odd-and-even-sums) | 🟢&nbsp;Easy | Java | 0 ms | 41.9 MB | [Link!](https://leetcode.com/problems/gcd-of-odd-and-even-sums) |
-| 18 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 8 | 0175 | [Combine Two Tables](Easy/0175_combine-two-tables) | 🟢&nbsp;Easy | MySQL | 498 ms | 0.0B | [Link!](https://leetcode.com/problems/combine-two-tables) |
+| 9 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | 🟢&nbsp;Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
+| 10 | 0561 | [Array Partition](Easy/0561_array-partition) | 🟢&nbsp;Easy | Java | 2306 ms | 47.5 MB | [Link!](https://leetcode.com/problems/array-partition) |
+| 11 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
+| 12 | 0852 | [Peak Index in a Mountain Array](Medium/0852_peak-index-in-a-mountain-array) | 🟡&nbsp;Medium | Java | 0 ms | 80.4 MB | [Link!](https://leetcode.com/problems/peak-index-in-a-mountain-array) |
+| 13 | 0977 | [Squares of a Sorted Array](Easy/0977_squares-of-a-sorted-array) | 🟢&nbsp;Easy | Java | 10 ms | 47.7 MB | [Link!](https://leetcode.com/problems/squares-of-a-sorted-array) |
+| 14 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
+| 15 | 1672 | [Richest Customer Wealth](Easy/1672_richest-customer-wealth) | 🟢&nbsp;Easy | Java | 0 ms | 44.6 MB | [Link!](https://leetcode.com/problems/richest-customer-wealth) |
+| 16 | 1732 | [Find the Highest Altitude](Easy/1732_find-the-highest-altitude) | 🟢&nbsp;Easy | Java | 0 ms | 43.2 MB | [Link!](https://leetcode.com/problems/find-the-highest-altitude) |
+| 17 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
+| 18 | 3658 | [GCD of Odd and Even Sums](Easy/3658_gcd-of-odd-and-even-sums) | 🟢&nbsp;Easy | Java | 0 ms | 41.9 MB | [Link!](https://leetcode.com/problems/gcd-of-odd-and-even-sums) |
+| 19 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 ---
 
 </div>
