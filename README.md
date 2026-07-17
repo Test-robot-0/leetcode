@@ -1,88 +1,89 @@
 
-        # Leetcode Solutions
+# Leetcode Solutions
 
-        This repository is automatically synchronized using **LeetCode Sync**. View the [**source code**](https://github.com/Charanreddy0007/LeetCode-Sync.git).
+This repository is automatically synchronized using **LeetCode Sync**. View the [**source code**](https://github.com/Charanreddy0007/LeetCode-Sync.git).
 
-        ---
+---
 
-        <div align="center">
-        <code>Array</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>&nbsp;<code>Math</code>
+<div align="center">
+<code>Array</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>&nbsp;<code>Math</code>&nbsp;<code>Binary Search</code>
 
-        <h2> Dashboard </h2>
+<h2> Dashboard </h2>
 
-        <table>
-        <tr>
-        <td valign="top">
+<table>
+<tr>
+<td valign="top">
 
-        <h3> Statistics</h3>
+<h3> Statistics</h3>
 
-        | Metric | Value |
-        |-------|-------------:|
-        |Total  | **2**  |
-        |Easy   | **1**   |
-        |Medium | **1** |
-        |Hard   | **0**   |
+| Metric | Value |
+|-------|-------------:|
+|Total  | **3**  |
+|Easy   | **1**   |
+|Medium | **2** |
+|Hard   | **0**   |
 
-        </td>
+</td>
 
-        <td valign="top">
+<td valign="top">
 
-        <h3> Top Topics</h3>
+<h3> Top Topics</h3>
 
-        | Topic | Value |
-        |-------|------:|
-        | Array | **1** |
-        | Stack | **1** |
-        | Simulation | **1** |
-        | Math | **1** |
-
-
-        </td>
-
-        <td valign="top">
-
-        <h3> Languages</h3>
-
-        | Language | # |
-        |----------|------:|
-        | Python3 | **1** |
-        | C++ | **1** |
-        
-        
-
-        </td>
-
-        <td valign="top">
-
-        <h3> Repository Info</h3>
-
-        | Metric          | Value              |
-        |-----------------|-------------------:|
-        | Runtime    | **93.00 ms**  |
-        | Memory  | **9.63 MB**   |
-        | Latest  | **[9](Easy/0009_palindrome-number)**|
-        | Updated    | **2026-07-17** |  
+| Topic | Value |
+|-------|------:|
+| Array | **2** |
+| Stack | **1** |
+| Simulation | **1** |
+| Math | **1** |
 
 
-        </td>
-        </tr>
-        </table>
+</td>
 
-        > **Note:** Repository statistics include all accepted submissions. Runtime and memory averages include SQL solutions, which may affect the reported averages.
-        ---
+<td valign="top">
 
-        Auto-generated using **LeetCode Sync**
+<h3> Languages</h3>
 
-        | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
-        |---|----|---------|---------------|----------|---------|--------|:-------------:|
-        | 1 | 0009 | [Palindrome Number](Easy/0009_palindrome-number) | 🟢&nbsp;Easy | C++ | 2 ms | 8.5 MB | [Link!](https://leetcode.com/problems/palindrome-number) |
-| 2 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
-        ---
+| Language | # |
+|----------|------:|
+| Python3 | **1** |
+| Java | **1** |
+| C++ | **1** |
 
-        </div>
 
-        <div align="center">
-        <p> Powered by LeetCode Sync • GitHub Actions • Last Sync: 2026-07-17 </p>
-        </div>
-                
-        
+</td>
+
+<td valign="top">
+
+<h3> Repository Info</h3>
+
+| Metric          | Value              |
+|-----------------|-------------------:|
+| Runtime    | **69.75 ms**  |
+| Memory  | **19.27 MB**   |
+| Latest  | **[34](Medium/0034_find-first-and-last-position-of-element-in-sorted-array)**|
+| Updated    | **2026-07-17** |  
+
+
+</td>
+</tr>
+</table>
+
+> **Note:** Repository statistics include all accepted submissions. Runtime and memory averages include SQL solutions, which may affect the reported averages.
+---
+
+Auto-generated using **LeetCode Sync**
+
+| # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
+|---|----|---------|---------------|----------|---------|--------|:-------------:|
+| 1 | 0009 | [Palindrome Number](Easy/0009_palindrome-number) | 🟢&nbsp;Easy | C++ | 2 ms | 8.5 MB | [Link!](https://leetcode.com/problems/palindrome-number) |
+| 2 | 0034 | [Find First and Last Position of Element in Sorted Array](Medium/0034_find-first-and-last-position-of-element-in-sorted-array) | 🟡&nbsp;Medium | Java | 0 ms | 48.2 MB | [Link!](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) |
+| 3 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
+---
+
+</div>
+
+<div align="center">
+<p> Powered by LeetCode Sync • GitHub Actions • Last Sync: 2026-07-17 </p>
+</div>
+
+
