@@ -18,8 +18,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **17**  |
-|Easy   | **12**   |
+|Total  | **18**  |
+|Easy   | **13**   |
 |Medium | **5** |
 |Hard   | **0**   |
 
@@ -46,7 +46,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 | Language | # |
 |----------|------:|
 | Java | **9** |
-| Python3 | **6** |
+| Python3 | **7** |
 | MySQL | **1** |
 | C++ | **1** |
 
@@ -58,9 +58,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **195.61 ms**  |
-| Memory  | **36.23 MB**   |
-| Latest  | **[162](Medium/0162_find-peak-element)**|
+| Runtime    | **185.32 ms**  |
+| Memory  | **35.33 MB**   |
+| Latest  | **[3986](Easy/3986_number-of-elapsed-seconds-between-two-times)**|
 | Updated    | **2026-07-18** |  
 
 
@@ -92,6 +92,7 @@ Auto-generated using **LeetCode Sync**
 | 15 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
 | 16 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
 | 17 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 18 | 3986 | [Number of Elapsed Seconds Between Two Times](Easy/3986_number-of-elapsed-seconds-between-two-times) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) |
 ---
 
 </div>
