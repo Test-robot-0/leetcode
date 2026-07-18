@@ -18,8 +18,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **18**  |
-|Easy   | **13**   |
+|Total  | **19**  |
+|Easy   | **14**   |
 |Medium | **5** |
 |Hard   | **0**   |
 
@@ -32,7 +32,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 | Topic | Value |
 |-------|------:|
 | Array | **11** |
-| Math | **6** |
+| Math | **7** |
 | Binary Search | **3** |
 | Two Pointers | **3** |
 
@@ -45,7 +45,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
-| Java | **9** |
+| Java | **10** |
 | Python3 | **7** |
 | MySQL | **1** |
 | C++ | **1** |
@@ -58,9 +58,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **185.32 ms**  |
-| Memory  | **35.33 MB**   |
-| Latest  | **[3986](Easy/3986_number-of-elapsed-seconds-between-two-times)**|
+| Runtime    | **176.05 ms**  |
+| Memory  | **35.66 MB**   |
+| Latest  | **[3658](Easy/3658_gcd-of-odd-and-even-sums)**|
 | Updated    | **2026-07-18** |  
 
 
@@ -91,8 +91,9 @@ Auto-generated using **LeetCode Sync**
 | 14 | 1025 | [Divisor Game](Easy/1025_divisor-game) | 🟢&nbsp;Easy | Java | 0 ms | 42 MB | [Link!](https://leetcode.com/problems/divisor-game) |
 | 15 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
 | 16 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
-| 17 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
-| 18 | 3986 | [Number of Elapsed Seconds Between Two Times](Easy/3986_number-of-elapsed-seconds-between-two-times) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) |
+| 17 | 3658 | [GCD of Odd and Even Sums](Easy/3658_gcd-of-odd-and-even-sums) | 🟢&nbsp;Easy | Java | 0 ms | 41.9 MB | [Link!](https://leetcode.com/problems/gcd-of-odd-and-even-sums) |
+| 18 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 19 | 3986 | [Number of Elapsed Seconds Between Two Times](Easy/3986_number-of-elapsed-seconds-between-two-times) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) |
 ---
 
 </div>
