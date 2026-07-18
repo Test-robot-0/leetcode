@@ -32,7 +32,7 @@
 
 | Metric          | Count                         |
 |-----------------|------------------------------:|
-|Acceptance Rate  |**50.2%**          |
+|Acceptance Rate  |**50.3%**          |
 |Total Submission |**7.7M** |
 |Total Accepted   |**3.9M**   |
 
@@ -93,4 +93,4 @@ Thus, the result should be [1,0].
 
 
 <br>
-<p align="right">Last Sync: 2026-07-16 &nbsp;</p>
+<p align="right">Last Sync: 2026-07-18 &nbsp;</p>
