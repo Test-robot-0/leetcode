@@ -33,8 +33,8 @@
 | Metric          | Count                         |
 |-----------------|------------------------------:|
 |Acceptance Rate  |**87.5%**          |
-|Total Submission |**165.8K** |
-|Total Accepted   |**145K**   |
+|Total Submission |**166K** |
+|Total Accepted   |**145.2K**   |
 
 
 
@@ -120,4 +120,4 @@ In the range <code>[198, 202]</code>:
 
 
 <br>
-<p align="right">Last Sync: 2026-07-16 &nbsp;</p>
+<p align="right">Last Sync: 2026-07-18 &nbsp;</p>
