@@ -33,8 +33,8 @@
 | Metric          | Count                         |
 |-----------------|------------------------------:|
 |Acceptance Rate  |**81.9%**          |
-|Total Submission |**850.9K** |
-|Total Accepted   |**697.1K**   |
+|Total Submission |**851.7K** |
+|Total Accepted   |**697.8K**   |
 
 
 
@@ -80,4 +80,4 @@ So the maximum possible sum is 4.</pre>
 
 
 <br>
-<p align="right">Last Sync: 2026-07-16 &nbsp;</p>
+<p align="right">Last Sync: 2026-07-18 &nbsp;</p>
