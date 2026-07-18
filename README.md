@@ -6,7 +6,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 ---
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>Simulation</code>&nbsp;<code>Binary Search</code>&nbsp;<code>String</code>&nbsp;<code>Sorting</code>&nbsp;<code>Stack</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Enumeration</code>
+<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>Simulation</code>&nbsp;<code>Binary Search</code>&nbsp;<code>String</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Sorting</code>&nbsp;<code>Stack</code>&nbsp;<code>Enumeration</code>
 
 <h2> Dashboard </h2>
 
@@ -18,8 +18,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **15**  |
-|Easy   | **11**   |
+|Total  | **16**  |
+|Easy   | **12**   |
 |Medium | **4** |
 |Hard   | **0**   |
 
@@ -32,7 +32,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 | Topic | Value |
 |-------|------:|
 | Array | **10** |
-| Math | **5** |
+| Math | **6** |
 | Two Pointers | **3** |
 | Simulation | **2** |
 
@@ -45,7 +45,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
-| Java | **7** |
+| Java | **8** |
 | Python3 | **6** |
 | MySQL | **1** |
 | C++ | **1** |
@@ -58,9 +58,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **220.06 ms**  |
-| Memory  | **35.36 MB**   |
-| Latest  | **[183](Easy/0183_customers-who-never-order)**|
+| Runtime    | **207.12 ms**  |
+| Memory  | **35.75 MB**   |
+| Latest  | **[1025](Easy/1025_divisor-game)**|
 | Updated    | **2026-07-18** |  
 
 
@@ -87,9 +87,10 @@ Auto-generated using **LeetCode Sync**
 | 10 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
 | 11 | 0852 | [Peak Index in a Mountain Array](Medium/0852_peak-index-in-a-mountain-array) | 🟡&nbsp;Medium | Java | 0 ms | 80.4 MB | [Link!](https://leetcode.com/problems/peak-index-in-a-mountain-array) |
 | 12 | 0977 | [Squares of a Sorted Array](Easy/0977_squares-of-a-sorted-array) | 🟢&nbsp;Easy | Java | 10 ms | 47.7 MB | [Link!](https://leetcode.com/problems/squares-of-a-sorted-array) |
-| 13 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
-| 14 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
-| 15 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 13 | 1025 | [Divisor Game](Easy/1025_divisor-game) | 🟢&nbsp;Easy | Java | 0 ms | 42 MB | [Link!](https://leetcode.com/problems/divisor-game) |
+| 14 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
+| 15 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
+| 16 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 ---
 
 </div>
