@@ -34,7 +34,7 @@
 |-----------------|------------------------------:|
 |Acceptance Rate  |**59.4%**          |
 |Total Submission |**1.5M** |
-|Total Accepted   |**867.4K**   |
+|Total Accepted   |**868.1K**   |
 
 
 
@@ -89,4 +89,4 @@
 
 
 <br>
-<p align="right">Last Sync: 2026-07-16 &nbsp;</p>
+<p align="right">Last Sync: 2026-07-18 &nbsp;</p>
