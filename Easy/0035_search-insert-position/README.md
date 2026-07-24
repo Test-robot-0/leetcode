@@ -32,9 +32,9 @@
 
 | Metric          | Count                         |
 |-----------------|------------------------------:|
-|Acceptance Rate  |**51.7%**          |
+|Acceptance Rate  |**51.8%**          |
 |Total Submission |**9.6M** |
-|Total Accepted   |**4.9M**   |
+|Total Accepted   |**5M**   |
 
 
 
@@ -85,4 +85,4 @@
 
 
 <br>
-<p align="right">Last Sync: 2026-07-16 &nbsp;</p>
+<p align="right">Last Sync: 2026-07-24 &nbsp;</p>
