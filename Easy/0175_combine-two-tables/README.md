@@ -32,7 +32,7 @@
 
 | Metric          | Count                         |
 |-----------------|------------------------------:|
-|Acceptance Rate  |**79.7%**          |
+|Acceptance Rate  |**79.8%**          |
 |Total Submission |**2.4M** |
 |Total Accepted   |**1.9M**   |
 
@@ -119,4 +119,4 @@ addressId = 1 contains information about the address of personId = 2.
 
 
 <br>
-<p align="right">Last Sync: 2026-07-18 &nbsp;</p>
+<p align="right">Last Sync: 2026-07-24 &nbsp;</p>
