@@ -1,18 +1,16 @@
 
 # Leetcode Solutions
 
-
-<div>
-    <p align="center">
-      <img src="https://assets-v2.lottiefiles.com/a/d4de1946-9422-11ee-8887-2b4c060771a9/QjhNFmRetW.gif"
-           width="100"
-           style="vertical-align: middle;">
-      <span style="font-size:32px; font-weight:bold; vertical-align: middle;">
-         🔥 1 Day Streak
-      </span>
-    </p>
-</div>
-
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://assets-v2.lottiefiles.com/a/d4de1946-9422-11ee-8887-2b4c060771a9/QjhNFmRetW.gif" width="80">
+    </td>
+    <td>
+      <h3>1 Day Streak</h3>
+    </td>
+  </tr>
+</table>
 
 This repository is automatically synchronized using **LeetCode Sync**. View the [**source code**](https://github.com/Charanreddy0007/LeetCode-Sync.git).
 
@@ -31,8 +29,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **27**  |
-|Easy   | **22**   |
+|Total  | **28**  |
+|Easy   | **23**   |
 |Medium | **5** |
 |Hard   | **0**   |
 
@@ -44,8 +42,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Topic | Value |
 |-------|------:|
-| Array | **17** |
-| Math | **8** |
+| Array | **18** |
+| Math | **9** |
 | Binary Search | **5** |
 | Two Pointers | **4** |
 
@@ -58,7 +56,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
-| Java | **17** |
+| Java | **18** |
 | Python3 | **7** |
 | MySQL | **2** |
 | C++ | **1** |
@@ -71,9 +69,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **143.57 ms**  |
-| Memory  | **38.23 MB**   |
-| Latest  | **[58](Easy/0058_length-of-last-word)**|
+| Runtime    | **138.69 ms**  |
+| Memory  | **38.50 MB**   |
+| Latest  | **[2535](Easy/2535_difference-between-element-sum-and-digit-sum-of-an-array)**|
 | Updated    | **2026-07-24** |  
 
 
@@ -111,10 +109,11 @@ Auto-generated using **LeetCode Sync**
 | 21 | 1672 | [Richest Customer Wealth](Easy/1672_richest-customer-wealth) | 🟢&nbsp;Easy | Java | 0 ms | 44.6 MB | [Link!](https://leetcode.com/problems/richest-customer-wealth) |
 | 22 | 1732 | [Find the Highest Altitude](Easy/1732_find-the-highest-altitude) | 🟢&nbsp;Easy | Java | 0 ms | 43.2 MB | [Link!](https://leetcode.com/problems/find-the-highest-altitude) |
 | 23 | 1979 | [Find Greatest Common Divisor of Array](Easy/1979_find-greatest-common-divisor-of-array) | 🟢&nbsp;Easy | Java | 0 ms | 44.8 MB | [Link!](https://leetcode.com/problems/find-greatest-common-divisor-of-array) |
-| 24 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
-| 25 | 3658 | [GCD of Odd and Even Sums](Easy/3658_gcd-of-odd-and-even-sums) | 🟢&nbsp;Easy | Java | 0 ms | 41.9 MB | [Link!](https://leetcode.com/problems/gcd-of-odd-and-even-sums) |
-| 26 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
-| 27 | 3986 | [Number of Elapsed Seconds Between Two Times](Easy/3986_number-of-elapsed-seconds-between-two-times) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) |
+| 24 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](Easy/2535_difference-between-element-sum-and-digit-sum-of-an-array) | 🟢&nbsp;Easy | Java | 2 ms | 46.3 MB | [Link!](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) |
+| 25 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
+| 26 | 3658 | [GCD of Odd and Even Sums](Easy/3658_gcd-of-odd-and-even-sums) | 🟢&nbsp;Easy | Java | 0 ms | 41.9 MB | [Link!](https://leetcode.com/problems/gcd-of-odd-and-even-sums) |
+| 27 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 28 | 3986 | [Number of Elapsed Seconds Between Two Times](Easy/3986_number-of-elapsed-seconds-between-two-times) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) |
 ---
 
 </div>
