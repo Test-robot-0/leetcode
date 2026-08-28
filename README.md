@@ -11,7 +11,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 ---
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>&nbsp;<code>String</code>
+<code>Array</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>&nbsp;<code>String</code>&nbsp;<code>Math</code>
 
 <h2> Dashboard </h2>
 
@@ -23,8 +23,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **2**  |
-|Easy   | **1**   |
+|Total  | **3**  |
+|Easy   | **2**   |
 |Medium | **1** |
 |Hard   | **0**   |
 
@@ -36,7 +36,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Topic | Value |
 |-------|------:|
-| Array | **1** |
+| Array | **2** |
 | Stack | **1** |
 | Simulation | **1** |
 | String | **1** |
@@ -50,8 +50,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
+| Java | **2** |
 | Python3 | **1** |
-| Java | **1** |
 
 
 
@@ -63,9 +63,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **92.33 ms**  |
-| Memory  | **21.07 MB**   |
-| Latest  | **[58](Easy/0058_length-of-last-word)**|
+| Runtime    | **69.75 ms**  |
+| Memory  | **27.38 MB**   |
+| Latest  | **[2535](Easy/2535_difference-between-element-sum-and-digit-sum-of-an-array)**|
 | Updated    | **2026-08-28** |  
 
 
@@ -82,6 +82,7 @@ Auto-generated using **LeetCode Sync**
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
 | 1 | 0058 | [Length of Last Word](Easy/0058_length-of-last-word) | 🟢&nbsp;Easy | Java | 0 ms | 42.8 MB | [Link!](https://leetcode.com/problems/length-of-last-word) |
 | 2 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
+| 3 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](Easy/2535_difference-between-element-sum-and-digit-sum-of-an-array) | 🟢&nbsp;Easy | Java | 2 ms | 46.3 MB | [Link!](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) |
 ---
 
 </div>
