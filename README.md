@@ -11,7 +11,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 ---
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Hash Table</code>&nbsp;<code>Sorting</code>&nbsp;<code>Binary Search</code>&nbsp;<code>String</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>Database</code>&nbsp;<code>Bit Manipulation</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>&nbsp;<code>Recursion</code>&nbsp;<code>Matrix</code>&nbsp;<code>Enumeration</code>&nbsp;<code>Greedy</code>&nbsp;<code>Prefix Sum</code>&nbsp;<code>Number Theory</code>&nbsp;<code>Game Theory</code>&nbsp;<code>Divide and Conquer</code>&nbsp;<code>Counting</code>&nbsp;<code>Linked List</code>&nbsp;<code>Counting Sort</code>&nbsp;<code>Brainteaser</code>&nbsp;<code>Heap (Priority Queue)</code>&nbsp;<code>Memoization</code>&nbsp;<code>Sliding Window</code>&nbsp;<code>Design</code>&nbsp;<code>Bracket Sequences</code>&nbsp;<code>Quicksort</code>&nbsp;<code>Bubble Sort</code>
+<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Hash Table</code>&nbsp;<code>Sorting</code>&nbsp;<code>Binary Search</code>&nbsp;<code>String</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>Database</code>&nbsp;<code>Bit Manipulation</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>&nbsp;<code>Recursion</code>&nbsp;<code>Matrix</code>&nbsp;<code>Enumeration</code>
 
 <h2> Dashboard </h2>
 
@@ -65,7 +65,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 |-----------------|-------------------:|
 | Runtime    | **133.30 ms**  |
 | Memory  | **47.37 MB**   |
-| Latest  | **[75](Medium/0075_sort-colors)**|
+| Latest  | **[34](Medium/0034_find-first-and-last-position-of-element-in-sorted-array)**|
 | Updated    | **2026-08-28** |  
 
 
