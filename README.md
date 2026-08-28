@@ -23,8 +23,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **67**  |
-|Easy   | **53**   |
+|Total  | **68**  |
+|Easy   | **54**   |
 |Medium | **14** |
 |Hard   | **0**   |
 
@@ -39,7 +39,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 | Array | **39** |
 | Math | **23** |
 | Sorting | **15** |
-| Hash Table | **14** |
+| Hash Table | **15** |
 
 
 </td>
@@ -50,7 +50,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
-| Java | **53** |
+| Java | **54** |
 | Python3 | **7** |
 | MySQL | **6** |
 | C++ | **1** |
@@ -63,9 +63,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **121.66 ms**  |
-| Memory  | **46.75 MB**   |
-| Latest  | **[181](Easy/0181_employees-earning-more-than-their-managers)**|
+| Runtime    | **119.91 ms**  |
+| Memory  | **46.70 MB**   |
+| Latest  | **[3090](Easy/3090_maximum-length-substring-with-two-occurrences)**|
 | Updated    | **2026-08-28** |  
 
 
@@ -138,15 +138,16 @@ Auto-generated using **LeetCode Sync**
 | 56 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996_smallest-missing-integer-greater-than-sequential-prefix-sum) | 🟢&nbsp;Easy | Java | 1 ms | 43.6 MB | [Link!](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | 57 | 3014 | [Minimum Number of Pushes to Type Word I](Easy/3014_minimum-number-of-pushes-to-type-word-i) | 🟢&nbsp;Easy | Java | 0 ms | 43.1 MB | [Link!](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i) |
 | 58 | 3069 | [Distribute Elements Into Two Arrays I](Easy/3069_distribute-elements-into-two-arrays-i) | 🟢&nbsp;Easy | Java | 2 ms | 46.6 MB | [Link!](https://leetcode.com/problems/distribute-elements-into-two-arrays-i) |
-| 59 | 3345 | [Smallest Divisible Digit Product I](Easy/3345_smallest-divisible-digit-product-i) | 🟢&nbsp;Easy | Java | 1 ms | 42.8 MB | [Link!](https://leetcode.com/problems/smallest-divisible-digit-product-i) |
-| 60 | 3536 | [Maximum Product of Two Digits](Easy/3536_maximum-product-of-two-digits) | 🟢&nbsp;Easy | Java | 1 ms | 43 MB | [Link!](https://leetcode.com/problems/maximum-product-of-two-digits) |
-| 61 | 3622 | [Check Divisibility by Digit Sum and Product](Easy/3622_check-divisibility-by-digit-sum-and-product) | 🟢&nbsp;Easy | Java | 0 ms | 42.4 MB | [Link!](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) |
-| 62 | 3658 | [GCD of Odd and Even Sums](Easy/3658_gcd-of-odd-and-even-sums) | 🟢&nbsp;Easy | Java | 0 ms | 41.9 MB | [Link!](https://leetcode.com/problems/gcd-of-odd-and-even-sums) |
-| 63 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](Medium/3702_longest-subsequence-with-non-zero-bitwise-xor) | 🟡&nbsp;Medium | Java | 2 ms | 133.3 MB | [Link!](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor) |
-| 64 | 3718 | [Smallest Missing Multiple of K](Easy/3718_smallest-missing-multiple-of-k) | 🟢&nbsp;Easy | Java | 1 ms | 45 MB | [Link!](https://leetcode.com/problems/smallest-missing-multiple-of-k) |
-| 65 | 3731 | [Find Missing Elements](Easy/3731_find-missing-elements) | 🟢&nbsp;Easy | Java | 6 ms | 47.6 MB | [Link!](https://leetcode.com/problems/find-missing-elements) |
-| 66 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
-| 67 | 3986 | [Number of Elapsed Seconds Between Two Times](Easy/3986_number-of-elapsed-seconds-between-two-times) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) |
+| 59 | 3090 | [Maximum Length Substring With Two Occurrences](Easy/3090_maximum-length-substring-with-two-occurrences) | 🟢&nbsp;Easy | Java | 1 ms | 43.3 MB | [Link!](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences) |
+| 60 | 3345 | [Smallest Divisible Digit Product I](Easy/3345_smallest-divisible-digit-product-i) | 🟢&nbsp;Easy | Java | 1 ms | 42.8 MB | [Link!](https://leetcode.com/problems/smallest-divisible-digit-product-i) |
+| 61 | 3536 | [Maximum Product of Two Digits](Easy/3536_maximum-product-of-two-digits) | 🟢&nbsp;Easy | Java | 1 ms | 43 MB | [Link!](https://leetcode.com/problems/maximum-product-of-two-digits) |
+| 62 | 3622 | [Check Divisibility by Digit Sum and Product](Easy/3622_check-divisibility-by-digit-sum-and-product) | 🟢&nbsp;Easy | Java | 0 ms | 42.4 MB | [Link!](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) |
+| 63 | 3658 | [GCD of Odd and Even Sums](Easy/3658_gcd-of-odd-and-even-sums) | 🟢&nbsp;Easy | Java | 0 ms | 41.9 MB | [Link!](https://leetcode.com/problems/gcd-of-odd-and-even-sums) |
+| 64 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](Medium/3702_longest-subsequence-with-non-zero-bitwise-xor) | 🟡&nbsp;Medium | Java | 2 ms | 133.3 MB | [Link!](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor) |
+| 65 | 3718 | [Smallest Missing Multiple of K](Easy/3718_smallest-missing-multiple-of-k) | 🟢&nbsp;Easy | Java | 1 ms | 45 MB | [Link!](https://leetcode.com/problems/smallest-missing-multiple-of-k) |
+| 66 | 3731 | [Find Missing Elements](Easy/3731_find-missing-elements) | 🟢&nbsp;Easy | Java | 6 ms | 47.6 MB | [Link!](https://leetcode.com/problems/find-missing-elements) |
+| 67 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 68 | 3986 | [Number of Elapsed Seconds Between Two Times](Easy/3986_number-of-elapsed-seconds-between-two-times) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) |
 ---
 
 </div>
