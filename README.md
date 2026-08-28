@@ -23,8 +23,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **25**  |
-|Easy   | **19**   |
+|Total  | **26**  |
+|Easy   | **20**   |
 |Medium | **6** |
 |Hard   | **0**   |
 
@@ -36,10 +36,10 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Topic | Value |
 |-------|------:|
-| Array | **15** |
+| Array | **16** |
 | Math | **12** |
 | Sorting | **7** |
-| Hash Table | **5** |
+| Hash Table | **6** |
 
 
 </td>
@@ -50,7 +50,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
-| Java | **18** |
+| Java | **19** |
 | Python3 | **5** |
 | MySQL | **1** |
 | C++ | **1** |
@@ -63,9 +63,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **56.88 ms**  |
-| Memory  | **39.84 MB**   |
-| Latest  | **[3622](Easy/3622_check-divisibility-by-digit-sum-and-product)**|
+| Runtime    | **56.41 ms**  |
+| Memory  | **40.03 MB**   |
+| Latest  | **[1](Easy/0001_two-sum)**|
 | Updated    | **2026-08-28** |  
 
 
@@ -80,31 +80,32 @@ Auto-generated using **LeetCode Sync**
 
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
-| 1 | 0009 | [Palindrome Number](Easy/0009_palindrome-number) | 🟢&nbsp;Easy | C++ | 2 ms | 8.5 MB | [Link!](https://leetcode.com/problems/palindrome-number) |
-| 2 | 0033 | [Search in Rotated Sorted Array](Medium/0033_search-in-rotated-sorted-array) | 🟡&nbsp;Medium | Java | 0 ms | 44.1 MB | [Link!](https://leetcode.com/problems/search-in-rotated-sorted-array) |
-| 3 | 0034 | [Find First and Last Position of Element in Sorted Array](Medium/0034_find-first-and-last-position-of-element-in-sorted-array) | 🟡&nbsp;Medium | Java | 0 ms | 48.2 MB | [Link!](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) |
-| 4 | 0050 | [Pow(x, n)](Medium/0050_powx-n) | 🟡&nbsp;Medium | Java | 0 ms | 48.1 MB | [Link!](https://leetcode.com/problems/powx-n) |
-| 5 | 0058 | [Length of Last Word](Easy/0058_length-of-last-word) | 🟢&nbsp;Easy | Java | 0 ms | 42.8 MB | [Link!](https://leetcode.com/problems/length-of-last-word) |
-| 6 | 0125 | [Valid Palindrome](Easy/0125_valid-palindrome) | 🟢&nbsp;Easy | Python3 | 11 ms | 19.7 MB | [Link!](https://leetcode.com/problems/valid-palindrome) |
-| 7 | 0169 | [Majority Element](Easy/0169_majority-element) | 🟢&nbsp;Easy | Java | 2 ms | 55.8 MB | [Link!](https://leetcode.com/problems/majority-element) |
-| 8 | 0189 | [Rotate Array](Medium/0189_rotate-array) | 🟡&nbsp;Medium | Java | 1 ms | 63.4 MB | [Link!](https://leetcode.com/problems/rotate-array) |
-| 9 | 0196 | [Delete Duplicate Emails](Easy/0196_delete-duplicate-emails) | 🟢&nbsp;Easy | MySQL | 838 ms | 0.0B | [Link!](https://leetcode.com/problems/delete-duplicate-emails) |
-| 10 | 0217 | [Contains Duplicate](Easy/0217_contains-duplicate) | 🟢&nbsp;Easy | Java | 17 ms | 108.3 MB | [Link!](https://leetcode.com/problems/contains-duplicate) |
-| 11 | 0231 | [Power of Two](Easy/0231_power-of-two) | 🟢&nbsp;Easy | Java | 1 ms | 42.8 MB | [Link!](https://leetcode.com/problems/power-of-two) |
-| 12 | 0268 | [Missing Number](Easy/0268_missing-number) | 🟢&nbsp;Easy | Java | 0 ms | 47.2 MB | [Link!](https://leetcode.com/problems/missing-number) |
-| 13 | 0349 | [Intersection of Two Arrays](Easy/0349_intersection-of-two-arrays) | 🟢&nbsp;Easy | Java | 4 ms | 45.4 MB | [Link!](https://leetcode.com/problems/intersection-of-two-arrays) |
-| 14 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | 🟢&nbsp;Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
-| 15 | 0628 | [Maximum Product of Three Numbers](Easy/0628_maximum-product-of-three-numbers) | 🟢&nbsp;Easy | Java | 32 ms | 48.1 MB | [Link!](https://leetcode.com/problems/maximum-product-of-three-numbers) |
-| 16 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
-| 17 | 0977 | [Squares of a Sorted Array](Easy/0977_squares-of-a-sorted-array) | 🟢&nbsp;Easy | Java | 10 ms | 47.7 MB | [Link!](https://leetcode.com/problems/squares-of-a-sorted-array) |
-| 18 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
-| 19 | 1464 | [Maximum Product of Two Elements in an Array](Easy/1464_maximum-product-of-two-elements-in-an-array) | 🟢&nbsp;Easy | Java | 0 ms | 44.3 MB | [Link!](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) |
-| 20 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](Easy/2535_difference-between-element-sum-and-digit-sum-of-an-array) | 🟢&nbsp;Easy | Java | 2 ms | 46.3 MB | [Link!](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) |
-| 21 | 3014 | [Minimum Number of Pushes to Type Word I](Easy/3014_minimum-number-of-pushes-to-type-word-i) | 🟢&nbsp;Easy | Java | 0 ms | 43.1 MB | [Link!](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i) |
-| 22 | 3069 | [Distribute Elements Into Two Arrays I](Easy/3069_distribute-elements-into-two-arrays-i) | 🟢&nbsp;Easy | Java | 2 ms | 46.6 MB | [Link!](https://leetcode.com/problems/distribute-elements-into-two-arrays-i) |
-| 23 | 3622 | [Check Divisibility by Digit Sum and Product](Easy/3622_check-divisibility-by-digit-sum-and-product) | 🟢&nbsp;Easy | Java | 0 ms | 42.4 MB | [Link!](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) |
-| 24 | 3718 | [Smallest Missing Multiple of K](Easy/3718_smallest-missing-multiple-of-k) | 🟢&nbsp;Easy | Java | 1 ms | 45 MB | [Link!](https://leetcode.com/problems/smallest-missing-multiple-of-k) |
-| 25 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 1 | 0001 | [Two Sum](Easy/0001_two-sum) | 🟢&nbsp;Easy | Java | 44 ms | 45 MB | [Link!](https://leetcode.com/problems/two-sum) |
+| 2 | 0009 | [Palindrome Number](Easy/0009_palindrome-number) | 🟢&nbsp;Easy | C++ | 2 ms | 8.5 MB | [Link!](https://leetcode.com/problems/palindrome-number) |
+| 3 | 0033 | [Search in Rotated Sorted Array](Medium/0033_search-in-rotated-sorted-array) | 🟡&nbsp;Medium | Java | 0 ms | 44.1 MB | [Link!](https://leetcode.com/problems/search-in-rotated-sorted-array) |
+| 4 | 0034 | [Find First and Last Position of Element in Sorted Array](Medium/0034_find-first-and-last-position-of-element-in-sorted-array) | 🟡&nbsp;Medium | Java | 0 ms | 48.2 MB | [Link!](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) |
+| 5 | 0050 | [Pow(x, n)](Medium/0050_powx-n) | 🟡&nbsp;Medium | Java | 0 ms | 48.1 MB | [Link!](https://leetcode.com/problems/powx-n) |
+| 6 | 0058 | [Length of Last Word](Easy/0058_length-of-last-word) | 🟢&nbsp;Easy | Java | 0 ms | 42.8 MB | [Link!](https://leetcode.com/problems/length-of-last-word) |
+| 7 | 0125 | [Valid Palindrome](Easy/0125_valid-palindrome) | 🟢&nbsp;Easy | Python3 | 11 ms | 19.7 MB | [Link!](https://leetcode.com/problems/valid-palindrome) |
+| 8 | 0169 | [Majority Element](Easy/0169_majority-element) | 🟢&nbsp;Easy | Java | 2 ms | 55.8 MB | [Link!](https://leetcode.com/problems/majority-element) |
+| 9 | 0189 | [Rotate Array](Medium/0189_rotate-array) | 🟡&nbsp;Medium | Java | 1 ms | 63.4 MB | [Link!](https://leetcode.com/problems/rotate-array) |
+| 10 | 0196 | [Delete Duplicate Emails](Easy/0196_delete-duplicate-emails) | 🟢&nbsp;Easy | MySQL | 838 ms | 0.0B | [Link!](https://leetcode.com/problems/delete-duplicate-emails) |
+| 11 | 0217 | [Contains Duplicate](Easy/0217_contains-duplicate) | 🟢&nbsp;Easy | Java | 17 ms | 108.3 MB | [Link!](https://leetcode.com/problems/contains-duplicate) |
+| 12 | 0231 | [Power of Two](Easy/0231_power-of-two) | 🟢&nbsp;Easy | Java | 1 ms | 42.8 MB | [Link!](https://leetcode.com/problems/power-of-two) |
+| 13 | 0268 | [Missing Number](Easy/0268_missing-number) | 🟢&nbsp;Easy | Java | 0 ms | 47.2 MB | [Link!](https://leetcode.com/problems/missing-number) |
+| 14 | 0349 | [Intersection of Two Arrays](Easy/0349_intersection-of-two-arrays) | 🟢&nbsp;Easy | Java | 4 ms | 45.4 MB | [Link!](https://leetcode.com/problems/intersection-of-two-arrays) |
+| 15 | 0412 | [Fizz Buzz](Easy/0412_fizz-buzz) | 🟢&nbsp;Easy | Python3 | 3 ms | 19.6 MB | [Link!](https://leetcode.com/problems/fizz-buzz) |
+| 16 | 0628 | [Maximum Product of Three Numbers](Easy/0628_maximum-product-of-three-numbers) | 🟢&nbsp;Easy | Java | 32 ms | 48.1 MB | [Link!](https://leetcode.com/problems/maximum-product-of-three-numbers) |
+| 17 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
+| 18 | 0977 | [Squares of a Sorted Array](Easy/0977_squares-of-a-sorted-array) | 🟢&nbsp;Easy | Java | 10 ms | 47.7 MB | [Link!](https://leetcode.com/problems/squares-of-a-sorted-array) |
+| 19 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
+| 20 | 1464 | [Maximum Product of Two Elements in an Array](Easy/1464_maximum-product-of-two-elements-in-an-array) | 🟢&nbsp;Easy | Java | 0 ms | 44.3 MB | [Link!](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) |
+| 21 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](Easy/2535_difference-between-element-sum-and-digit-sum-of-an-array) | 🟢&nbsp;Easy | Java | 2 ms | 46.3 MB | [Link!](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) |
+| 22 | 3014 | [Minimum Number of Pushes to Type Word I](Easy/3014_minimum-number-of-pushes-to-type-word-i) | 🟢&nbsp;Easy | Java | 0 ms | 43.1 MB | [Link!](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i) |
+| 23 | 3069 | [Distribute Elements Into Two Arrays I](Easy/3069_distribute-elements-into-two-arrays-i) | 🟢&nbsp;Easy | Java | 2 ms | 46.6 MB | [Link!](https://leetcode.com/problems/distribute-elements-into-two-arrays-i) |
+| 24 | 3622 | [Check Divisibility by Digit Sum and Product](Easy/3622_check-divisibility-by-digit-sum-and-product) | 🟢&nbsp;Easy | Java | 0 ms | 42.4 MB | [Link!](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) |
+| 25 | 3718 | [Smallest Missing Multiple of K](Easy/3718_smallest-missing-multiple-of-k) | 🟢&nbsp;Easy | Java | 1 ms | 45 MB | [Link!](https://leetcode.com/problems/smallest-missing-multiple-of-k) |
+| 26 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 ---
 
 </div>
