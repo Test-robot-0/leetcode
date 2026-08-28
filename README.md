@@ -11,7 +11,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 ---
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Sorting</code>&nbsp;<code>Hash Table</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>&nbsp;<code>String</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Divide and Conquer</code>&nbsp;<code>Counting</code>&nbsp;<code>Boyer–Moore Majority Vote Algorithm</code>&nbsp;<code>Two Pointers</code>
+<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Sorting</code>&nbsp;<code>Hash Table</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>&nbsp;<code>String</code>&nbsp;<code>Divide and Conquer</code>&nbsp;<code>Counting</code>&nbsp;<code>Boyer–Moore Majority Vote Algorithm</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>Bit Manipulation</code>
 
 <h2> Dashboard </h2>
 
@@ -23,8 +23,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **9**  |
-|Easy   | **6**   |
+|Total  | **10**  |
+|Easy   | **7**   |
 |Medium | **3** |
 |Hard   | **0**   |
 
@@ -36,10 +36,10 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Topic | Value |
 |-------|------:|
-| Array | **7** |
-| Math | **4** |
-| Sorting | **2** |
-| Hash Table | **2** |
+| Array | **8** |
+| Math | **5** |
+| Sorting | **3** |
+| Hash Table | **3** |
 
 
 </td>
@@ -50,7 +50,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
-| Java | **7** |
+| Java | **8** |
 | Python3 | **1** |
 | C++ | **1** |
 
@@ -63,9 +63,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **31.70 ms**  |
-| Memory  | **37.85 MB**   |
-| Latest  | **[3718](Easy/3718_smallest-missing-multiple-of-k)**|
+| Runtime    | **28.82 ms**  |
+| Memory  | **38.70 MB**   |
+| Latest  | **[268](Easy/0268_missing-number)**|
 | Updated    | **2026-08-28** |  
 
 
@@ -85,10 +85,11 @@ Auto-generated using **LeetCode Sync**
 | 3 | 0058 | [Length of Last Word](Easy/0058_length-of-last-word) | 🟢&nbsp;Easy | Java | 0 ms | 42.8 MB | [Link!](https://leetcode.com/problems/length-of-last-word) |
 | 4 | 0169 | [Majority Element](Easy/0169_majority-element) | 🟢&nbsp;Easy | Java | 2 ms | 55.8 MB | [Link!](https://leetcode.com/problems/majority-element) |
 | 5 | 0189 | [Rotate Array](Medium/0189_rotate-array) | 🟡&nbsp;Medium | Java | 1 ms | 63.4 MB | [Link!](https://leetcode.com/problems/rotate-array) |
-| 6 | 0628 | [Maximum Product of Three Numbers](Easy/0628_maximum-product-of-three-numbers) | 🟢&nbsp;Easy | Java | 32 ms | 48.1 MB | [Link!](https://leetcode.com/problems/maximum-product-of-three-numbers) |
-| 7 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
-| 8 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](Easy/2535_difference-between-element-sum-and-digit-sum-of-an-array) | 🟢&nbsp;Easy | Java | 2 ms | 46.3 MB | [Link!](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) |
-| 9 | 3718 | [Smallest Missing Multiple of K](Easy/3718_smallest-missing-multiple-of-k) | 🟢&nbsp;Easy | Java | 1 ms | 45 MB | [Link!](https://leetcode.com/problems/smallest-missing-multiple-of-k) |
+| 6 | 0268 | [Missing Number](Easy/0268_missing-number) | 🟢&nbsp;Easy | Java | 0 ms | 47.2 MB | [Link!](https://leetcode.com/problems/missing-number) |
+| 7 | 0628 | [Maximum Product of Three Numbers](Easy/0628_maximum-product-of-three-numbers) | 🟢&nbsp;Easy | Java | 32 ms | 48.1 MB | [Link!](https://leetcode.com/problems/maximum-product-of-three-numbers) |
+| 8 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
+| 9 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](Easy/2535_difference-between-element-sum-and-digit-sum-of-an-array) | 🟢&nbsp;Easy | Java | 2 ms | 46.3 MB | [Link!](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) |
+| 10 | 3718 | [Smallest Missing Multiple of K](Easy/3718_smallest-missing-multiple-of-k) | 🟢&nbsp;Easy | Java | 1 ms | 45 MB | [Link!](https://leetcode.com/problems/smallest-missing-multiple-of-k) |
 ---
 
 </div>
