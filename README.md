@@ -23,8 +23,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **58**  |
-|Easy   | **44**   |
+|Total  | **59**  |
+|Easy   | **45**   |
 |Medium | **14** |
 |Hard   | **0**   |
 
@@ -37,7 +37,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 | Topic | Value |
 |-------|------:|
 | Array | **37** |
-| Math | **18** |
+| Math | **19** |
 | Sorting | **14** |
 | Hash Table | **13** |
 
@@ -51,7 +51,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 | Language | # |
 |----------|------:|
 | Java | **47** |
-| Python3 | **6** |
+| Python3 | **7** |
 | MySQL | **4** |
 | C++ | **1** |
 
@@ -63,9 +63,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **125.93 ms**  |
-| Memory  | **47.14 MB**   |
-| Latest  | **[162](Medium/0162_find-peak-element)**|
+| Runtime    | **123.83 ms**  |
+| Memory  | **46.68 MB**   |
+| Latest  | **[3986](Easy/3986_number-of-elapsed-seconds-between-two-times)**|
 | Updated    | **2026-08-28** |  
 
 
@@ -138,6 +138,7 @@ Auto-generated using **LeetCode Sync**
 | 56 | 3718 | [Smallest Missing Multiple of K](Easy/3718_smallest-missing-multiple-of-k) | 🟢&nbsp;Easy | Java | 1 ms | 45 MB | [Link!](https://leetcode.com/problems/smallest-missing-multiple-of-k) |
 | 57 | 3731 | [Find Missing Elements](Easy/3731_find-missing-elements) | 🟢&nbsp;Easy | Java | 6 ms | 47.6 MB | [Link!](https://leetcode.com/problems/find-missing-elements) |
 | 58 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 59 | 3986 | [Number of Elapsed Seconds Between Two Times](Easy/3986_number-of-elapsed-seconds-between-two-times) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) |
 ---
 
 </div>
