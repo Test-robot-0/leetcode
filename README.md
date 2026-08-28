@@ -11,7 +11,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 ---
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>
+<code>Array</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>&nbsp;<code>String</code>
 
 <h2> Dashboard </h2>
 
@@ -23,8 +23,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **1**  |
-|Easy   | **0**   |
+|Total  | **2**  |
+|Easy   | **1**   |
 |Medium | **1** |
 |Hard   | **0**   |
 
@@ -39,7 +39,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 | Array | **1** |
 | Stack | **1** |
 | Simulation | **1** |
-
+| String | **1** |
 
 
 </td>
@@ -51,7 +51,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 | Language | # |
 |----------|------:|
 | Python3 | **1** |
-
+| Java | **1** |
 
 
 
@@ -63,9 +63,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **138.50 ms**  |
-| Memory  | **10.20 MB**   |
-| Latest  | **[735](Medium/0735_asteroid-collision)**|
+| Runtime    | **92.33 ms**  |
+| Memory  | **21.07 MB**   |
+| Latest  | **[58](Easy/0058_length-of-last-word)**|
 | Updated    | **2026-08-28** |  
 
 
@@ -80,7 +80,8 @@ Auto-generated using **LeetCode Sync**
 
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
-| 1 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
+| 1 | 0058 | [Length of Last Word](Easy/0058_length-of-last-word) | 🟢&nbsp;Easy | Java | 0 ms | 42.8 MB | [Link!](https://leetcode.com/problems/length-of-last-word) |
+| 2 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
 ---
 
 </div>
