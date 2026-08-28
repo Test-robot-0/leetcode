@@ -11,7 +11,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 ---
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>&nbsp;<code>String</code>
+<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>&nbsp;<code>String</code>&nbsp;<code>Binary Search</code>
 
 <h2> Dashboard </h2>
 
@@ -23,9 +23,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **4**  |
+|Total  | **5**  |
 |Easy   | **3**   |
-|Medium | **1** |
+|Medium | **2** |
 |Hard   | **0**   |
 
 </td>
@@ -36,7 +36,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Topic | Value |
 |-------|------:|
-| Array | **2** |
+| Array | **3** |
 | Math | **2** |
 | Stack | **1** |
 | Simulation | **1** |
@@ -50,7 +50,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
-| Java | **2** |
+| Java | **3** |
 | Python3 | **1** |
 | C++ | **1** |
 
@@ -63,9 +63,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **56.20 ms**  |
-| Memory  | **23.60 MB**   |
-| Latest  | **[9](Easy/0009_palindrome-number)**|
+| Runtime    | **46.83 ms**  |
+| Memory  | **27.70 MB**   |
+| Latest  | **[34](Medium/0034_find-first-and-last-position-of-element-in-sorted-array)**|
 | Updated    | **2026-08-28** |  
 
 
@@ -81,9 +81,10 @@ Auto-generated using **LeetCode Sync**
 | # | Id | Problem |   Difficulty  | Language | Runtime | Memory | Leetcode Link |
 |---|----|---------|---------------|----------|---------|--------|:-------------:|
 | 1 | 0009 | [Palindrome Number](Easy/0009_palindrome-number) | 🟢&nbsp;Easy | C++ | 2 ms | 8.5 MB | [Link!](https://leetcode.com/problems/palindrome-number) |
-| 2 | 0058 | [Length of Last Word](Easy/0058_length-of-last-word) | 🟢&nbsp;Easy | Java | 0 ms | 42.8 MB | [Link!](https://leetcode.com/problems/length-of-last-word) |
-| 3 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
-| 4 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](Easy/2535_difference-between-element-sum-and-digit-sum-of-an-array) | 🟢&nbsp;Easy | Java | 2 ms | 46.3 MB | [Link!](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) |
+| 2 | 0034 | [Find First and Last Position of Element in Sorted Array](Medium/0034_find-first-and-last-position-of-element-in-sorted-array) | 🟡&nbsp;Medium | Java | 0 ms | 48.2 MB | [Link!](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) |
+| 3 | 0058 | [Length of Last Word](Easy/0058_length-of-last-word) | 🟢&nbsp;Easy | Java | 0 ms | 42.8 MB | [Link!](https://leetcode.com/problems/length-of-last-word) |
+| 4 | 0735 | [Asteroid Collision](Medium/0735_asteroid-collision) | 🟡&nbsp;Medium | Python3 | 277 ms | 20.4 MB | [Link!](https://leetcode.com/problems/asteroid-collision) |
+| 5 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](Easy/2535_difference-between-element-sum-and-digit-sum-of-an-array) | 🟢&nbsp;Easy | Java | 2 ms | 46.3 MB | [Link!](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) |
 ---
 
 </div>
