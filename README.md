@@ -23,8 +23,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **75**  |
-|Easy   | **56**   |
+|Total  | **76**  |
+|Easy   | **57**   |
 |Medium | **18** |
 |Hard   | **1**   |
 
@@ -37,7 +37,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 | Topic | Value |
 |-------|------:|
 | Array | **45** |
-| Math | **24** |
+| Math | **25** |
 | Hash Table | **17** |
 | Sorting | **16** |
 
@@ -50,7 +50,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
-| Java | **61** |
+| Java | **62** |
 | Python3 | **7** |
 | MySQL | **6** |
 | C++ | **1** |
@@ -63,9 +63,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **108.88 ms**  |
-| Memory  | **47.37 MB**   |
-| Latest  | **[75](Medium/0075_sort-colors)**|
+| Runtime    | **107.47 ms**  |
+| Memory  | **47.30 MB**   |
+| Latest  | **[1342](Easy/1342_number-of-steps-to-reduce-a-number-to-zero)**|
 | Updated    | **2026-08-28** |  
 
 
@@ -133,28 +133,29 @@ Auto-generated using **LeetCode Sync**
 | 51 | 1295 | [Find Numbers with Even Number of Digits](Easy/1295_find-numbers-with-even-number-of-digits) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) |
 | 52 | 1327 | [List the Products Ordered in a Period](Easy/1327_list-the-products-ordered-in-a-period) | 🟢&nbsp;Easy | MySQL | 1083 ms | 0.0B | [Link!](https://leetcode.com/problems/list-the-products-ordered-in-a-period) |
 | 53 | 1331 | [Rank Transform of an Array](Easy/1331_rank-transform-of-an-array) | 🟢&nbsp;Easy | Java | 33 ms | 77.2 MB | [Link!](https://leetcode.com/problems/rank-transform-of-an-array) |
-| 54 | 1464 | [Maximum Product of Two Elements in an Array](Easy/1464_maximum-product-of-two-elements-in-an-array) | 🟢&nbsp;Easy | Java | 0 ms | 44.3 MB | [Link!](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) |
-| 55 | 1732 | [Find the Highest Altitude](Easy/1732_find-the-highest-altitude) | 🟢&nbsp;Easy | Java | 0 ms | 43.2 MB | [Link!](https://leetcode.com/problems/find-the-highest-altitude) |
-| 56 | 1784 | [Check if Binary String Has at Most One Segment of Ones](Easy/1784_check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢&nbsp;Easy | Java | 0 ms | 42.7 MB | [Link!](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones) |
-| 57 | 1979 | [Find Greatest Common Divisor of Array](Easy/1979_find-greatest-common-divisor-of-array) | 🟢&nbsp;Easy | Java | 0 ms | 44.8 MB | [Link!](https://leetcode.com/problems/find-greatest-common-divisor-of-array) |
-| 58 | 2278 | [Percentage of Letter in String](Easy/2278_percentage-of-letter-in-string) | 🟢&nbsp;Easy | Java | 0 ms | 42.6 MB | [Link!](https://leetcode.com/problems/percentage-of-letter-in-string) |
-| 59 | 2347 | [Best Poker Hand](Easy/2347_best-poker-hand) | 🟢&nbsp;Easy | Java | 0 ms | 43.2 MB | [Link!](https://leetcode.com/problems/best-poker-hand) |
-| 60 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](Easy/2535_difference-between-element-sum-and-digit-sum-of-an-array) | 🟢&nbsp;Easy | Java | 2 ms | 46.3 MB | [Link!](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) |
-| 61 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
-| 62 | 2965 | [Find Missing and Repeated Values](Easy/2965_find-missing-and-repeated-values) | 🟢&nbsp;Easy | Java | 1 ms | 47.5 MB | [Link!](https://leetcode.com/problems/find-missing-and-repeated-values) |
-| 63 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996_smallest-missing-integer-greater-than-sequential-prefix-sum) | 🟢&nbsp;Easy | Java | 1 ms | 43.6 MB | [Link!](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum) |
-| 64 | 3014 | [Minimum Number of Pushes to Type Word I](Easy/3014_minimum-number-of-pushes-to-type-word-i) | 🟢&nbsp;Easy | Java | 0 ms | 43.1 MB | [Link!](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i) |
-| 65 | 3069 | [Distribute Elements Into Two Arrays I](Easy/3069_distribute-elements-into-two-arrays-i) | 🟢&nbsp;Easy | Java | 2 ms | 46.6 MB | [Link!](https://leetcode.com/problems/distribute-elements-into-two-arrays-i) |
-| 66 | 3090 | [Maximum Length Substring With Two Occurrences](Easy/3090_maximum-length-substring-with-two-occurrences) | 🟢&nbsp;Easy | Java | 1 ms | 43.3 MB | [Link!](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences) |
-| 67 | 3345 | [Smallest Divisible Digit Product I](Easy/3345_smallest-divisible-digit-product-i) | 🟢&nbsp;Easy | Java | 1 ms | 42.8 MB | [Link!](https://leetcode.com/problems/smallest-divisible-digit-product-i) |
-| 68 | 3536 | [Maximum Product of Two Digits](Easy/3536_maximum-product-of-two-digits) | 🟢&nbsp;Easy | Java | 1 ms | 43 MB | [Link!](https://leetcode.com/problems/maximum-product-of-two-digits) |
-| 69 | 3622 | [Check Divisibility by Digit Sum and Product](Easy/3622_check-divisibility-by-digit-sum-and-product) | 🟢&nbsp;Easy | Java | 0 ms | 42.4 MB | [Link!](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) |
-| 70 | 3658 | [GCD of Odd and Even Sums](Easy/3658_gcd-of-odd-and-even-sums) | 🟢&nbsp;Easy | Java | 0 ms | 41.9 MB | [Link!](https://leetcode.com/problems/gcd-of-odd-and-even-sums) |
-| 71 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](Medium/3702_longest-subsequence-with-non-zero-bitwise-xor) | 🟡&nbsp;Medium | Java | 2 ms | 133.3 MB | [Link!](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor) |
-| 72 | 3718 | [Smallest Missing Multiple of K](Easy/3718_smallest-missing-multiple-of-k) | 🟢&nbsp;Easy | Java | 1 ms | 45 MB | [Link!](https://leetcode.com/problems/smallest-missing-multiple-of-k) |
-| 73 | 3731 | [Find Missing Elements](Easy/3731_find-missing-elements) | 🟢&nbsp;Easy | Java | 6 ms | 47.6 MB | [Link!](https://leetcode.com/problems/find-missing-elements) |
-| 74 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
-| 75 | 3986 | [Number of Elapsed Seconds Between Two Times](Easy/3986_number-of-elapsed-seconds-between-two-times) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) |
+| 54 | 1342 | [Number of Steps to Reduce a Number to Zero](Easy/1342_number-of-steps-to-reduce-a-number-to-zero) | 🟢&nbsp;Easy | Java | 0 ms | 42.3 MB | [Link!](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) |
+| 55 | 1464 | [Maximum Product of Two Elements in an Array](Easy/1464_maximum-product-of-two-elements-in-an-array) | 🟢&nbsp;Easy | Java | 0 ms | 44.3 MB | [Link!](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) |
+| 56 | 1732 | [Find the Highest Altitude](Easy/1732_find-the-highest-altitude) | 🟢&nbsp;Easy | Java | 0 ms | 43.2 MB | [Link!](https://leetcode.com/problems/find-the-highest-altitude) |
+| 57 | 1784 | [Check if Binary String Has at Most One Segment of Ones](Easy/1784_check-if-binary-string-has-at-most-one-segment-of-ones) | 🟢&nbsp;Easy | Java | 0 ms | 42.7 MB | [Link!](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones) |
+| 58 | 1979 | [Find Greatest Common Divisor of Array](Easy/1979_find-greatest-common-divisor-of-array) | 🟢&nbsp;Easy | Java | 0 ms | 44.8 MB | [Link!](https://leetcode.com/problems/find-greatest-common-divisor-of-array) |
+| 59 | 2278 | [Percentage of Letter in String](Easy/2278_percentage-of-letter-in-string) | 🟢&nbsp;Easy | Java | 0 ms | 42.6 MB | [Link!](https://leetcode.com/problems/percentage-of-letter-in-string) |
+| 60 | 2347 | [Best Poker Hand](Easy/2347_best-poker-hand) | 🟢&nbsp;Easy | Java | 0 ms | 43.2 MB | [Link!](https://leetcode.com/problems/best-poker-hand) |
+| 61 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](Easy/2535_difference-between-element-sum-and-digit-sum-of-an-array) | 🟢&nbsp;Easy | Java | 2 ms | 46.3 MB | [Link!](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) |
+| 62 | 2574 | [Left and Right Sum Differences](Easy/2574_left-and-right-sum-differences) | 🟢&nbsp;Easy | Python3 | 2 ms | 19.4 MB | [Link!](https://leetcode.com/problems/left-and-right-sum-differences) |
+| 63 | 2965 | [Find Missing and Repeated Values](Easy/2965_find-missing-and-repeated-values) | 🟢&nbsp;Easy | Java | 1 ms | 47.5 MB | [Link!](https://leetcode.com/problems/find-missing-and-repeated-values) |
+| 64 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996_smallest-missing-integer-greater-than-sequential-prefix-sum) | 🟢&nbsp;Easy | Java | 1 ms | 43.6 MB | [Link!](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| 65 | 3014 | [Minimum Number of Pushes to Type Word I](Easy/3014_minimum-number-of-pushes-to-type-word-i) | 🟢&nbsp;Easy | Java | 0 ms | 43.1 MB | [Link!](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i) |
+| 66 | 3069 | [Distribute Elements Into Two Arrays I](Easy/3069_distribute-elements-into-two-arrays-i) | 🟢&nbsp;Easy | Java | 2 ms | 46.6 MB | [Link!](https://leetcode.com/problems/distribute-elements-into-two-arrays-i) |
+| 67 | 3090 | [Maximum Length Substring With Two Occurrences](Easy/3090_maximum-length-substring-with-two-occurrences) | 🟢&nbsp;Easy | Java | 1 ms | 43.3 MB | [Link!](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences) |
+| 68 | 3345 | [Smallest Divisible Digit Product I](Easy/3345_smallest-divisible-digit-product-i) | 🟢&nbsp;Easy | Java | 1 ms | 42.8 MB | [Link!](https://leetcode.com/problems/smallest-divisible-digit-product-i) |
+| 69 | 3536 | [Maximum Product of Two Digits](Easy/3536_maximum-product-of-two-digits) | 🟢&nbsp;Easy | Java | 1 ms | 43 MB | [Link!](https://leetcode.com/problems/maximum-product-of-two-digits) |
+| 70 | 3622 | [Check Divisibility by Digit Sum and Product](Easy/3622_check-divisibility-by-digit-sum-and-product) | 🟢&nbsp;Easy | Java | 0 ms | 42.4 MB | [Link!](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) |
+| 71 | 3658 | [GCD of Odd and Even Sums](Easy/3658_gcd-of-odd-and-even-sums) | 🟢&nbsp;Easy | Java | 0 ms | 41.9 MB | [Link!](https://leetcode.com/problems/gcd-of-odd-and-even-sums) |
+| 72 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](Medium/3702_longest-subsequence-with-non-zero-bitwise-xor) | 🟡&nbsp;Medium | Java | 2 ms | 133.3 MB | [Link!](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor) |
+| 73 | 3718 | [Smallest Missing Multiple of K](Easy/3718_smallest-missing-multiple-of-k) | 🟢&nbsp;Easy | Java | 1 ms | 45 MB | [Link!](https://leetcode.com/problems/smallest-missing-multiple-of-k) |
+| 74 | 3731 | [Find Missing Elements](Easy/3731_find-missing-elements) | 🟢&nbsp;Easy | Java | 6 ms | 47.6 MB | [Link!](https://leetcode.com/problems/find-missing-elements) |
+| 75 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 76 | 3986 | [Number of Elapsed Seconds Between Two Times](Easy/3986_number-of-elapsed-seconds-between-two-times) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) |
 ---
 
 </div>
