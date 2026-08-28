@@ -23,9 +23,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **19**  |
+|Total  | **20**  |
 |Easy   | **14**   |
-|Medium | **5** |
+|Medium | **6** |
 |Hard   | **0**   |
 
 </td>
@@ -37,7 +37,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 | Topic | Value |
 |-------|------:|
 | Array | **11** |
-| Math | **10** |
+| Math | **11** |
 | String | **4** |
 | Sorting | **4** |
 
@@ -51,7 +51,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 | Language | # |
 |----------|------:|
 | Java | **13** |
-| Python3 | **4** |
+| Python3 | **5** |
 | MySQL | **1** |
 | C++ | **1** |
 
@@ -63,9 +63,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **58.50 ms**  |
-| Memory  | **36.31 MB**   |
-| Latest  | **[3014](Easy/3014_minimum-number-of-pushes-to-type-word-i)**|
+| Runtime    | **68.86 ms**  |
+| Memory  | **35.50 MB**   |
+| Latest  | **[3751](Medium/3751_total-waviness-of-numbers-in-range-i)**|
 | Updated    | **2026-08-28** |  
 
 
@@ -99,6 +99,7 @@ Auto-generated using **LeetCode Sync**
 | 17 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](Easy/2535_difference-between-element-sum-and-digit-sum-of-an-array) | 🟢&nbsp;Easy | Java | 2 ms | 46.3 MB | [Link!](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) |
 | 18 | 3014 | [Minimum Number of Pushes to Type Word I](Easy/3014_minimum-number-of-pushes-to-type-word-i) | 🟢&nbsp;Easy | Java | 0 ms | 43.1 MB | [Link!](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i) |
 | 19 | 3718 | [Smallest Missing Multiple of K](Easy/3718_smallest-missing-multiple-of-k) | 🟢&nbsp;Easy | Java | 1 ms | 45 MB | [Link!](https://leetcode.com/problems/smallest-missing-multiple-of-k) |
+| 20 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 ---
 
 </div>
