@@ -11,7 +11,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 ---
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>String</code>&nbsp;<code>Sorting</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Hash Table</code>&nbsp;<code>Simulation</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>Bit Manipulation</code>&nbsp;<code>Recursion</code>&nbsp;<code>Stack</code>&nbsp;<code>Divide and Conquer</code>&nbsp;<code>Counting</code>&nbsp;<code>Boyer–Moore Majority Vote Algorithm</code>&nbsp;<code>Database</code>
+<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>String</code>&nbsp;<code>Sorting</code>&nbsp;<code>Simulation</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Hash Table</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>Bit Manipulation</code>&nbsp;<code>Recursion</code>&nbsp;<code>Stack</code>&nbsp;<code>Divide and Conquer</code>&nbsp;<code>Counting</code>&nbsp;<code>Boyer–Moore Majority Vote Algorithm</code>&nbsp;<code>Database</code>
 
 <h2> Dashboard </h2>
 
@@ -23,8 +23,8 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **20**  |
-|Easy   | **14**   |
+|Total  | **21**  |
+|Easy   | **15**   |
 |Medium | **6** |
 |Hard   | **0**   |
 
@@ -36,7 +36,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Topic | Value |
 |-------|------:|
-| Array | **11** |
+| Array | **12** |
 | Math | **11** |
 | String | **4** |
 | Sorting | **4** |
@@ -50,7 +50,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
-| Java | **13** |
+| Java | **14** |
 | Python3 | **5** |
 | MySQL | **1** |
 | C++ | **1** |
@@ -63,9 +63,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **68.86 ms**  |
-| Memory  | **35.50 MB**   |
-| Latest  | **[3751](Medium/3751_total-waviness-of-numbers-in-range-i)**|
+| Runtime    | **65.82 ms**  |
+| Memory  | **36.00 MB**   |
+| Latest  | **[3069](Easy/3069_distribute-elements-into-two-arrays-i)**|
 | Updated    | **2026-08-28** |  
 
 
@@ -98,8 +98,9 @@ Auto-generated using **LeetCode Sync**
 | 16 | 1464 | [Maximum Product of Two Elements in an Array](Easy/1464_maximum-product-of-two-elements-in-an-array) | 🟢&nbsp;Easy | Java | 0 ms | 44.3 MB | [Link!](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) |
 | 17 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](Easy/2535_difference-between-element-sum-and-digit-sum-of-an-array) | 🟢&nbsp;Easy | Java | 2 ms | 46.3 MB | [Link!](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) |
 | 18 | 3014 | [Minimum Number of Pushes to Type Word I](Easy/3014_minimum-number-of-pushes-to-type-word-i) | 🟢&nbsp;Easy | Java | 0 ms | 43.1 MB | [Link!](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i) |
-| 19 | 3718 | [Smallest Missing Multiple of K](Easy/3718_smallest-missing-multiple-of-k) | 🟢&nbsp;Easy | Java | 1 ms | 45 MB | [Link!](https://leetcode.com/problems/smallest-missing-multiple-of-k) |
-| 20 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
+| 19 | 3069 | [Distribute Elements Into Two Arrays I](Easy/3069_distribute-elements-into-two-arrays-i) | 🟢&nbsp;Easy | Java | 2 ms | 46.6 MB | [Link!](https://leetcode.com/problems/distribute-elements-into-two-arrays-i) |
+| 20 | 3718 | [Smallest Missing Multiple of K](Easy/3718_smallest-missing-multiple-of-k) | 🟢&nbsp;Easy | Java | 1 ms | 45 MB | [Link!](https://leetcode.com/problems/smallest-missing-multiple-of-k) |
+| 21 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 ---
 
 </div>
