@@ -65,7 +65,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 |-----------------|-------------------:|
 | Runtime    | **102.48 ms**  |
 | Memory  | **47.96 MB**   |
-| Latest  | **[19](Medium/0019_remove-nth-node-from-end-of-list)**|
+| Latest  | **[58](Easy/0058_length-of-last-word)**|
 | Updated    | **2026-09-07** |  
 
 
