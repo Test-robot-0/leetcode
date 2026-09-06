@@ -33,8 +33,8 @@
 | Metric          | Count                         |
 |-----------------|------------------------------:|
 |Acceptance Rate  |**60.9%**          |
-|Total Submission |**14.3M** |
-|Total Accepted   |**8.7M**   |
+|Total Submission |**14.4M** |
+|Total Accepted   |**8.8M**   |
 
 
 
@@ -85,4 +85,4 @@
 <strong>Follow up:</strong> Could you solve it without converting the integer to a string?
 
 <br>
-<p align="right">Last Sync: 2026-08-28 &nbsp;</p>
+<p align="right">Last Sync: 2026-09-07 &nbsp;</p>
