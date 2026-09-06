@@ -11,7 +11,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 ---
 
 <div align="center">
-<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Hash Table</code>&nbsp;<code>Sorting</code>&nbsp;<code>String</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>Database</code>&nbsp;<code>Bit Manipulation</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Recursion</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>&nbsp;<code>Greedy</code>&nbsp;<code>Matrix</code>
+<code>Array</code>&nbsp;<code>Math</code>&nbsp;<code>Hash Table</code>&nbsp;<code>Sorting</code>&nbsp;<code>String</code>&nbsp;<code>Binary Search</code>&nbsp;<code>Two Pointers</code>&nbsp;<code>Database</code>&nbsp;<code>Bit Manipulation</code>&nbsp;<code>Dynamic Programming</code>&nbsp;<code>Recursion</code>&nbsp;<code>Stack</code>&nbsp;<code>Simulation</code>&nbsp;<code>Prefix Sum</code>&nbsp;<code>Greedy</code>
 
 <h2> Dashboard </h2>
 
@@ -23,9 +23,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric | Value |
 |-------|-------------:|
-|Total  | **87**  |
+|Total  | **88**  |
 |Easy   | **67**   |
-|Medium | **19** |
+|Medium | **20** |
 |Hard   | **1**   |
 
 </td>
@@ -36,7 +36,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Topic | Value |
 |-------|------:|
-| Array | **51** |
+| Array | **52** |
 | Math | **27** |
 | Hash Table | **17** |
 | Sorting | **16** |
@@ -50,7 +50,7 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Language | # |
 |----------|------:|
-| Java | **70** |
+| Java | **71** |
 | MySQL | **8** |
 | Python3 | **7** |
 | C++ | **2** |
@@ -63,9 +63,9 @@ This repository is automatically synchronized using **LeetCode Sync**. View the 
 
 | Metric          | Value              |
 |-----------------|-------------------:|
-| Runtime    | **105.92 ms**  |
-| Memory  | **47.10 MB**   |
-| Latest  | **[203](Easy/0203_remove-linked-list-elements)**|
+| Runtime    | **104.78 ms**  |
+| Memory  | **48.07 MB**   |
+| Latest  | **[3904](Medium/3904_smallest-stable-index-ii)**|
 | Updated    | **2026-09-07** |  
 
 
@@ -166,7 +166,8 @@ Auto-generated using **LeetCode Sync**
 | 84 | 3751 | [Total Waviness of Numbers in Range I](Medium/3751_total-waviness-of-numbers-in-range-i) | 🟡&nbsp;Medium | Python3 | 276 ms | 19.2 MB | [Link!](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) |
 | 85 | 3875 | [Construct Uniform Parity Array I](Easy/3875_construct-uniform-parity-array-i) | 🟢&nbsp;Easy | Java | 0 ms | 44.9 MB | [Link!](https://leetcode.com/problems/construct-uniform-parity-array-i) |
 | 86 | 3903 | [Smallest Stable Index I](Easy/3903_smallest-stable-index-i) | 🟢&nbsp;Easy | Java | 1 ms | 46.4 MB | [Link!](https://leetcode.com/problems/smallest-stable-index-i) |
-| 87 | 3986 | [Number of Elapsed Seconds Between Two Times](Easy/3986_number-of-elapsed-seconds-between-two-times) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) |
+| 87 | 3904 | [Smallest Stable Index II](Medium/3904_smallest-stable-index-ii) | 🟡&nbsp;Medium | Java | 4 ms | 133.4 MB | [Link!](https://leetcode.com/problems/smallest-stable-index-ii) |
+| 88 | 3986 | [Number of Elapsed Seconds Between Two Times](Easy/3986_number-of-elapsed-seconds-between-two-times) | 🟢&nbsp;Easy | Python3 | 0 ms | 19.2 MB | [Link!](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) |
 ---
 
 </div>
