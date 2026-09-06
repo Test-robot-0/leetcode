@@ -33,8 +33,8 @@
 | Metric          | Count                         |
 |-----------------|------------------------------:|
 |Acceptance Rate  |**66.5%**          |
-|Total Submission |**8.9M** |
-|Total Accepted   |**5.9M**   |
+|Total Submission |**9M** |
+|Total Accepted   |**6M**   |
 
 
 
@@ -73,4 +73,4 @@
 <strong>Follow-up:</strong> Could you solve the problem in linear time and in <code>O(1)</code> space?
 
 <br>
-<p align="right">Last Sync: 2026-08-28 &nbsp;</p>
+<p align="right">Last Sync: 2026-09-07 &nbsp;</p>
